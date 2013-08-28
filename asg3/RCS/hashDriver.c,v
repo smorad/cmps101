@@ -1,0 +1,1166 @@
+head	1.53;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.53
+date	2013.05.19.20.19.24;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.05.18.18.42.22;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.05.18.18.41.38;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.05.18.18.40.08;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.05.15.04.29.45;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.05.15.04.24.01;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.05.15.04.23.46;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.05.15.04.23.16;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.05.15.04.20.52;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.05.15.04.19.28;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.05.15.04.17.56;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.05.15.04.16.15;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.05.15.04.15.35;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.05.15.04.15.02;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.05.15.04.12.57;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.05.15.04.12.31;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.05.15.04.12.09;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.05.15.04.11.45;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.05.14.04.51.48;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.05.14.01.13.21;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.05.13.23.15.38;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.05.13.23.12.35;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.05.13.22.58.34;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.05.13.22.45.58;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.05.13.22.44.51;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.05.13.20.02.59;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.05.13.20.02.39;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.13.19.56.53;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.13.19.46.36;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.13.19.44.44;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.13.19.44.22;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.13.19.44.05;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.13.02.55.44;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.13.02.55.14;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.13.02.54.59;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.13.02.44.48;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.13.02.43.52;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.13.02.34.46;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.13.02.31.13;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.13.02.30.59;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.13.02.26.49;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.13.02.17.29;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.13.01.35.48;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.13.01.27.18;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.13.01.25.17;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.13.01.15.13;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.13.01.11.49;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.13.01.04.18;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.13.00.54.08;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.13.00.53.29;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.12.19.12.50;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.12.17.12.46;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.12.17.02.32;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.53
+log
+@-
+@
+text
+@//smorad@@ucsc.edu
+#include <stdio.h>
+#include <stdlib.h>
+#include "hashTable.h"
+#include "bookCountList.h"
+#include <time.h>
+int main(){
+	srand(time(NULL));
+	int A, B, C,D,E,F,G,J,K,L,M,N,O,P;
+	A=rand();
+	B=rand();
+	C=rand();
+	D=rand();
+	E=rand();
+	F=rand();
+	G=rand();
+	J=rand();
+	K=rand();
+	L=rand();
+	M=rand();
+	N=rand();
+	O=rand();
+	P=rand();
+	printf("A is: %d\n", A);
+	printf("B is: %d\n", B);
+	printf("C is: %d\n", C);
+	printf("D is: %d\n", D);
+	printf("E is: %d\n", E);
+	printf("F is: %d\n", F);
+	printf("G is: %d\n", G);
+	printf("J is: %d\n", J);
+	printf("K is: %d\n", K);
+	printf("L is: %d\n", L);
+	printf("M is: %d\n", M);
+	printf("N is: %d\n", N);
+	printf("O is: %d\n", O);
+	printf("P is: %d\n", P);
+	BookRef a = newBook(A);
+	BookRef b = newBook(B);
+	BookRef c = newBook(C);
+	BookRef d = newBook(D);
+	BookRef e = newBook(E);
+	BookRef f = newBook(F);
+	BookRef g = newBook(G);
+	BookRef j = newBook(J);
+	BookRef k = newBook(K);
+	BookRef l = newBook(L);
+	BookRef m = newBook(M);
+	BookRef n = newBook(N);
+	BookRef o = newBook(O);
+	BookRef p = newBook(P);
+	insertionSort(getBookList(a), 1);
+	insertionSort(getBookList(b), 2);
+	insertionSort(getBookList(c), 3);
+	insertionSort(getBookList(d), 4);
+	insertionSort(getBookList(e), 5);
+	insertionSort(getBookList(f), 6);
+	insertionSort(getBookList(g), 7);
+	insertionSort(getBookList(j), 8);
+	insertionSort(getBookList(k), 9);
+	insertionSort(getBookList(l), 10);
+	insertionSort(getBookList(m), 11);
+	insertionSort(getBookList(n), 12);
+	insertionSort(getBookList(o), 13);
+	insertionSort(getBookList(p), 14);
+	HashRef h = createHashSet();
+
+	insert(h,A,a);
+	insert(h,B,b);
+	insert(h,C,c);
+	insert(h,D,d);
+	insert(h,E,e);
+	insert(h,F,f);
+	insert(h,G,g);
+	insert(h,J,j);
+	insert(h,K,k);
+	insert(h,L,l);
+	insert(h,M,m);
+	insert(h,N,n);
+	insert(h,O,o);
+	insert(h,P,p);
+
+	debugHash(h);		
+	printf("get A: %lu\n", getId(getElement(h,A)));
+	printf("get B: %lu\n", getId(getElement(h,B)));
+	printf("get C: %lu\n", getId(getElement(h,C)));
+	printf("get D: %lu\n", getId(getElement(h,D)));
+	printf("get E: %lu\n", getId(getElement(h,E)));
+	printf("get F: %lu\n", getId(getElement(h,F)));
+	printf("get G: %lu\n", getId(getElement(h,G)));
+	printf("get J: %lu\n", getId(getElement(h,J)));
+	printf("get K: %lu\n", getId(getElement(h,K)));
+	printf("get L: %lu\n", getId(getElement(h,L)));
+	printf("get M: %lu\n", getId(getElement(h,M)));
+	printf("get N: %lu\n", getId(getElement(h,N)));
+	printf("get O: %lu\n", getId(getElement(h,O)));
+	printf("get P: %lu\n", getId(getElement(h,P)));
+	destroy(h);
+}
+
+@
+
+
+1.52
+log
+@-
+@
+text
+@d1 1
+@
+
+
+1.51
+log
+@-
+@
+text
+@d96 1
+a96 1
+
+@
+
+
+1.50
+log
+@-
+@
+text
+@d23 14
+a36 14
+	printf("A is: %d", A);
+	printf("B is: %d", B);
+	printf("C is: %d", C);
+	printf("D is: %d", D);
+	printf("E is: %d", E);
+	printf("F is: %d", F);
+	printf("G is: %d", G);
+	printf("J is: %d", J);
+	printf("K is: %d", K);
+	printf("L is: %d", L);
+	printf("M is: %d", M);
+	printf("N is: %d", N);
+	printf("O is: %d", O);
+	printf("P is: %d", P);
+@
+
+
+1.49
+log
+@-
+@
+text
+@d23 14
+@
+
+
+1.48
+log
+@-
+@
+text
+@d76 1
+a76 1
+	//printf("get J: %lu\n", getId(getElement(h,J)));
+d80 1
+a80 1
+	//printf("get N: %lu\n", getId(getElement(h,N)));
+@
+
+
+1.47
+log
+@-
+@
+text
+@d5 1
+a5 1
+
+@
+
+
+1.46
+log
+@-
+@
+text
+@d7 1
+a68 1
+	getId(getElement(h,J));
+@
+
+
+1.45
+log
+@-
+@
+text
+@d68 1
+a68 1
+
+@
+
+
+1.44
+log
+@-
+@
+text
+@d80 1
+a80 1
+	printf("get N: %lu\n", getId(getElement(h,N)));
+@
+
+
+1.43
+log
+@-
+@
+text
+@a67 2
+	BookRef book = getElement(h, A);
+	printf("%lu\n",getId(book));
+d76 1
+a76 1
+	printf("get J: %lu\n", getId(getElement(h,J)));
+@
+
+
+1.42
+log
+@-
+@
+text
+@d56 10
+a65 10
+	insert(h,rand(),e);
+	insert(h,rand(),f);
+	insert(h,rand(),g);
+	insert(h,rand(),j);
+	insert(h,rand(),k);
+	insert(h,rand(),l);
+	insert(h,rand(),m);
+	insert(h,rand(),n);
+	insert(h,rand(),o);
+	insert(h,rand(),p);
+@
+
+
+1.41
+log
+@-
+@
+text
+@d52 4
+a55 4
+	insert(h,rand(),a);
+	insert(h,rand(),b);
+	insert(h,rand(),c);
+	insert(h,rand(),d);
+@
+
+
+1.40
+log
+@-
+@
+text
+@d36 1
+a36 1
+/*	insertionSort(getBookList(a), 1);
+d49 1
+a49 1
+	insertionSort(getBookList(p), 14);*/
+@
+
+
+1.39
+log
+@-
+@
+text
+@d36 1
+a36 1
+	insertionSort(getBookList(a), 1);
+d49 1
+a49 1
+	insertionSort(getBookList(p), 14);
+@
+
+
+1.38
+log
+@-
+@
+text
+@d71 1
+a71 1
+/*	printf("get A: %lu\n", getId(getElement(h,A)));
+d84 1
+a84 1
+*/
+@
+
+
+1.37
+log
+@-
+@
+text
+@d69 1
+a69 1
+	printf(getId(book));
+@
+
+
+1.36
+log
+@-
+@
+text
+@d69 1
+a69 1
+	getId(book);
+@
+
+
+1.35
+log
+@-
+@
+text
+@d68 2
+a69 1
+
+@
+
+
+1.34
+log
+@-
+@
+text
+@d84 1
+@
+
+
+1.33
+log
+@-
+@
+text
+@d70 1
+a70 1
+	printf("get A: %lu\n", getId(getElement(h,A)));
+d83 1
+@
+
+
+1.32
+log
+@-
+@
+text
+@d37 13
+a49 13
+	insertionSort(b, 2);
+	insertionSort(c, 3);
+	insertionSort(d, 4);
+	insertionSort(e, 5);
+	insertionSort(f, 6);
+	insertionSort(g, 7);
+	insertionSort(j, 8);
+	insertionSort(k, 9);
+	insertionSort(l, 10);
+	insertionSort(m, 11);
+	insertionSort(n, 12);
+	insertionSort(o, 13);
+	insertionSort(p, 14);
+@
+
+
+1.31
+log
+@-
+@
+text
+@d36 1
+a36 1
+	insertionSort(a, 1);
+@
+
+
+1.30
+log
+@-
+@
+text
+@d22 14
+a35 14
+	ListRef a = newList();
+	ListRef b = newList();
+	ListRef c = newList();
+	ListRef d = newList();
+	ListRef e = newList();
+	ListRef f = newList();
+	ListRef g = newList();
+	ListRef j = newList();
+	ListRef k = newList();
+	ListRef l = newList();
+	ListRef m = newList();
+	ListRef n = newList();
+	ListRef o = newList();
+	ListRef p = newList();
+@
+
+
+1.29
+log
+@-
+@
+text
+@d22 14
+a35 14
+	ListRef a = newList(A);
+	ListRef b = newList(B);
+	ListRef c = newList(C);
+	ListRef d = newList(D);
+	ListRef e = newList(E);
+	ListRef f = newList(F);
+	ListRef g = newList(G);
+	ListRef j = newList(J);
+	ListRef k = newList(K);
+	ListRef l = newList(L);
+	ListRef m = newList(M);
+	ListRef n = newList(N);
+	ListRef o = newList(O);
+	ListRef p = newList(P);
+@
+
+
+1.28
+log
+@-
+@
+text
+@d70 13
+a82 13
+	printf("get A: %lu\n", getKey(getElement(h,A)));
+	printf("get B: %lu\n", getKey(getElement(h,B)));
+	printf("get C: %lu\n", getKey(getElement(h,C)));
+	printf("get D: %lu\n", getKey(getElement(h,D)));
+	printf("get E: %lu\n", getKey(getElement(h,E)));
+	printf("get F: %lu\n", getKey(getElement(h,F)));
+	printf("get G: %lu\n", getKey(getElement(h,G)));
+	printf("get J: %lu\n", getKey(getElement(h,J)));
+	printf("get K: %lu\n", getKey(getElement(h,K)));
+	printf("get L: %lu\n", getKey(getElement(h,L)));
+	printf("get M: %lu\n", getKey(getElement(h,M)));
+	printf("get N: %lu\n", getKey(getElement(h,N)));
+	printf("get O: %lu\n", getKey(getElement(h,O)));
+@
+
+
+1.27
+log
+@-
+@
+text
+@a82 2
+
+	debugHash(h);
+@
+
+
+1.26
+log
+@-
+@
+text
+@d83 2
+@
+
+
+1.25
+log
+@-
+@
+text
+@d78 5
+a82 5
+	//printf("get K: %lu\n", getKey(getElement(h,K)));
+	//printf("get L: %lu\n", getKey(getElement(h,L)));
+	//printf("get M: %lu\n", getKey(getElement(h,M)));
+	//printf("get N: %lu\n", getKey(getElement(h,N)));
+	//printf("get O: %lu\n", getKey(getElement(h,O)));
+@
+
+
+1.24
+log
+@-
+@
+text
+@d82 1
+a82 1
+	printf("get O: %lu\n", getKey(getElement(h,O)));
+@
+
+
+1.23
+log
+@-
+@
+text
+@d78 1
+a78 1
+	printf("get K: %lu\n", getKey(getElement(h,K)));
+@
+
+
+1.22
+log
+@-
+@
+text
+@d80 2
+a81 2
+	printf("get M: %lu\n", getKey(getElement(h,M)));
+	printf("get N: %lu\n", getKey(getElement(h,N)));
+@
+
+
+1.21
+log
+@-
+@
+text
+@d79 1
+a79 1
+	printf("get L: %lu\n", getKey(getElement(h,L)));
+@
+
+
+1.20
+log
+@-
+@
+text
+@d15 1
+@
+
+
+1.19
+log
+@-
+@
+text
+@d78 1
+a78 1
+	//printf("get L: %lu\n", getKey(getElement(h,L)));
+@
+
+
+1.18
+log
+@-
+@
+text
+@d78 1
+a78 1
+	printf("get L: %lu\n", getKey(getElement(h,L)));
+@
+
+
+1.17
+log
+@-
+@
+text
+@d69 13
+a81 13
+	printf("get A: %lu ", getKey(getElement(h,A)));
+	printf("get B: %lu ", getKey(getElement(h,B)));
+	printf("get C: %lu ", getKey(getElement(h,C)));
+	printf("get D: %lu ", getKey(getElement(h,D)));
+	printf("get E: %lu ", getKey(getElement(h,E)));
+	printf("get F: %lu ", getKey(getElement(h,F)));
+	printf("get G: %lu ", getKey(getElement(h,G)));
+	printf("get J: %lu ", getKey(getElement(h,J)));
+	printf("get K: %lu ", getKey(getElement(h,K)));
+	printf("get L: %lu ", getKey(getElement(h,L)));
+	printf("get M: %lu ", getKey(getElement(h,M)));
+	printf("get N: %lu ", getKey(getElement(h,N)));
+	printf("get O: %lu ", getKey(getElement(h,O)));
+@
+
+
+1.16
+log
+@-
+@
+text
+@d69 13
+a81 13
+	printf("get A: %lu", getKey(getElement(h,A)));
+	printf("get B: %lu", getKey(getElement(h,B)));
+	printf("get C: %lu", getKey(getElement(h,C)));
+	printf("get D: %lu", getKey(getElement(h,D)));
+	printf("get E: %lu", getKey(getElement(h,E)));
+	printf("get F: %lu", getKey(getElement(h,F)));
+	printf("get G: %lu", getKey(getElement(h,G)));
+	printf("get J: %lu", getKey(getElement(h,J)));
+	printf("get K: %lu", getKey(getElement(h,K)));
+	printf("get L: %lu", getKey(getElement(h,L)));
+	printf("get M: %lu", getKey(getElement(h,M)));
+	printf("get N: %lu", getKey(getElement(h,N)));
+	printf("get O: %lu", getKey(getElement(h,O)));
+@
+
+
+1.15
+log
+@-
+@
+text
+@d66 16
+a81 7
+	debugHash(h);	
+	for(int i=0;i<25; i++){
+		if(getElement(h,i)!=NULL)
+			printf("Retrieve key: %d  ,  %lu\n",i, getKey(getElement(h,i)));
+		else 
+			printf("Failed to retrieve key: %d\n", i);	
+	}
+@
+
+
+1.14
+log
+@-
+@
+text
+@d71 1
+a71 1
+			printf("Failed to retrieve key: %d", i);	
+@
+
+
+1.13
+log
+@-
+@
+text
+@d69 3
+a71 1
+			printf("Retrieve key: %d  ,  %lu\n",i, getKey(getElement(h,i)));	
+@
+
+
+1.12
+log
+@-
+@
+text
+@d69 1
+a69 1
+			printf("Retrieve key: %d  ,  %lu\n",i, getFirst(getElement(h,i)));	
+@
+
+
+1.11
+log
+@-
+@
+text
+@d7 28
+a34 14
+	ListRef a = newList();
+	ListRef b = newList();
+	ListRef c = newList();
+	ListRef d = newList();
+	ListRef e = newList();
+	ListRef f = newList();
+	ListRef g = newList();
+	ListRef j = newList();
+	ListRef k = newList();
+	ListRef l = newList();
+	ListRef m = newList();
+	ListRef n = newList();
+	ListRef o = newList();
+	ListRef p = newList();
+@
+
+
+1.10
+log
+@-
+@
+text
+@d14 7
+d28 7
+d44 7
+@
+
+
+1.9
+log
+@-
+@
+text
+@d32 1
+a32 1
+	for(int i=0;i<25; i++)
+d34 2
+a35 1
+			printf("%lu\n", getFirst(getElement(h,i)));	
+@
+
+
+1.8
+log
+@-
+@
+text
+@d7 14
+a20 12
+	ListRef l = newList();
+	insertionSort(l, 5);
+	insertionSort(l, 6);
+	insertionSort(l, 7);
+	ListRef j = newList();
+	insertionSort(j, 1);
+	insertionSort(j, 2);
+	insertionSort(j, 3);
+	ListRef k = newList();
+	insertionSort(k, 8);
+	insertionSort(k, 9);
+	insertionSort(k, 10);
+a21 3
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,2, k);
+d23 8
+a30 30
+	insert(h,0, l);
+	insert(h,25, l);
+	insert(h,13, l);
+	insert(h,1000, l);
+	insert(h,17, l);
+	insert(h,4, l);
+	insert(h,2, j);
+	insert(h,9, l);
+	insert(h,85, j);
+	insert(h,2500, l);
+	insert(h,1391, j);
+	insert(h,401, l);
+	insert(h,502, j);
+	insert(h,608, l);
+	insert(h,1024, j);
+	insert(h,4, k);
+	insert(h,16, k);
+	insert(h,14, k);
+	insert(h,24, k);
+	insert(h,56, k);
+	insert(h,96, j);
+	insert(h,74, k);
+	insert(h,91, j);
+	insert(h,55, k);
+	insert(h,109, j);
+	insert(h,103, k);
+	insert(h,209, j);
+	insert(h,293, k);
+	insert(h,223, j);
+	insert(h,1888, k);
+@
+
+
+1.7
+log
+@-
+@
+text
+@d56 2
+a57 1
+		printf("%lu\n", getFirst(getElement(h,i)));	
+@
+
+
+1.6
+log
+@-
+@
+text
+@d55 2
+a56 1
+	
+@
+
+
+1.5
+log
+@-
+@
+text
+@d25 29
+a53 29
+	insert(h,0, l);
+	insert(h,0, l);
+	insert(h,0, l);
+	insert(h,0, l);
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,0, l);
+	insert(h,1, j);
+	insert(h,2, k);
+	insert(h,2, k);
+	insert(h,2, k);
+	insert(h,2, k);
+	insert(h,2, k);
+	insert(h,1, j);
+	insert(h,2, k);
+	insert(h,1, j);
+	insert(h,2, k);
+	insert(h,1, j);
+	insert(h,2, k);
+	insert(h,1, j);
+	insert(h,2, k);
+	insert(h,1, j);
+	insert(h,2, k);
+@
+
+
+1.4
+log
+@-
+@
+text
+@d27 21
+@
+
+
+1.3
+log
+@-
+@
+text
+@d23 10
+@
+
+
+1.2
+log
+@-
+@
+text
+@d4 1
+a4 1
+#include "list.h"
+d19 1
+a19 1
+	HashRef h = createHashRef();
+d23 1
+a23 1
+	
+@
+
+
+1.1
+log
+@-
+@
+text
+@d20 3
+a22 3
+	insert(h, l);
+	insert(h, j);
+	insert(h, k);
+@

@@ -1,0 +1,2221 @@
+head	1.119;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.119
+date	2013.05.19.20.19.24;	author -;	state -;
+branches;
+next	1.118;
+
+1.118
+date	2013.05.19.19.43.26;	author -;	state -;
+branches;
+next	1.117;
+
+1.117
+date	2013.05.18.19.43.51;	author -;	state -;
+branches;
+next	1.116;
+
+1.116
+date	2013.05.18.19.43.29;	author -;	state -;
+branches;
+next	1.115;
+
+1.115
+date	2013.05.18.19.42.57;	author -;	state -;
+branches;
+next	1.114;
+
+1.114
+date	2013.05.18.19.41.11;	author -;	state -;
+branches;
+next	1.113;
+
+1.113
+date	2013.05.18.19.39.56;	author -;	state -;
+branches;
+next	1.112;
+
+1.112
+date	2013.05.18.19.39.27;	author -;	state -;
+branches;
+next	1.111;
+
+1.111
+date	2013.05.18.19.39.04;	author -;	state -;
+branches;
+next	1.110;
+
+1.110
+date	2013.05.18.19.38.26;	author -;	state -;
+branches;
+next	1.109;
+
+1.109
+date	2013.05.18.19.37.07;	author -;	state -;
+branches;
+next	1.108;
+
+1.108
+date	2013.05.18.19.34.50;	author -;	state -;
+branches;
+next	1.107;
+
+1.107
+date	2013.05.18.19.34.21;	author -;	state -;
+branches;
+next	1.106;
+
+1.106
+date	2013.05.18.19.33.15;	author -;	state -;
+branches;
+next	1.105;
+
+1.105
+date	2013.05.18.19.32.56;	author -;	state -;
+branches;
+next	1.104;
+
+1.104
+date	2013.05.18.19.32.28;	author -;	state -;
+branches;
+next	1.103;
+
+1.103
+date	2013.05.18.19.31.51;	author -;	state -;
+branches;
+next	1.102;
+
+1.102
+date	2013.05.15.04.30.02;	author -;	state -;
+branches;
+next	1.101;
+
+1.101
+date	2013.05.15.04.28.36;	author -;	state -;
+branches;
+next	1.100;
+
+1.100
+date	2013.05.15.04.26.31;	author -;	state -;
+branches;
+next	1.99;
+
+1.99
+date	2013.05.14.05.07.30;	author -;	state -;
+branches;
+next	1.98;
+
+1.98
+date	2013.05.14.04.58.31;	author -;	state -;
+branches;
+next	1.97;
+
+1.97
+date	2013.05.14.04.56.50;	author -;	state -;
+branches;
+next	1.96;
+
+1.96
+date	2013.05.14.04.56.35;	author -;	state -;
+branches;
+next	1.95;
+
+1.95
+date	2013.05.14.04.56.13;	author -;	state -;
+branches;
+next	1.94;
+
+1.94
+date	2013.05.14.04.55.07;	author -;	state -;
+branches;
+next	1.93;
+
+1.93
+date	2013.05.14.04.53.40;	author -;	state -;
+branches;
+next	1.92;
+
+1.92
+date	2013.05.14.04.53.10;	author -;	state -;
+branches;
+next	1.91;
+
+1.91
+date	2013.05.14.04.51.48;	author -;	state -;
+branches;
+next	1.90;
+
+1.90
+date	2013.05.14.00.26.19;	author -;	state -;
+branches;
+next	1.89;
+
+1.89
+date	2013.05.14.00.19.13;	author -;	state -;
+branches;
+next	1.88;
+
+1.88
+date	2013.05.14.00.17.42;	author -;	state -;
+branches;
+next	1.87;
+
+1.87
+date	2013.05.14.00.17.11;	author -;	state -;
+branches;
+next	1.86;
+
+1.86
+date	2013.05.14.00.16.30;	author -;	state -;
+branches;
+next	1.85;
+
+1.85
+date	2013.05.14.00.15.43;	author -;	state -;
+branches;
+next	1.84;
+
+1.84
+date	2013.05.14.00.15.24;	author -;	state -;
+branches;
+next	1.83;
+
+1.83
+date	2013.05.14.00.13.17;	author -;	state -;
+branches;
+next	1.82;
+
+1.82
+date	2013.05.13.23.55.25;	author -;	state -;
+branches;
+next	1.81;
+
+1.81
+date	2013.05.13.23.12.35;	author -;	state -;
+branches;
+next	1.80;
+
+1.80
+date	2013.05.13.23.08.59;	author -;	state -;
+branches;
+next	1.79;
+
+1.79
+date	2013.05.13.22.58.34;	author -;	state -;
+branches;
+next	1.78;
+
+1.78
+date	2013.05.13.22.44.51;	author -;	state -;
+branches;
+next	1.77;
+
+1.77
+date	2013.05.13.22.38.23;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2013.05.13.22.37.59;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2013.05.13.22.37.38;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2013.05.13.22.30.54;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2013.05.13.22.16.36;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2013.05.13.22.07.22;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2013.05.13.22.05.39;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2013.05.13.20.35.33;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2013.05.13.20.28.08;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2013.05.13.20.27.36;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2013.05.13.20.26.20;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2013.05.13.20.24.57;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.05.13.20.22.04;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.05.13.20.21.49;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.05.13.20.21.15;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.05.13.20.20.42;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.05.13.20.18.25;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.05.13.20.17.00;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.05.13.20.15.38;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.05.13.20.11.34;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.05.13.20.11.10;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.05.13.20.04.18;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.05.13.20.03.40;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.05.13.19.56.53;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.05.13.19.44.05;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.05.13.19.43.22;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.05.13.19.42.54;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.05.13.19.41.01;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.05.13.19.39.56;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.05.13.19.39.12;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.05.13.03.05.46;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.05.13.03.04.37;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.05.13.03.01.45;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.05.13.03.00.03;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.05.13.02.58.53;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.05.13.02.58.26;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.05.13.02.57.26;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.05.13.02.53.13;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.05.13.02.50.18;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.05.13.02.43.09;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.05.13.02.38.48;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.05.13.02.30.59;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.05.13.02.28.40;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.05.13.02.26.49;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.05.13.02.23.19;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.05.13.02.22.21;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.05.13.02.20.45;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.05.13.02.19.54;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.05.13.01.43.17;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.05.13.01.40.52;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.05.13.01.38.02;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.13.01.37.18;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.13.01.37.06;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.13.01.36.38;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.13.01.36.25;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.13.01.30.54;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.13.01.29.05;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.13.01.28.14;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.13.01.27.59;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.13.01.06.53;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.13.01.06.09;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.13.00.55.58;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.13.00.51.10;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.13.00.49.11;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.13.00.48.36;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.13.00.45.58;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.12.20.39.50;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.12.19.05.24;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.12.17.25.52;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.12.17.20.15;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.12.17.20.05;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.12.17.17.43;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.12.17.15.08;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.12.17.14.33;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.12.17.13.52;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.12.17.13.27;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.12.17.12.46;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.119
+log
+@-
+@
+text
+@//smorad@@ucsc.edu
+#include <stdio.h>
+#include <stdlib.h>
+#include "bookCountList.h"
+/*Book is wrapper for bookList*/
+typedef struct book{
+	long id;
+	ListRef bookList;
+} *BookRef;
+typedef struct HashSet {
+	int size;
+	int weight;
+	BookRef *set;
+} *HashRef;
+
+HashRef createHashSet(){
+	HashRef h = malloc(sizeof(struct HashSet));
+	h->set = calloc (2, sizeof (BookRef));
+	h->size=2;
+	h->weight=0;
+	return h;	
+}
+
+BookRef newBook(long id){
+	BookRef b = malloc(sizeof(struct book));
+	b->bookList = newList();
+	b->id = id;
+	return b;	
+}
+ListRef getBookList(BookRef b){
+	return b->bookList;
+}
+long getId(BookRef b){
+	return b->id;
+}
+int hash(HashRef h, long k){
+	return k%h->size;
+}
+void doubleSize(HashRef h){
+	int newSize = 2*h->size-1;
+	int oldSize = h->size;
+	h->size = newSize;
+	BookRef *b = calloc(newSize, sizeof(BookRef));
+	for(int i=0; i<oldSize; i++){
+		if(h->set[i]==NULL) continue;
+		int index = hash(h, getId(h->set[i]));
+		while(b[index]!=NULL){
+			index++;
+		}	
+		b[index] = h->set[i];
+		
+	}
+	free(h->set);
+	h->set = b;
+}
+BookRef insert(HashRef h, long k, BookRef b){ 
+	if(b==NULL) b = newBook(k);
+	if(h->weight * 2 >= h->size)
+		doubleSize(h);	
+	int index = hash(h,k);
+	while(true){
+		if(h->set[index]==NULL) break;
+		++index;
+		index = index%(h->size);
+	}
+	h->set[index] = b;
+	++h->weight;
+	return b;
+}
+
+BookRef getElement(HashRef h, long k){
+	int count=0;
+	int index = hash(h,k);
+	while(true){
+		if(h->set[index]!=NULL && getId(h->set[index]) == k)
+			return h->set[index];
+		++index;
+		++count;
+		index = index%(h->size);
+		if(count>2*h->size) break;
+	}
+	return NULL;
+}
+
+
+
+void debugHash(HashRef h){
+	for(int i=0; i<h->size; i++)
+		if(h->set[i]==NULL)
+			printf("[%-22d] : nil\n", i);
+		else{
+			printf("[%-10d: %-10lu] : ",i,getId(h->set[i]));
+			printList(h->set[i]->bookList);
+	}
+}
+
+/*Returns if specified slot is empty*/
+int hashIsEmpty(HashRef h, int key){
+	int  i = h->set[hash(h,key)]==NULL;
+	return i;
+}
+
+/*Frees hash and all associated data members from memory*/
+void destroy(HashRef h){
+	for(int i=0; i<h->size; i++){
+		if(h->set[i]!=NULL){
+			if(h->set[i]->bookList !=NULL){
+				makeEmpty(h->set[i]->bookList);
+				freeList(h->set[i]->bookList);
+			}
+		free(h->set[i]);
+		}
+	}
+	free(h->set);
+	free(h);
+}
+@
+
+
+1.118
+log
+@-
+@
+text
+@d1 1
+@
+
+
+1.117
+log
+@-
+@
+text
+@d4 1
+a4 1
+
+a38 1
+	//int hasLooped = 0;
+a41 2
+	//printf("size is now: %d\n", h->size);
+	//ListRef *l = calloc(newSize, sizeof(ListRef));
+d55 1
+a55 1
+BookRef insert(HashRef h, long k, BookRef b){  //NEED TO MODULO INDEX AT END OF HASH TABLE
+a59 1
+	//printf("key %lu mod %d is at index %d\n",k, h->size, index);
+a69 4
+void update(HashRef h, ListRef l);
+
+void removeElement(HashRef h, ListRef l);
+
+a72 1
+	//printf("index: %d\n", index);
+a83 12
+int getPopular(HashRef h, long k){
+	//BookRef *array = getElement(h,k);
+	BookRef iter = getElement(h,k);
+	int max = -1;
+	BookRef maxIndex = NULL;
+	while(iter!=NULL){
+		if(getCount(iter->bookList) > max)
+			max=getCount(iter->bookList);
+			maxIndex = iter;
+	} 
+	return maxIndex->id;
+}
+d96 1
+d102 1
+@
+
+
+1.116
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%-10d: %-10lu]: ",i,getId(h->set[i]));
+@
+
+
+1.115
+log
+@-
+@
+text
+@d110 1
+a110 1
+			printf("[%-20d] : nil\n", i);
+@
+
+
+1.114
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("%-20s","[%d] : nil\n", i);
+d112 1
+a112 1
+			printf("%-20s","[%d: %lu]: ",i,getId(h->set[i]));
+@
+
+
+1.113
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%-20d] : nil\n", i);
+d112 1
+a112 1
+			printf("[%-5d: %-15lu]: ",i,getId(h->set[i]));
+@
+
+
+1.112
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%-20d: %lu]: ",i,getId(h->set[i]));
+@
+
+
+1.111
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%-5d: %-15lu]: ",i,getId(h->set[i]));
+@
+
+
+1.110
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%d: %-20lu\t]: ",i,getId(h->set[i]));
+@
+
+
+1.109
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d:\t\t] : nil\n", i);
+d112 1
+a112 1
+			printf("[%d: %lu\t]: ",i,getId(h->set[i]));
+@
+
+
+1.108
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d:\t] : nil\n", i);
+d112 1
+a112 1
+			printf("[%d: %lu]: ",i,getId(h->set[i]));
+@
+
+
+1.107
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d: %lu] : nil\n", i,0);
+@
+
+
+1.106
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d]\t\t : nil\n", i);
+d112 1
+a112 1
+			printf("[%d: %lu]\t\t: ",i,getId(h->set[i]));
+@
+
+
+1.105
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d]\t : nil\n", i);
+d112 1
+a112 1
+			printf("[%d: %lu]\t: ",i,getId(h->set[i]));
+@
+
+
+1.104
+log
+@-
+@
+text
+@d110 1
+a110 1
+				printf("[%d] : nil\n", i);
+d112 1
+a112 1
+			printf("[%d: %lu] \t: ",i,getId(h->set[i]));
+@
+
+
+1.103
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%d: %lu] : ",i,getId(h->set[i]));
+@
+
+
+1.102
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printf("[%d] : ",i);
+@
+
+
+1.101
+log
+@-
+@
+text
+@a82 1
+		printf("index %d\n", index);
+@
+
+
+1.100
+log
+@-
+@
+text
+@d79 1
+a79 1
+	int count;
+@
+
+
+1.99
+log
+@-
+@
+text
+@d83 1
+@
+
+
+1.98
+log
+@-
+@
+text
+@a59 1
+	int hasLooped= 0;
+@
+
+
+1.97
+log
+@-
+@
+text
+@d132 1
+a133 1
+	}
+@
+
+
+1.96
+log
+@-
+@
+text
+@d132 1
+a132 1
+	free(*h->set);
+@
+
+
+1.95
+log
+@-
+@
+text
+@d132 1
+a132 1
+	free(h->set);
+@
+
+
+1.94
+log
+@-
+@
+text
+@d132 1
+a132 1
+	//free(h->set);
+@
+
+
+1.93
+log
+@-
+@
+text
+@d55 1
+@
+
+
+1.92
+log
+@-
+@
+text
+@d131 1
+a131 1
+	free(h->set);
+@
+
+
+1.91
+log
+@-
+@
+text
+@d131 1
+d133 1
+@
+
+
+1.90
+log
+@-
+@
+text
+@d121 12
+@
+
+
+1.89
+log
+@-
+@
+text
+@d57 1
+a57 1
+void insert(HashRef h, long k, BookRef b){  //NEED TO MODULO INDEX AT END OF HASH TABLE
+d71 1
+@
+
+
+1.88
+log
+@-
+@
+text
+@d108 1
+a108 2
+		if(h->set[i]==NULL){
+			if(h->set[i]->bookList==NULL)
+a109 1
+	}	
+@
+
+
+1.87
+log
+@-
+@
+text
+@d108 1
+a108 1
+		if(h->set[i]==NULL)
+d111 1
+@
+
+
+1.86
+log
+@-
+@
+text
+@d108 3
+a110 2
+		if(h->set[i]==NULL && h->set[i]->bookList == NULL)
+			printf("[%d] : nil\n", i);
+@
+
+
+1.85
+log
+@-
+@
+text
+@d108 1
+a108 1
+		if(h->set[i]==NULL)
+@
+
+
+1.84
+log
+@-
+@
+text
+@d108 1
+a108 1
+		if(h->set[i]->bookList==NULL)
+@
+
+
+1.83
+log
+@-
+@
+text
+@d108 1
+a108 1
+		if(h->set[i]==NULL)
+@
+
+
+1.82
+log
+@-
+@
+text
+@d112 1
+a112 1
+			printList(h->set[i]);
+@
+
+
+1.81
+log
+@-
+@
+text
+@d92 1
+a92 1
+BookRef getPopular(HashRef h, long k){
+d102 1
+a102 1
+	return maxIndex;
+d116 2
+a117 2
+int hashIsEmpty(HashRef h, int index){
+	int  i = h->set[index]==NULL;
+@
+
+
+1.80
+log
+@-
+@
+text
+@d29 3
+a31 1
+
+@
+
+
+1.79
+log
+@-
+@
+text
+@d7 1
+a7 1
+	ListRef *bookList;
+d25 1
+a25 1
+	b->bookList = newList(0);
+d75 1
+a75 1
+BookRef *getElement(HashRef h, long k){
+d90 13
+@
+
+
+1.78
+log
+@-
+@
+text
+@d7 1
+a7 1
+	ListRef bookList;
+d75 1
+a75 1
+ListRef getElement(HashRef h, long k){
+@
+
+
+1.77
+log
+@-
+@
+text
+@d80 1
+a80 1
+		if(h->set[index]!=NULL && getKey(h->set[index]) == k)
+@
+
+
+1.76
+log
+@-
+@
+text
+@d41 1
+a41 1
+	printf("size is now: %d\n", h->size);
+@
+
+
+1.75
+log
+@-
+@
+text
+@d26 2
+a27 1
+	b->id = id;	
+@
+
+
+1.74
+log
+@-
+@
+text
+@d60 1
+a60 1
+	printf("key %lu mod %d is at index %d\n",k, h->size, index);
+d77 1
+a77 1
+	printf("index: %d\n", index);
+@
+
+
+1.73
+log
+@-
+@
+text
+@d75 1
+a75 1
+	int hasLooped = 0;
+d82 1
+d84 1
+d86 1
+a86 1
+	return newList(-1);
+@
+
+
+1.72
+log
+@-
+@
+text
+@d26 1
+a26 2
+	b->id = id;
+	
+@
+
+
+1.71
+log
+@-
+@
+text
+@d56 1
+a56 1
+	if(b==NULL) b = newBook(b);
+@
+
+
+1.70
+log
+@-
+@
+text
+@d5 4
+d12 1
+a12 1
+	ListRef *set;
+a14 1
+
+d17 1
+a17 2
+	h->set = calloc (2, sizeof (ListRef));
+	//h->set = malloc(sizeof(ListRef));
+d23 10
+d42 2
+a43 1
+	ListRef *l = calloc(newSize, sizeof(ListRef));
+d46 2
+a47 2
+		int index = hash(h, getKey(h->set[i]));
+		while(l[index]!=NULL){
+d50 1
+a50 1
+		l[index] = h->set[i];
+d53 1
+a53 1
+	h->set = l;
+d55 2
+a56 2
+void insert(HashRef h, long k, ListRef l){  //NEED TO MODULO INDEX AT END OF HASH TABLE
+	if(l==NULL) l = newList(k);
+a63 11
+		/*if(index == h->size-1) {
+			hasLooped =1;
+			index=0;
+			continue;
+		}
+		if(index == h->size-1){
+			if(hasLooped) {
+				printf("TABLE LOCK");
+				return;
+			}
+		}*/
+d67 1
+a67 1
+	h->set[index] = l;
+a81 6
+		/*++index;
+		if(index==h->size-1){
+			if(hasLooped) break;
+			index = 0;
+			hasLooped = 1;
+		}*/
+@
+
+
+1.69
+log
+@-
+@
+text
+@d78 1
+a78 2
+		fflush(NULL);
+		if(getKey(h->set[index]) == k)
+@
+
+
+1.68
+log
+@-
+@
+text
+@d77 1
+a77 1
+	while(h->set[index] != NULL){
+@
+
+
+1.67
+log
+@-
+@
+text
+@d81 1
+a81 1
+		++index;
+d86 3
+a88 1
+		}
+@
+
+
+1.66
+log
+@-
+@
+text
+@d63 1
+a63 1
+		index = index%(h->size-1);
+@
+
+
+1.65
+log
+@-
+@
+text
+@d51 1
+a51 1
+		if(index == h->size-1) {
+d61 1
+a61 1
+		}
+d63 1
+@
+
+
+1.64
+log
+@-
+@
+text
+@d64 1
+a64 1
+	h->set[index-1] = l;
+@
+
+
+1.63
+log
+@-
+@
+text
+@d64 1
+a64 1
+	h->set[index] = l;
+@
+
+
+1.62
+log
+@-
+@
+text
+@d53 2
+a54 2
+			index=-1;
+			//continue;
+@
+
+
+1.61
+log
+@-
+@
+text
+@d53 2
+a54 2
+			index=0;
+			continue;
+@
+
+
+1.60
+log
+@-
+@
+text
+@d54 1
+@
+
+
+1.59
+log
+@-
+@
+text
+@d57 1
+@
+
+
+1.58
+log
+@-
+@
+text
+@d51 4
+a54 1
+		//if(index == h->size-1) hasLooped =1;
+d56 3
+a58 2
+			if(hasLooped) return;
+			hasLooped = 1;
+@
+
+
+1.57
+log
+@-
+@
+text
+@a51 1
+		++index;
+d56 1
+@
+
+
+1.56
+log
+@-
+@
+text
+@d51 1
+a51 1
+		if(index == h->size-1) hasLooped =1;
+@
+
+
+1.55
+log
+@-
+@
+text
+@d29 1
+a29 1
+	printf("size is now: %d", h->size);
+@
+
+
+1.54
+log
+@-
+@
+text
+@d29 1
+@
+
+
+1.53
+log
+@-
+@
+text
+@d80 1
+a80 1
+	return NULL;
+@
+
+
+1.52
+log
+@-
+@
+text
+@a67 1
+	if(index == 1) index ==0;
+@
+
+
+1.51
+log
+@-
+@
+text
+@d68 1
+@
+
+
+1.50
+log
+@-
+@
+text
+@d26 1
+a26 1
+	int newSize = 2*h->size;
+@
+
+
+1.49
+log
+@-
+@
+text
+@d26 1
+a26 1
+	int newSize = 2*h->size-1;
+d76 1
+a76 1
+			index = -1;
+@
+
+
+1.48
+log
+@-
+@
+text
+@d76 1
+a76 1
+			index = 0;
+@
+
+
+1.47
+log
+@-
+@
+text
+@d68 1
+a69 1
+		printf("index: %d\n", index);
+@
+
+
+1.46
+log
+@-
+@
+text
+@d70 1
+@
+
+
+1.45
+log
+@-
+@
+text
+@d72 1
+a77 1
+		++index;
+@
+
+
+1.44
+log
+@-
+@
+text
+@d43 3
+a47 3
+	int hasLooped= 0;
+	if(h->weight * 2 >= h->size)
+		doubleSize(h);
+@
+
+
+1.43
+log
+@-
+@
+text
+@d53 1
+a53 1
+			if(hasLooped) break;
+@
+
+
+1.42
+log
+@-
+@
+text
+@d69 1
+a69 1
+		printf("index: %d", index);
+@
+
+
+1.41
+log
+@-
+@
+text
+@d68 2
+a69 1
+	while(h->set[index-1] != NULL){
+@
+
+
+1.40
+log
+@-
+@
+text
+@d68 1
+a68 1
+	while(h->set[index] != NULL){
+@
+
+
+1.39
+log
+@-
+@
+text
+@a65 1
+	int count = 0;
+d68 4
+a71 4
+	while(h->set[index+count] != NULL){
+		if(getKey(h->set[index+count]) == k)
+			return h->set[index+count];
+		if(count==h->size){
+a72 1
+			count = 0;
+d76 1
+a76 1
+		++count;
+@
+
+
+1.38
+log
+@-
+@
+text
+@d72 1
+a72 1
+		if(count==h->size-1){
+@
+
+
+1.37
+log
+@-
+@
+text
+@d70 1
+a70 4
+	/*	if(hasBook(h->set[index+count], index))
+			return h->set[index+count];
+		++count;*/
+		if(getKey(h->set[index+count]) == index)
+@
+
+
+1.36
+log
+@-
+@
+text
+@d42 1
+@
+
+
+1.35
+log
+@-
+@
+text
+@a73 1
+		++count;
+d80 1
+@
+
+
+1.34
+log
+@-
+@
+text
+@d69 4
+a72 1
+		if(hasBook(h->set[index+count], index))
+@
+
+
+1.33
+log
+@-
+@
+text
+@d72 1
+a72 1
+		if(count==h->size){
+@
+
+
+1.32
+log
+@-
+@
+text
+@d45 1
+a45 1
+	if(h->weight * 4 >= h->size)
+@
+
+
+1.31
+log
+@-
+@
+text
+@d31 1
+a31 1
+		if(h->set[i]==NULL&& getFirst(h->set[i]) ==-1) continue;
+@
+
+
+1.30
+log
+@-
+@
+text
+@d31 2
+a32 2
+		if(h->set[i]!=NULL&& getFirst(h->set[i]) ==-1) continue;
+			int index = hash(h, getKey(h->set[i]));
+@
+
+
+1.29
+log
+@-
+@
+text
+@d32 1
+a32 1
+			int index = hash(h, getFirst(h->set[i]));
+@
+
+
+1.28
+log
+@-
+@
+text
+@d31 1
+a31 1
+		if(h->set[i]!=NULL || getFirst(h->set[i]) ==-1) continue;
+@
+
+
+1.27
+log
+@-
+@
+text
+@d31 1
+a31 1
+		if(h->set[i]==NULL || getFirst(h->set[i]) ==-1) continue;
+@
+
+
+1.26
+log
+@-
+@
+text
+@d45 1
+a45 1
+	if(h->weight * 2 >= h->size)
+@
+
+
+1.25
+log
+@-
+@
+text
+@d43 2
+a44 2
+	printf("key %ls mod %d is at index %d\n",k, h->size, index);
+	int hasLooped = 0;
+@
+
+
+1.24
+log
+@-
+@
+text
+@d43 1
+a43 1
+	printf("key %d mod %d is at index %d\n",k, h->size, index);
+@
+
+
+1.23
+log
+@-
+@
+text
+@d14 1
+a14 1
+	h->set = (ListRef)calloc (2, sizeof (ListRef));
+@
+
+
+1.22
+log
+@-
+@
+text
+@d14 1
+a14 1
+	h->set = calloc (2, sizeof (ListRef));
+@
+
+
+1.21
+log
+@-
+@
+text
+@d43 1
+a43 1
+	printf("insert at index %d\n", index);
+@
+
+
+1.20
+log
+@-
+@
+text
+@d51 1
+a51 1
+		if(index == h->size){
+@
+
+
+1.19
+log
+@-
+@
+text
+@d43 1
+a43 1
+	printf("insert at index %d", index);
+@
+
+
+1.18
+log
+@-
+@
+text
+@d43 1
+@
+
+
+1.17
+log
+@-
+@
+text
+@d26 1
+a26 1
+	int newSize = 2*h->size;
+@
+
+
+1.16
+log
+@-
+@
+text
+@d22 1
+a22 1
+	return (k*(k+3))%h->size;
+@
+
+
+1.15
+log
+@-
+@
+text
+@d22 1
+a22 1
+	return k%h->size;
+@
+
+
+1.14
+log
+@-
+@
+text
+@d46 1
+a46 1
+	while(!hasLooped){
+d50 4
+a53 1
+		index = index%h->size;
+@
+
+
+1.13
+log
+@-
+@
+text
+@d69 1
+@
+
+
+1.12
+log
+@-
+@
+text
+@d61 1
+a61 1
+	int count;
+d68 5
+a72 1
+		count = (count+index)%h->size;
+@
+
+
+1.11
+log
+@-
+@
+text
+@d41 1
+a41 1
+void insert(HashRef h, long k, ListRef l){
+d50 1
+d62 1
+d68 1
+d84 1
+a84 1
+/*int hashIsEmpty(HashRef h, int index){
+d87 1
+a87 1
+}*/
+@
+
+
+1.10
+log
+@-
+@
+text
+@d15 1
+d80 5
+@
+
+
+1.9
+log
+@-
+@
+text
+@d3 1
+a3 1
+#include "list.h"
+a10 1
+typedef struct ListHDR *ListRef;
+d30 2
+a31 2
+		if(h->set[i]==NULL || h->set[i]->key ==-1) continue;
+			int index = hash(h, h->set[i]->key);
+d62 1
+a62 1
+		if(h->set[index+count]->key == index)
+d73 5
+a77 3
+			printf("[%d] : nil", i);
+		else
+			printf("[%d] : %lu", i, h->set[i]->key);
+@
+
+
+1.8
+log
+@-
+@
+text
+@d11 1
+@
+
+
+1.7
+log
+@-
+@
+text
+@d9 1
+a9 1
+} HashRef;
+@
+
+
+1.6
+log
+@-
+@
+text
+@d9 1
+a9 1
+} *HashRef;
+@
+
+
+1.5
+log
+@-
+@
+text
+@d24 1
+a24 1
+	int hasLooped = 0;
+d29 3
+a31 3
+	for(int i=0; i<h->oldSize; i++){
+		if(h->set[i]==NULL || h->set[i]->size ==-1) continue;
+		int index = hash(h->set[i]);
+d47 1
+a47 1
+		if(index = h->size-1) hasLooped =1;
+d62 1
+a62 1
+		if(h->set[index+count] == index)
+@
+
+
+1.4
+log
+@-
+@
+text
+@d23 17
+a68 17
+void doubleSize(HashRef h){
+	int hasLooped = 0;
+	int newSize = 2*h->size;
+	int oldSize = h->size;
+	h->size = newSize;
+	ListRef *l = calloc(newSize, sizeof(ListRef));
+	for(int i=0; i<h->oldSize; i++){
+		if(h->set[i]==NULL || h->set[i]->size ==-1) continue;
+		int index = hash(h->set[i]);
+		while(l[index]!=NULL){
+			index++;
+		}	
+		l[index] = h->set[i];
+		
+	}
+	h->set = l;
+}
+@
+
+
+1.3
+log
+@-
+@
+text
+@d8 1
+a8 1
+	ListRef set[1];
+d26 1
+a26 1
+	if(h->weight * 2 > h->size)
+@
+
+
+1.2
+log
+@-
+@
+text
+@d14 1
+a14 1
+	h->set = calloc (2, sizeof ListRef);
+@
+
+
+1.1
+log
+@-
+@
+text
+@d13 1
+a13 1
+	HashRef h = malloc(sizeof(HashSet));
+@

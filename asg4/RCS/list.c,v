@@ -1,0 +1,638 @@
+head	1.22;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.22
+date	2013.05.27.21.12.19;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.27.21.12.07;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.27.21.07.31;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.27.20.32.58;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.27.19.13.01;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.27.17.19.28;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.27.17.15.35;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.27.17.15.11;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.25.23.31.00;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.25.23.28.25;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.25.23.27.02;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.25.23.22.40;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.25.23.21.23;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.25.23.19.52;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.25.23.14.07;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.25.23.11.36;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.25.23.08.24;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.25.19.39.30;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.22.18.51.21;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.22.18.50.33;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.22.18.48.51;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.22.18.36.40;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.22
+log
+@-
+@
+text
+@#include <stdio.h>
+#include <assert.h>
+#include <stdbool.h>
+#include <stdlib.h>
+typedef struct ListHdr *ListRef;
+typedef struct Node *NodeRef;
+struct ListHdr{
+NodeRef first;
+NodeRef last;
+NodeRef current;
+};
+
+struct Node{
+int key;
+NodeRef next;
+NodeRef prev;
+};
+
+// Constructors
+ /*** Constructors-Destructors ***/
+ ListRef newList(void){
+	ListRef list = malloc(sizeof (struct ListHdr));
+	//assert(list != NULL);
+	list->first = list ->last = list->current = NULL;
+	return list;
+}
+ void freeList(ListRef* pL){
+	free(pL);
+}
+ /*** Access functions ***/
+ int isEmpty(ListRef L){
+	//assert(L!=NULL);
+ 	if(L->first == NULL || L->last==NULL) return true;
+	else return false;
+}
+ int offEnd(ListRef L){
+	if(L->current == NULL) return true;
+	else return false;
+}
+int atFirst(ListRef L){
+	if(!offEnd(L)&&L->current == L->first) return true;
+	else return false;
+}
+ int atLast(ListRef L){
+	if(!offEnd(L)&&L->current == L->last) return true;
+	else return false;
+}
+ int getFirst(ListRef L){
+	//assert (L->first!=NULL);
+	return L->first->key;
+}
+ int getLast(ListRef L){
+	//assert (L->last!=NULL);
+	return L->last->key;
+}
+ int getCurrent(ListRef L){
+	//assert(L->current!=NULL);
+	return L->current->key;
+}
+ int getLength(ListRef L){
+	NodeRef iter = L->first;
+	int count = 0;
+	while(iter!=NULL){
+		count++;
+		iter = iter->next;
+	}
+	return count;
+} 
+ int equals (ListRef A, ListRef B) {
+	NodeRef iterA = A->first;
+	NodeRef iterB = B->first;
+	while(iterA !=NULL && iterB!=NULL){
+	if(iterA->key != iterB->key) return false;
+	iterA = iterA->next;
+	iterB = iterB->next;
+	}
+return true;
+}
+// /*** Manipulation procedures ***/
+ void makeEmpty(ListRef L){
+	while(L->first!=NULL){
+		NodeRef tmp = L->first;
+		L->first = L->first->next;
+		free(tmp);
+	}
+}
+ void moveFirst(ListRef L){
+		L->current = L->first;
+}
+ void moveLast(ListRef L){
+		L->current = L->last;
+}
+ void movePrev(ListRef L){
+		L->current = L->current->prev;
+} 
+ void moveNext(ListRef L){
+		L->current = L->current->next;
+}
+
+void insertAfterLast(ListRef L, int data);
+ ListRef copyList(ListRef L){
+	ListRef newList = malloc(sizeof(struct ListHdr));
+	for(NodeRef iter = L-> first; iter !=NULL; iter=iter->next){
+		insertAfterLast(newList, iter->key);
+	}
+	return newList;
+}
+
+ NodeRef createNode(int key){
+	NodeRef node = malloc(sizeof(struct Node));
+	node -> next = NULL;
+	node -> prev = NULL;
+	node -> key = key;
+	return node;
+}
+
+ void insertBeforeFirst(ListRef L, int data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first= L->last =L->current= node;
+	else {
+		node -> next = L->first;
+		L->first->prev = node;
+		L->first = node;
+	}	
+}
+ void insertAfterLast(ListRef L, int data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L) || L->first==NULL) L->first = L->last =L->current= node;
+	else{
+		node->prev = L->last;
+		L->last->next = node;
+		L->last = node;
+	}
+} 
+ void insertBeforeCurrent(ListRef L, int data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first = L->last =L->current = node;
+	else if(L ->current ->prev == NULL){
+		L->first->prev = node;
+		node -> next = L->first;
+		L -> first = node;
+	}
+	else{
+		NodeRef a = L->current->prev;
+		NodeRef b = node;
+		NodeRef c = L->current;
+		b->next = a->next;
+		b->prev = a;
+		a->next = b;
+		c->prev = b;
+	}
+	
+} 
+ void insertAfterCurrent(ListRef L, int data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first= L->last = L->current =node;
+	else if(L->current->next == NULL){
+		L->last->next = node;
+		node-> prev = L->last;
+		L->last = node;
+	}
+	else{
+		NodeRef a = L->current;
+		NodeRef b = node;
+		NodeRef c = L->current->next;
+		b->next = a->next;
+		b->prev = a;
+		a->next = b;
+		c->prev = b;
+	}
+}
+
+void insertionSort(ListRef L, int data){
+	NodeRef iter = L->first;
+	while(iter!=NULL){
+		if(data<iter->key){
+			insertBeforeCurrent(L, data);
+			return;
+		}
+		iter=iter->next;
+	}
+	insertAfterLast(L, data);
+}
+void deleteFirst(ListRef L){
+	assert(!isEmpty(L));
+	if(L->first->next == NULL){
+		NodeRef tmp = L->first;
+		L->first=L->last=L->current=NULL;
+		free(tmp);
+		return;
+	}
+	NodeRef tmp = L->first;
+	if(L->first->next!=NULL)
+		L->first = L-> first ->next;
+	L->first->prev = NULL;
+	if(L->current == tmp)
+		L->current = L->first;
+}
+ void deleteLast(ListRef L){
+	NodeRef tmp = L->last;
+	L->last = L-> last ->prev;
+	L->last->next = NULL;
+	if(L->current == tmp)
+		L->current = L->last; 
+	free(tmp); 
+}
+ void deleteCurrent(ListRef L){
+	if(L->current == L->first) deleteFirst(L);
+	else if(L->current == L-> last) deleteLast(L);
+	else{						//using a, b, and c makes it conceptually easier
+		NodeRef a = L->current->prev;
+		NodeRef b = L->current;
+		NodeRef c = L->current->next;
+		if(a!=NULL)
+			a->next = b->next;	
+		c->prev = b->prev;
+		L->current=c;		
+		free(b);
+	}
+	
+}
+ /*** Other operations ***/
+ void printList(ListRef L){
+	NodeRef node = L->first;
+	while(node != NULL){
+		printf("%d ", node->key);
+		node = node->next;
+	}
+	printf("\n");
+}
+
+bool isCurrentNull(ListRef L){return L->current==NULL;}
+@
+
+
+1.21
+log
+@-
+@
+text
+@a187 2
+		NodeRef tmp2 = L->current;
+		NodeRef tmp3 = L->last;
+a189 2
+		free(tmp2);
+		free(tmp3);
+@
+
+
+1.20
+log
+@-
+@
+text
+@d188 2
+d192 2
+@
+
+
+1.19
+log
+@-
+@
+text
+@a87 2
+	//assert(!isEmpty(L));
+//	if(L->first !=NULL)
+a90 2
+	//assert(!isEmpty(L));
+//	if(L->last!=NULL)
+a93 2
+	//assert(!offEnd(L));
+//	if(L->current->prev !=NULL)
+a96 2
+	//assert(!offEnd(L));
+//	if(L->current->next!=NULL)
+a124 1
+	//printf("Is empty: %d", isEmpty(L));
+a185 1
+	//assert(L->first!=NULL);
+a197 3
+	//if(L->last == NULL)
+	//	L->last = L->first;
+	//free(tmp); 
+a199 1
+	//assert(!isEmpty(L));
+a223 1
+	//assert(!isEmpty(L));
+@
+
+
+1.18
+log
+@-
+@
+text
+@d241 1
+a241 1
+		printf("%d  ", node->key);
+@
+
+
+1.17
+log
+@-
+@
+text
+@a211 10
+
+/*void deleteFirst(ListRef L){
+	assert(!isEmpty(L));
+	NodeRef tmp = L->first;
+	if(L->first==NULL)
+		return;
+	if(L->first->next!=NULL)
+		L->first = L->first->next;
+	L->first->prev = NULL;
+}*/
+@
+
+
+1.16
+log
+@-
+@
+text
+@d200 1
+@
+
+
+1.15
+log
+@-
+@
+text
+@d250 1
+a250 1
+		printf("%lu  ", node->key);
+@
+
+
+1.14
+log
+@-
+@
+text
+@d195 6
+a200 1
+	assert(L->first!=NULL);
+@
+
+
+1.13
+log
+@-
+@
+text
+@d202 2
+a203 2
+	if(L->last == NULL)
+		L->last = L->first;
+@
+
+
+1.12
+log
+@-
+@
+text
+@d202 2
+a203 2
+	//if(L->last == NULL)
+	//	L->last = L->first;
+@
+
+
+1.11
+log
+@-
+@
+text
+@d194 1
+a194 1
+	//assert(!isEmpty(L));
+@
+
+
+1.10
+log
+@-
+@
+text
+@d202 2
+a203 2
+	if(L->last == NULL)
+		L->last = L->first;
+@
+
+
+1.9
+log
+@-
+@
+text
+@d33 1
+a33 1
+ 	if(L->first == NULL) return true;
+@
+
+
+1.8
+log
+@-
+@
+text
+@d193 1
+a193 1
+ void deleteFirst(ListRef L){
+d204 1
+a204 1
+	free(tmp); 
+d206 10
+@
+
+
+1.7
+log
+@-
+@
+text
+@a196 1
+	L->first->prev = NULL;
+d199 1
+a199 2
+	else
+		L->first == NULL;
+d202 2
+@
+
+
+1.6
+log
+@-
+@
+text
+@d197 1
+d201 1
+a201 2
+		L->first = NULL;
+	L->first->prev = NULL;
+@
+
+
+1.5
+log
+@-
+@
+text
+@d199 2
+@
+
+
+1.4
+log
+@-
+@
+text
+@d89 1
+a89 1
+	if(L->first !=NULL)
+d94 1
+a94 1
+	if(L->last!=NULL)
+d99 1
+a99 1
+	if(L->current->prev !=NULL)
+d104 1
+a104 1
+	if(L->current->next!=NULL)
+@
+
+
+1.3
+log
+@-
+@
+text
+@d197 2
+a198 1
+	L->first = L-> first ->next;
+@
+
+
+1.2
+log
+@-
+@
+text
+@d195 1
+@
+
+
+1.1
+log
+@-
+@
+text
+@d137 1
+a137 1
+	if(isEmpty(L)) L->first = L->last =L->current= node;
+@

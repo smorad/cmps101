@@ -1,0 +1,3 @@
+# Makefile.deps created Mon Apr 15 18:15:47 PDT 2013
+listdr.o: listdr.c list.h
+list.o: list.c

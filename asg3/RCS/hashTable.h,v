@@ -1,0 +1,266 @@
+head	1.14;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.14
+date	2013.05.19.23.22.24;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.18.20.35.40;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.15.04.11.45;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.14.05.16.22;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.14.00.52.48;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.14.00.27.33;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.14.00.26.19;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.13.23.55.25;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.13.23.13.26;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.13.22.58.34;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.13.22.25.46;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.13.02.36.13;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.12.20.39.50;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.12.19.05.24;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.14
+log
+@-
+@
+text
+@//smorad@@ucsc.edu
+#ifndef __HASH_H
+#define __HASH_H
+#include "bookCountList.h"
+typedef struct HashSet *HashRef;
+typedef struct book *BookRef;	//wrapper for ListRef
+HashRef createHashSet();	//creates new hash table
+
+BookRef newBook(); 	//only used in driver, creates a new hash slot element
+
+ListRef getBookList();		//removes wrapper from book
+/*pre: h!=NULL, l!=NULL post: h->set(hash(key))!=NULL*/
+BookRef insert(HashRef h,long k, BookRef l);	//insert into hash table
+/*pre: h!=NULL*/
+BookRef getElement(HashRef h, long key);	//returns associated list wrapper, null if not found
+/*pre h!=NULL, h(index) !=NULL*/
+long getId(BookRef b);		//returns bookId
+/*pre: h!=NULL*/
+void debugHash(HashRef h);			//prints content of hash table
+/*pre: h!=NULL*/
+int hashIsEmpty(HashRef h, long key);		//returns true if slot at h(key) is empty
+/*post: hashtable removed from memory*/
+void destroy(HashRef h);
+#endif
+@
+
+
+1.13
+log
+@-
+@
+text
+@d1 1
+@
+
+
+1.12
+log
+@-
+@
+text
+@d21 2
+@
+
+
+1.11
+log
+@-
+@
+text
+@d16 1
+a16 1
+long getId(HashRef h, int index);		//returns bookId
+@
+
+
+1.10
+log
+@-
+@
+text
+@d5 2
+a6 2
+typedef struct book *BookRef;
+HashRef createHashSet();
+d8 1
+a8 1
+BookRef newBook(); //only used in driver
+d10 11
+a20 14
+ListRef getBookList();
+BookRef insert(HashRef h,long k, BookRef l);
+
+void update(HashRef h, ListRef l);
+
+void removeElement(HashRef h, ListRef l);
+
+BookRef getElement(HashRef h, long key);
+
+long getId(HashRef h, int index);
+
+void debugHash(HashRef h);
+
+int hashIsEmpty(HashRef h, long key);
+@
+
+
+1.9
+log
+@-
+@
+text
+@d19 2
+@
+
+
+1.8
+log
+@-
+@
+text
+@d17 1
+a17 1
+ListRef getElement(HashRef h, long key);
+@
+
+
+1.7
+log
+@-
+@
+text
+@d11 1
+a11 1
+void insert(HashRef h,long k, BookRef l);
+@
+
+
+1.6
+log
+@-
+@
+text
+@d20 2
+@
+
+
+1.5
+log
+@-
+@
+text
+@d9 2
+@
+
+
+1.4
+log
+@-
+@
+text
+@d8 1
+@
+
+
+1.3
+log
+@-
+@
+text
+@d5 1
+a5 1
+
+d8 1
+a8 1
+void insert(HashRef h,long k, ListRef l);
+@
+
+
+1.2
+log
+@-
+@
+text
+@d14 1
+a14 1
+ListRef getElement(HashRef h, ListRef l);
+@
+
+
+1.1
+log
+@-
+@
+text
+@d14 1
+a14 1
+void getElement(HashRef h, ListRef l);
+@

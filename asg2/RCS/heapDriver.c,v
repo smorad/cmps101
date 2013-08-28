@@ -1,0 +1,401 @@
+head	1.18;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.18
+date	2013.04.30.03.21.25;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.30.03.20.59;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.30.03.17.32;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.30.03.16.58;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.30.03.16.37;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.30.02.48.58;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.30.02.01.31;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.28.19.52.48;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.28.18.50.17;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.28.01.15.51;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.28.01.14.51;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.28.01.04.32;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.28.01.00.39;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.28.00.54.09;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.28.00.51.31;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.28.00.45.03;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.27.21.27.07;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.26.04.01.33;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.18
+log
+@-
+@
+text
+@#include <stdio.h>
+#include <stdlib.h>
+#include "insertionSort.h"
+#include "heap.h"
+//typedef struct HeapHdr *heap;
+int main(){
+	heap h = newHeap(10);
+	for(int i=0; i<10; i++){
+		insert(h, i);
+	//	printf("%d\n", maxValue(h));
+	}
+	debugHeap(h);
+	printf("Done inserting\n");
+
+	for(int i=0; i<10; i++){
+		printf("%d\n", maxValue(h));
+		deleteMax(h);
+	//	debugHeap(h);
+	}
+	printf("manual insertion\n");
+	insert(h, 2);
+	insert(h, 4);
+	insert(h, 6);
+	insert(h, 6);
+	insert(h, 4);
+	insert(h, 2);
+	//debugHeap(h);
+	
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+
+	
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+
+	
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+		
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+}
+
+@
+
+
+1.17
+log
+@-
+@
+text
+@d20 1
+a20 1
+
+@
+
+
+1.16
+log
+@-
+@
+text
+@d21 6
+a26 3
+	insert(h, 5);
+	insert(h, 200);
+	insert(h, 3);
+d40 6
+@
+
+
+1.15
+log
+@-
+@
+text
+@a36 1
+	printf("%d\n", maxValue(h));
+@
+
+
+1.14
+log
+@-
+@
+text
+@d24 1
+a24 1
+	debugHeap(h);
+d37 1
+@
+
+
+1.13
+log
+@-
+@
+text
+@d18 1
+a18 1
+		debugHeap(h);
+@
+
+
+1.12
+log
+@-
+@
+text
+@d20 16
+@
+
+
+1.11
+log
+@-
+@
+text
+@d7 2
+a8 2
+	heap h = newHeap(5);
+	for(int i=0; i<5; i++){
+d15 1
+a15 1
+	for(int i=0; i<5; i++){
+@
+
+
+1.10
+log
+@-
+@
+text
+@d7 2
+a8 5
+	printf("min of 1 2 3: %d\n", getMin(1,2,3));	
+	printf("min of 3 2 1: %d\n", getMin(3,2,1));
+	printf("min of 1 3 2: %d\n", getMin(1,3,2));
+	heap h = newHeap(10);
+	for(int i=0; i<10; i++){
+d15 1
+a15 1
+	for(int i=0; i<10; i++){
+@
+
+
+1.9
+log
+@-
+@
+text
+@d7 3
+a9 3
+	printf("min of 1 2 3: %d", getMin(1,2,3));	
+	printf("min of 3 2 1: %d", getMin(3,2,1));
+	printf("min of 1 3 2: %d", getMin(1,3,2));
+@
+
+
+1.8
+log
+@-
+@
+text
+@d7 3
+a9 1
+	printf("min of 1 2 3: %d", getMin(1,2,3));
+@
+
+
+1.7
+log
+@-
+@
+text
+@d7 1
+@
+
+
+1.6
+log
+@-
+@
+text
+@d18 1
+a18 1
+	//	debugHeap(h);
+@
+
+
+1.5
+log
+@-
+@
+text
+@d18 1
+a18 1
+		debugHeap(h);
+@
+
+
+1.4
+log
+@-
+@
+text
+@d15 5
+a19 3
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	debugHeap(h);
+a20 32
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	debugHeap(h);
+	
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	debugHeap(h);
+
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	debugHeap(h);
+
+
+		
+	debugHeap(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+		
+	debugHeap(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+	
+	debugHeap(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+
+	debugHeap(h);
+	printf("%d\n", maxValue(h));
+	deleteMax(h);
+
+	debugHeap(h);
+	printf("%d\n", maxValue(h));
+@
+
+
+1.3
+log
+@-
+@
+text
+@d17 1
+d21 1
+d25 1
+d29 1
+d31 3
+a33 2
+	printf("%d\n", maxValue(h));
+	
+d37 1
+d41 1
+d45 1
+d49 1
+@
+
+
+1.2
+log
+@-
+@
+text
+@d10 1
+a10 1
+		printf("%d\n", maxValue(h));
+d12 1
+@
+
+
+1.1
+log
+@-
+@
+text
+@d5 20
+d26 15
+a40 2
+int main(){
+	printf("hi");
+@

@@ -1,0 +1,2413 @@
+head	1.134;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.134
+date	2013.04.18.02.36.42;	author -;	state -;
+branches;
+next	1.133;
+
+1.133
+date	2013.04.16.19.22.00;	author -;	state -;
+branches;
+next	1.132;
+
+1.132
+date	2013.04.16.19.20.59;	author -;	state -;
+branches;
+next	1.131;
+
+1.131
+date	2013.04.16.19.20.38;	author -;	state -;
+branches;
+next	1.130;
+
+1.130
+date	2013.04.16.19.20.26;	author -;	state -;
+branches;
+next	1.129;
+
+1.129
+date	2013.04.16.19.19.20;	author -;	state -;
+branches;
+next	1.128;
+
+1.128
+date	2013.04.16.19.04.34;	author -;	state -;
+branches;
+next	1.127;
+
+1.127
+date	2013.04.16.19.04.08;	author -;	state -;
+branches;
+next	1.126;
+
+1.126
+date	2013.04.16.19.03.19;	author -;	state -;
+branches;
+next	1.125;
+
+1.125
+date	2013.04.16.19.02.50;	author -;	state -;
+branches;
+next	1.124;
+
+1.124
+date	2013.04.16.19.02.11;	author -;	state -;
+branches;
+next	1.123;
+
+1.123
+date	2013.04.16.18.54.30;	author -;	state -;
+branches;
+next	1.122;
+
+1.122
+date	2013.04.16.18.52.15;	author -;	state -;
+branches;
+next	1.121;
+
+1.121
+date	2013.04.16.18.51.43;	author -;	state -;
+branches;
+next	1.120;
+
+1.120
+date	2013.04.16.18.51.11;	author -;	state -;
+branches;
+next	1.119;
+
+1.119
+date	2013.04.16.18.50.44;	author -;	state -;
+branches;
+next	1.118;
+
+1.118
+date	2013.04.16.06.23.45;	author -;	state -;
+branches;
+next	1.117;
+
+1.117
+date	2013.04.16.06.18.34;	author -;	state -;
+branches;
+next	1.116;
+
+1.116
+date	2013.04.16.06.17.20;	author -;	state -;
+branches;
+next	1.115;
+
+1.115
+date	2013.04.16.06.14.51;	author -;	state -;
+branches;
+next	1.114;
+
+1.114
+date	2013.04.16.06.14.35;	author -;	state -;
+branches;
+next	1.113;
+
+1.113
+date	2013.04.16.06.11.14;	author -;	state -;
+branches;
+next	1.112;
+
+1.112
+date	2013.04.16.06.07.11;	author -;	state -;
+branches;
+next	1.111;
+
+1.111
+date	2013.04.16.06.05.45;	author -;	state -;
+branches;
+next	1.110;
+
+1.110
+date	2013.04.16.06.05.30;	author -;	state -;
+branches;
+next	1.109;
+
+1.109
+date	2013.04.16.06.05.21;	author -;	state -;
+branches;
+next	1.108;
+
+1.108
+date	2013.04.16.06.04.02;	author -;	state -;
+branches;
+next	1.107;
+
+1.107
+date	2013.04.16.05.59.48;	author -;	state -;
+branches;
+next	1.106;
+
+1.106
+date	2013.04.15.21.51.36;	author -;	state -;
+branches;
+next	1.105;
+
+1.105
+date	2013.04.15.21.49.45;	author -;	state -;
+branches;
+next	1.104;
+
+1.104
+date	2013.04.15.20.59.38;	author -;	state -;
+branches;
+next	1.103;
+
+1.103
+date	2013.04.15.20.58.17;	author -;	state -;
+branches;
+next	1.102;
+
+1.102
+date	2013.04.15.20.49.17;	author -;	state -;
+branches;
+next	1.101;
+
+1.101
+date	2013.04.15.20.46.54;	author -;	state -;
+branches;
+next	1.100;
+
+1.100
+date	2013.04.15.20.46.30;	author -;	state -;
+branches;
+next	1.99;
+
+1.99
+date	2013.04.15.20.23.39;	author -;	state -;
+branches;
+next	1.98;
+
+1.98
+date	2013.04.15.20.22.57;	author -;	state -;
+branches;
+next	1.97;
+
+1.97
+date	2013.04.15.20.03.31;	author -;	state -;
+branches;
+next	1.96;
+
+1.96
+date	2013.04.15.19.57.53;	author -;	state -;
+branches;
+next	1.95;
+
+1.95
+date	2013.04.15.19.57.08;	author -;	state -;
+branches;
+next	1.94;
+
+1.94
+date	2013.04.15.19.51.55;	author -;	state -;
+branches;
+next	1.93;
+
+1.93
+date	2013.04.15.05.28.52;	author -;	state -;
+branches;
+next	1.92;
+
+1.92
+date	2013.04.15.05.28.41;	author -;	state -;
+branches;
+next	1.91;
+
+1.91
+date	2013.04.15.05.28.24;	author -;	state -;
+branches;
+next	1.90;
+
+1.90
+date	2013.04.15.05.26.23;	author -;	state -;
+branches;
+next	1.89;
+
+1.89
+date	2013.04.15.05.23.57;	author -;	state -;
+branches;
+next	1.88;
+
+1.88
+date	2013.04.15.05.22.13;	author -;	state -;
+branches;
+next	1.87;
+
+1.87
+date	2013.04.15.05.21.43;	author -;	state -;
+branches;
+next	1.86;
+
+1.86
+date	2013.04.15.05.21.08;	author -;	state -;
+branches;
+next	1.85;
+
+1.85
+date	2013.04.15.05.20.48;	author -;	state -;
+branches;
+next	1.84;
+
+1.84
+date	2013.04.15.05.19.42;	author -;	state -;
+branches;
+next	1.83;
+
+1.83
+date	2013.04.15.05.19.02;	author -;	state -;
+branches;
+next	1.82;
+
+1.82
+date	2013.04.15.05.18.22;	author -;	state -;
+branches;
+next	1.81;
+
+1.81
+date	2013.04.15.05.17.55;	author -;	state -;
+branches;
+next	1.80;
+
+1.80
+date	2013.04.15.05.17.35;	author -;	state -;
+branches;
+next	1.79;
+
+1.79
+date	2013.04.15.05.13.06;	author -;	state -;
+branches;
+next	1.78;
+
+1.78
+date	2013.04.15.05.10.31;	author -;	state -;
+branches;
+next	1.77;
+
+1.77
+date	2013.04.15.05.10.14;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2013.04.15.05.07.07;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2013.04.15.05.06.36;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2013.04.15.05.04.09;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2013.04.15.05.03.20;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2013.04.15.04.52.04;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2013.04.15.04.49.17;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2013.04.15.04.47.09;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2013.04.15.04.43.49;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2013.04.15.04.43.30;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2013.04.15.04.42.49;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2013.04.15.04.38.55;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.04.15.04.35.43;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.04.15.04.30.58;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.04.15.04.28.25;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.04.15.04.27.10;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.04.15.04.26.50;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.04.15.04.26.30;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.04.15.04.20.12;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.04.15.04.15.27;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.04.15.04.14.14;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.04.15.04.09.42;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.04.15.04.05.44;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.04.13.21.16.04;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.04.13.21.15.51;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.04.13.21.07.07;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.04.13.21.06.31;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.04.13.21.05.05;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.04.13.21.04.44;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.04.13.21.04.32;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.04.13.21.04.19;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.04.13.21.02.31;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.04.13.21.01.54;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.04.13.20.59.38;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.04.13.20.55.33;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.04.13.20.52.52;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.04.13.20.50.19;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.04.13.20.48.06;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.04.13.02.10.04;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.04.13.02.09.28;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.04.13.02.08.53;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.04.13.02.08.41;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.04.13.01.54.58;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.04.13.01.53.36;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.04.13.01.52.57;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.04.13.01.50.38;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.04.13.01.50.16;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.04.13.01.49.29;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.04.13.01.49.10;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.04.13.01.45.07;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.04.13.01.44.52;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.04.13.01.41.10;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.04.13.01.39.55;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.04.13.01.39.25;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.04.12.04.25.20;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.04.12.04.24.44;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.04.11.05.46.19;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.04.11.00.43.29;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.04.11.00.42.20;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.04.11.00.38.38;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.11.00.37.05;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.11.00.36.11;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.11.00.35.23;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.11.00.34.37;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.11.00.32.53;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.11.00.32.20;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.11.00.21.36;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.10.22.15.09;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.10.22.14.54;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.10.22.14.40;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.10.22.14.05;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.10.22.13.49;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.10.22.13.34;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.10.22.12.16;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.10.22.06.33;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.10.22.06.02;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.10.22.03.17;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.134
+log
+@-
+@
+text
+@#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include "list.h"
+//#define BUFFSIZE 1024;
+int numCus;
+int numPur;
+ListRef custArray[1024];
+const int BUFFSIZE = 1024;
+
+void parseInput(char* buffer){
+	char* input = strdup(buffer);	//dont want to mess up our buffer
+	char* user = strtok(input, " ");	//customer id
+	char* product = strtok(NULL, " ");	//book id
+	int userInt = atoi(user);
+	long productInt = atol(product);	
+	if(custArray[userInt]==NULL){
+		custArray[userInt] = newList();
+	}
+	//insertBeforeFirst(custArray[userInt], productInt);	//select customer
+	insertionSort(custArray[userInt], productInt);	//sort in order
+	free(input);
+	
+}
+void readInput(){
+	char buffer[BUFFSIZE];
+	int count = 0;
+	while(fgets(buffer, BUFFSIZE, stdin)!=NULL){
+		if(count>1){		//throw away first 2 linese
+			parseInput(buffer);
+			}
+		count++;
+		}
+	printf("Customer #     Books Purchased\n");
+	for(int i=1; i<count-2; i++){
+			if(custArray[i]!=NULL){
+				printf("%d               ", i);
+				printList(stdout, custArray[i]);
+				makeEmpty(custArray[i]);	
+				freeList(custArray[i]);
+			}
+		}
+}
+void testList(){		//for debugging purposes only
+	ListRef L = newList();
+	insertBeforeFirst(L, 3);
+	insertBeforeFirst(L, 2);
+	insertBeforeFirst(L, 1);
+	insertAfterLast(L, 4);
+	insertAfterLast(L, 5);
+	insertAfterLast(L, 6);
+	printList(stdout, L);
+
+}
+void initArray(){
+	for(int i=0; i<1024; i++){
+		custArray[i] = NULL;
+	}
+}
+	
+int main(){
+	initArray();
+	readInput();
+	//testList();
+return EXIT_SUCCESS;
+}
+@
+
+
+1.133
+log
+@-
+@
+text
+@a10 13
+void insertionSort(ListRef L, long data){
+	if(isEmpty(L)) insertBeforeFirst(L, data); return;	//if empty, position doesn't matter
+	//moveFirst(L);						//almost got it working
+		for(int pos = 0; pos<getLength(L); pos++) {
+		if(getCurrent(L)==0){ insertAfterLast(L, data); return;}
+		int cmp = getCurrent(L) - data;	//negative if input is bigger
+		if(cmp<0){insertBeforeCurrent(L, data);  return;}	//if bigger, stop then insert before
+		moveNext(L);
+	} 
+	//insertAfterLast(L, data);
+	
+}
+
+@
+
+
+1.132
+log
+@-
+@
+text
+@d15 1
+a15 1
+		if(getCurrent(L)==0) break;
+d20 1
+a20 1
+	insertAfterLast(L, data);
+@
+
+
+1.131
+log
+@-
+@
+text
+@d13 1
+a13 1
+	moveFirst(L);						//almost got it working
+@
+
+
+1.130
+log
+@-
+@
+text
+@d20 1
+a20 1
+/	insertAfterLast(L, data);
+@
+
+
+1.129
+log
+@-
+@
+text
+@d13 5
+a17 3
+	moveFirst(L);
+	int current = getCurrent(L);
+	while(current!=0 && current<data){
+d19 2
+a20 15
+		current = getCurrent(L);
+	}
+	insertAfterCurrent(L, data);
+
+
+
+
+	//almost got it working
+//	for(int pos = 0; pos<getLength(L); pos++) {
+//		if(getCurrent(L)==0) break;
+//		int cmp = getCurrent(L) - data;	//negative if input is bigger
+//		if(cmp<0){insertBeforeCurrent(L, data);  return;}	//if bigger, stop then insert before
+//		moveNext(L);
+//	} 
+//	insertAfterLast(L, data);
+@
+
+
+1.128
+log
+@-
+@
+text
+@d13 1
+d15 4
+a18 5
+		while(current!=0&&current<data){	//while !NULL
+			//moveNext(L);
+			current=getCurrent(L);
+			moveNext(L);
+		}
+@
+
+
+1.127
+log
+@-
+@
+text
+@d15 2
+a17 1
+			current=getCurrent(L);
+@
+
+
+1.126
+log
+@-
+@
+text
+@d12 1
+a12 1
+	//if(isEmpty(L)) insertBeforeFirst(L, data); return;	//if empty, position doesn't matter
+d16 1
+@
+
+
+1.125
+log
+@-
+@
+text
+@d12 1
+a12 1
+	if(isEmpty(L)) insertBeforeFirst(L, data); return;	//if empty, position doesn't matter
+d14 1
+a14 1
+		while(current!=0&&current>data){	//while !NULL
+@
+
+
+1.124
+log
+@-
+@
+text
+@d14 1
+a14 1
+		while(current!=0&&current<data){	//while !NULL
+@
+
+
+1.123
+log
+@-
+@
+text
+@d11 19
+a29 8
+void insertionSort(ListRef L, long data){	//almost got it working
+	for(int pos = 0; pos<getLength(L); pos++) {
+		if(getCurrent(L)==0) break;
+		int cmp = getCurrent(L) - data;	//negative if input is bigger
+		if(cmp<0){insertBeforeCurrent(L, data);  return;}	//if bigger, stop then insert before
+		moveNext(L);
+	} 
+	insertAfterLast(L, data);
+@
+
+
+1.122
+log
+@-
+@
+text
+@d14 2
+a15 2
+		int cmp = getCurrent(L) - data;
+		if(cmp>0){insertBeforeCurrent(L, data);  return;}
+@
+
+
+1.121
+log
+@-
+@
+text
+@d15 1
+a15 1
+		if(cmp<0){insertBeforeCurrent(L, data);  return;}
+@
+
+
+1.120
+log
+@-
+@
+text
+@d15 1
+a15 1
+		if(cmp<0){insertBeforeCurrent(L, data);  break;}
+d31 2
+a32 2
+	insertBeforeFirst(custArray[userInt], productInt);	//select customer
+	//insertionSort(custArray[userInt], productInt);	//sort in order
+@
+
+
+1.119
+log
+@-
+@
+text
+@d31 2
+a32 2
+	//insertBeforeFirst(custArray[userInt], productInt);	//select customer
+	insertionSort(custArray[userInt], productInt);	//sort in order
+@
+
+
+1.118
+log
+@-
+@
+text
+@d15 1
+a15 1
+		if(cmp>0) break;
+d18 1
+a18 1
+	insertAfterCurrent(L, data);
+@
+
+
+1.117
+log
+@-
+@
+text
+@d15 1
+a15 1
+		if(cmp<0) break;
+@
+
+
+1.116
+log
+@-
+@
+text
+@d18 1
+a18 1
+	insertBeforeCurrent(L, data);
+@
+
+
+1.115
+log
+@-
+@
+text
+@d12 2
+a13 2
+	while(true){
+		if(isEmpty(L)||(getCurrent(L)==0)) break;
+@
+
+
+1.114
+log
+@-
+@
+text
+@d13 1
+a13 1
+		if(isEmpty(L)||if(getCurrent(L)==0)) break;
+@
+
+
+1.113
+log
+@-
+@
+text
+@d12 2
+a13 1
+	while(!isCurrentNull(L)){
+@
+
+
+1.112
+log
+@-
+@
+text
+@d12 1
+a12 1
+	while(getCurrent(L)!=0){
+@
+
+
+1.111
+log
+@-
+@
+text
+@d12 1
+a12 1
+	while(getCurrent(L)!=(int)NULL){
+@
+
+
+1.110
+log
+@-
+@
+text
+@d50 1
+a50 1
+				freeList(&custArray[i]);
+@
+
+
+1.109
+log
+@-
+@
+text
+@d50 1
+a50 1
+				freeList(*custArray[i]);
+@
+
+
+1.108
+log
+@-
+@
+text
+@d12 1
+a12 1
+	while(getCurrent(L)!=NULL){
+d50 1
+a50 1
+				freeList(custArray[i]);
+@
+
+
+1.107
+log
+@-
+@
+text
+@d30 2
+a31 2
+	insertBeforeFirst(custArray[userInt], productInt);	//select customer
+	//insertionSort(custArray[userInt], productInt);	//sort in order
+@
+
+
+1.106
+log
+@-
+@
+text
+@d11 1
+a11 1
+void insertionSort(ListRef L, long data){
+d30 2
+a31 2
+	//insertBeforeFirst(custArray[userInt], productInt);	//select customer
+	insertionSort(custArray[userInt], productInt);
+@
+
+
+1.105
+log
+@-
+@
+text
+@d12 2
+a13 3
+	NodeRef node = L->first;
+	while(node !=NULL){
+		int cmp = node->data - data;
+d15 1
+a15 1
+		node =node->next;
+@
+
+
+1.104
+log
+@-
+@
+text
+@d11 11
+d31 2
+a32 1
+	insertBeforeFirst(custArray[userInt], productInt);	//select customer
+@
+
+
+1.103
+log
+@-
+@
+text
+@a10 1
+void throwAway(){}		//does nothing, just too lazy to change else to if
+d28 1
+a28 2
+		if(count<2)throwAway();;	//throw away first 2 inputs
+		else{
+@
+
+
+1.102
+log
+@-
+@
+text
+@d11 1
+a11 11
+void createNumCus(char* input){
+	numCus = strtol(input,NULL,10);
+}
+void createNumPur(char* input){
+	numPur = strtol(input,NULL,10);
+}
+void setup(char* buffer, int count){
+	if(count==0) createNumCus(buffer);
+	else createNumPur(buffer);
+	
+}
+d13 3
+a15 3
+	char* input = strdup(buffer);
+	char* user = strtok(input, " ");
+	char* product = strtok(NULL, " ");
+d17 1
+a17 1
+	long productInt = atol(product);
+d29 1
+a29 1
+		if(count<2)setup(buffer, count);	//throw away first 2 inputs
+@
+
+
+1.101
+log
+@-
+@
+text
+@d32 1
+@
+
+
+1.100
+log
+@-
+@
+text
+@d49 2
+a50 2
+				makeEmpty(ListRef L);	
+				freeList(*L);
+@
+
+
+1.99
+log
+@-
+@
+text
+@d48 3
+a50 1
+				printList(stdout, custArray[i]);	
+a52 1
+	
+a68 2
+	long *ptr = (long*) 0xf0000000;
+	ptr = 10;
+@
+
+
+1.98
+log
+@-
+@
+text
+@d68 2
+a69 1
+	NULL = "string";
+@
+
+
+1.97
+log
+@-
+@
+text
+@d53 1
+a53 1
+void testList(){
+d68 1
+@
+
+
+1.96
+log
+@-
+@
+text
+@d46 4
+a49 2
+			printf("%d               ", i);
+			printList(stdout, custArray[i]);	
+@
+
+
+1.95
+log
+@-
+@
+text
+@d70 2
+a71 2
+	//readInput();
+	testList();
+@
+
+
+1.94
+log
+@-
+@
+text
+@d70 2
+a71 2
+	readInput();
+	//testList();
+@
+
+
+1.93
+log
+@-
+@
+text
+@d57 2
+@
+
+
+1.92
+log
+@-
+@
+text
+@d46 1
+a46 1
+			printf("%d                 ", i);
+@
+
+
+1.91
+log
+@-
+@
+text
+@d46 1
+a46 1
+			printf("%d        ", i);
+@
+
+
+1.90
+log
+@-
+@
+text
+@d46 1
+a46 1
+			printf("%d   ", i);
+@
+
+
+1.89
+log
+@-
+@
+text
+@a25 2
+//	user = (int)strdup(user);		//cast input string to int
+//	product= (int)strup(product);		//convert from string to int
+a29 1
+		//printf("list created at %d\n", userInt);
+a31 1
+	//printf("user: %d product %ld\n",userInt, productInt);
+a36 1
+	//int result = 1;
+a37 2
+		//result = fgets(*buffer, BUFFSIZE, stdin);
+	//	printf("count is %d\n", count);
+@
+
+
+1.88
+log
+@-
+@
+text
+@d35 1
+a35 1
+	printf("user: %d product %ld\n",userInt, productInt);
+a52 1
+		//if(custArray[i]!=NULL)
+@
+
+
+1.87
+log
+@-
+@
+text
+@d56 1
+a56 1
+		//}
+@
+
+
+1.86
+log
+@-
+@
+text
+@d53 1
+a53 1
+		if(custArray[i]!=NULL)
+d56 1
+a56 1
+		}
+@
+
+
+1.85
+log
+@-
+@
+text
+@d51 1
+a51 1
+	printf("Customer #     Books Purchased");
+@
+
+
+1.84
+log
+@-
+@
+text
+@d55 1
+a55 1
+			printList(stdout, "%lu\n",custArray[i]);	
+@
+
+
+1.83
+log
+@-
+@
+text
+@d55 1
+a55 1
+			printList(stdout, custArray[i]);	
+@
+
+
+1.82
+log
+@-
+@
+text
+@a52 1
+		printf("%p\n",custArray[i]);
+@
+
+
+1.81
+log
+@-
+@
+text
+@d52 1
+a52 1
+	for(int i=0; i<count-2; i++){
+@
+
+
+1.80
+log
+@-
+@
+text
+@d53 1
+a53 1
+		printf("%p",custArray[i]);
+@
+
+
+1.79
+log
+@-
+@
+text
+@d32 1
+a32 1
+		printf("list created at %d\n", userInt);
+d53 1
+@
+
+
+1.78
+log
+@-
+@
+text
+@d30 1
+a30 1
+	if(custArray[userInt]==NULL)
+d32 2
+@
+
+
+1.77
+log
+@-
+@
+text
+@d73 3
+a75 3
+	//initArray();
+	//readInput();
+	testList();
+@
+
+
+1.76
+log
+@-
+@
+text
+@d23 2
+a24 1
+	char* user = strtok(buffer, " ");
+@
+
+
+1.75
+log
+@-
+@
+text
+@d58 2
+d61 1
+a61 2
+	insertBeforeFirst(L, 2);
+	insertBeforeFirst(L, 3);
+@
+
+
+1.74
+log
+@-
+@
+text
+@d60 1
+d71 3
+a73 3
+	initArray();
+	readInput();
+	//testList();
+@
+
+
+1.73
+log
+@-
+@
+text
+@d50 1
+a50 1
+		if(!isEmpty(custArray[i]))
+@
+
+
+1.72
+log
+@-
+@
+text
+@d50 1
+a50 1
+		if(custArray[i]!=NULL)
+@
+
+
+1.71
+log
+@-
+@
+text
+@d24 1
+a24 1
+	char* product = strtok(buffer, " ");
+@
+
+
+1.70
+log
+@-
+@
+text
+@d32 1
+a32 1
+	//printf("user: %d product %ld\n",userInt, productInt);
+@
+
+
+1.69
+log
+@-
+@
+text
+@d63 1
+a63 1
+void initLists(){
+d65 1
+a65 1
+		custArray[i] = newList();
+d70 1
+a70 1
+	//initLists();
+@
+
+
+1.68
+log
+@-
+@
+text
+@d41 1
+a41 1
+		printf("count is %d\n", count);
+@
+
+
+1.67
+log
+@-
+@
+text
+@d32 1
+a32 1
+	printf("user: %d product %ld\n",userInt, productInt);
+@
+
+
+1.66
+log
+@-
+@
+text
+@d48 1
+d51 1
+@
+
+
+1.65
+log
+@-
+@
+text
+@d48 4
+a51 2
+	for(int i=0; i<count-2; i++)
+		printList(stdout, custArray[i]);	
+@
+
+
+1.64
+log
+@-
+@
+text
+@d48 2
+a49 2
+	//for(int i=0; i<count-2; i++)
+		printList(stdout, custArray[0]);	
+d66 1
+a66 1
+	initLists();
+@
+
+
+1.63
+log
+@-
+@
+text
+@d29 2
+a30 2
+	printf("User: %d Product: %lu\n",userInt,productInt);
+	//custArray[userInt] = malloc(sizeof(ListRef));  //dont think i need to malloc pointers
+@
+
+
+1.62
+log
+@-
+@
+text
+@d29 1
+a29 1
+	printf("User: %d Product: %lu",userInt,productInt);
+d32 1
+a32 1
+	printf("user: %d product %ld",userInt, productInt);
+d41 1
+a41 1
+		printf("count is %d", count);
+@
+
+
+1.61
+log
+@-
+@
+text
+@d65 1
+a65 1
+int main(){i
+@
+
+
+1.60
+log
+@-
+@
+text
+@d62 3
+a64 1
+	}	
+@
+
+
+1.59
+log
+@-
+@
+text
+@d59 8
+a66 3
+int main(){
+//	readInput();
+	testList();
+@
+
+
+1.58
+log
+@-
+@
+text
+@d30 1
+a30 2
+	//custArray[input];
+	custArray[userInt] = malloc(sizeof(ListRef));
+d53 1
+a53 1
+	ListRef L = malloc(sizeof(ListRef));
+@
+
+
+1.57
+log
+@-
+@
+text
+@d57 1
+a57 1
+	printList(L);
+@
+
+
+1.56
+log
+@-
+@
+text
+@d54 4
+a57 1
+
+d61 1
+a61 1
+	readInput();
+@
+
+
+1.55
+log
+@-
+@
+text
+@d49 2
+a50 2
+	for(int i=0; i<count-2; i++)
+		printList(stdout, custArray[i]);	
+@
+
+
+1.54
+log
+@-
+@
+text
+@d29 1
+d55 1
+@
+
+
+1.53
+log
+@-
+@
+text
+@d30 1
+a30 1
+	custArray[userInt] = malloc(sizeof(ListHDR));
+@
+
+
+1.52
+log
+@-
+@
+text
+@d30 1
+@
+
+
+1.51
+log
+@-
+@
+text
+@d45 1
+@
+
+
+1.50
+log
+@-
+@
+text
+@d37 3
+a39 3
+	int result = 1;
+	while(result){
+		result = fgets(*buffer, BUFFSIZE, stdin);
+@
+
+
+1.49
+log
+@-
+@
+text
+@d39 1
+a39 1
+		result = fgets(&buffer, BUFFSIZE, stdin);
+@
+
+
+1.48
+log
+@-
+@
+text
+@d39 1
+a39 1
+		result = fgets(buffer, BUFFSIZE, stdin);
+@
+
+
+1.47
+log
+@-
+@
+text
+@d39 1
+a39 1
+		result = fgetf(buffer, BUFFSIZE, stdin);
+@
+
+
+1.46
+log
+@-
+@
+text
+@d39 1
+a39 1
+		result = fscanf(stdin, buffer, "%s");
+@
+
+
+1.45
+log
+@-
+@
+text
+@d46 2
+a47 2
+	for(int i=0; i<3; i++)
+	//	printList(stdout, custArray[i]);	
+@
+
+
+1.44
+log
+@-
+@
+text
+@d47 1
+a47 1
+		printList(stdout, custArray[i]);	
+@
+
+
+1.43
+log
+@-
+@
+text
+@d37 3
+a39 1
+	while(fscanf(stdin, buffer, "%s")){
+@
+
+
+1.42
+log
+@-
+@
+text
+@d37 1
+a37 1
+	while(fscanf(stdin, buffer)){
+@
+
+
+1.41
+log
+@-
+@
+text
+@d37 1
+a37 1
+	while(fscanf(stdin, buffer,BUFFSIZE)){
+@
+
+
+1.40
+log
+@-
+@
+text
+@a31 1
+	fflush(NULL);
+d38 1
+@
+
+
+1.39
+log
+@-
+@
+text
+@d32 1
+@
+
+
+1.38
+log
+@-
+@
+text
+@d31 1
+a31 1
+	printf("user: %d product %l",userInt, productInt);
+@
+
+
+1.37
+log
+@-
+@
+text
+@d31 1
+a31 1
+	printf("user: %d product %d",userInt, productInt);
+@
+
+
+1.36
+log
+@-
+@
+text
+@d31 1
+a31 1
+	printf("user: %d product %lg",userInt, productInt);
+@
+
+
+1.35
+log
+@-
+@
+text
+@d31 1
+@
+
+
+1.34
+log
+@-
+@
+text
+@d50 1
+a50 1
+//	readInput();
+@
+
+
+1.33
+log
+@-
+@
+text
+@d49 1
+a49 1
+int main(char** args, int arg_s){
+@
+
+
+1.32
+log
+@-
+@
+text
+@d49 1
+a49 1
+int main(char** args){
+@
+
+
+1.31
+log
+@-
+@
+text
+@d25 2
+a26 2
+	user = (int)strdup(user);		//cast input string to int
+	product= (int)strup(product);		//convert from string to int
+@
+
+
+1.30
+log
+@-
+@
+text
+@d44 1
+a44 1
+	}
+@
+
+
+1.29
+log
+@-
+@
+text
+@d27 2
+a28 2
+	userInt = atoi(user);
+	productInt = atol(product);
+@
+
+
+1.28
+log
+@-
+@
+text
+@d26 3
+a28 1
+	product= (int)strup(product);
+d30 1
+a30 1
+	insertBeforeFirst(custArray[user], (long)product);	//select customer
+@
+
+
+1.27
+log
+@-
+@
+text
+@d25 1
+a25 1
+	user = (int)strdup(input);		//cast input string to int
+@
+
+
+1.26
+log
+@-
+@
+text
+@d23 1
+a23 1
+	char* input = strtok(buffer, " ");
+d25 2
+a26 2
+	input = (int)strdup(input);		//cast input string to int
+	input2= (int)strup(product);
+d28 1
+a28 1
+	insertBeforeFirst(custArray[input], (long)input2);	//select customer
+@
+
+
+1.25
+log
+@-
+@
+text
+@d23 2
+a24 2
+	char* input = *strtok(buffer, ' ');
+	char* product = *strtok(buffer, ' ');
+@
+
+
+1.24
+log
+@-
+@
+text
+@d23 2
+a24 2
+	char* input = strtok(buffer, ' ');
+	char* product = strtok(buffer, ' ');
+@
+
+
+1.23
+log
+@-
+@
+text
+@d22 9
+d35 1
+a35 1
+		if(count<2)setup(buffer, count);
+d37 1
+a37 2
+			for(int customer = 0; ;customer++){
+				custArray[customer] = malloc(sizeof(struct ListHdr));
+d39 3
+a41 1
+		}	
+@
+
+
+1.22
+log
+@-
+@
+text
+@d8 1
+a8 1
+int custArray[1024];
+@
+
+
+1.21
+log
+@-
+@
+text
+@d8 1
+a8 1
+int * custArray;
+d26 6
+a31 1
+		if(count<2)setup(buffer, count);	
+d34 3
+d38 2
+a39 1
+	readInput();
+@
+
+
+1.20
+log
+@-
+@
+text
+@a5 1
+#define null "NULL";
+@
+
+
+1.19
+log
+@-
+@
+text
+@d5 1
+a5 1
+#define BUFFSIZE 1024;
+d10 1
+d24 1
+a24 1
+	char buffer[1024];
+d26 1
+a26 1
+	while( fscanf(stdin, buffer,BUFFSIZE)){
+@
+
+
+1.18
+log
+@-
+@
+text
+@d23 1
+a23 1
+	char buffer[BUFFSIZE];
+@
+
+
+1.17
+log
+@-
+@
+text
+@d23 1
+a23 1
+	char [BUFFSIZE] buffer;
+@
+
+
+1.16
+log
+@-
+@
+text
+@d23 1
+a23 1
+	char[1024] buffer;
+@
+
+
+1.15
+log
+@-
+@
+text
+@d23 1
+a23 1
+	char[BUFFSIZE] buffer;
+@
+
+
+1.14
+log
+@-
+@
+text
+@d12 1
+a12 1
+	numCus = strtol(input,null,0);
+d15 1
+a15 1
+	numPur = strtol(input,null,0);
+@
+
+
+1.13
+log
+@-
+@
+text
+@d6 1
+d12 1
+a12 1
+	numCus = strtol(input);
+d15 1
+a15 1
+	numPur = strtol(input);
+@
+
+
+1.12
+log
+@-
+@
+text
+@d3 1
+@
+
+
+1.11
+log
+@-
+@
+text
+@d9 6
+a14 2
+void createNumPur(){;}
+void createNumCus(){;}
+d16 2
+a17 2
+	if(count==0) createNumCus();
+	else createNumPur();
+@
+
+
+1.10
+log
+@-
+@
+text
+@d13 1
+a13 1
+	else (count==1 )createNumPur();
+@
+
+
+1.9
+log
+@-
+@
+text
+@d23 1
+a23 1
+int main(**char args){
+@
+
+
+1.8
+log
+@-
+@
+text
+@d23 1
+a23 1
+int main(char[][] args){
+@
+
+
+1.7
+log
+@-
+@
+text
+@d23 1
+a23 1
+int main(*char[] args){
+@
+
+
+1.6
+log
+@-
+@
+text
+@d10 1
+a10 1
+void createNumPur(){;}
+@
+
+
+1.5
+log
+@-
+@
+text
+@d9 2
+a10 2
+void createNumPur(){};
+void createNumPur(){};
+@
+
+
+1.4
+log
+@-
+@
+text
+@d8 3
+d12 2
+a13 2
+	if(count==0)createNumCus();
+	else (count==1)createNumPur();
+@
+
+
+1.3
+log
+@-
+@
+text
+@d7 1
+d9 2
+a10 2
+	if(count==0) createCustomers(char* buffer);
+	else if(count==1) createPurchases
+@
+
+
+1.2
+log
+@-
+@
+text
+@d19 1
+a19 1
+public void main(*char[] args){
+@
+
+
+1.1
+log
+@-
+@
+text
+@d19 1
+a19 1
+public static void main(*char[] args){
+@

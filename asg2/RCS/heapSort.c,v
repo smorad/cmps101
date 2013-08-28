@@ -1,0 +1,465 @@
+head	1.27;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.27
+date	2013.05.01.19.38.08;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.01.19.32.09;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.01.19.27.30;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.01.19.26.33;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.01.19.24.52;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.01.18.57.35;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.01.18.49.36;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.04.30.04.43.23;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.04.30.04.43.02;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.04.30.04.42.26;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.30.04.39.53;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.30.04.39.37;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.30.04.37.24;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.30.04.37.00;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.30.04.36.13;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.30.04.36.02;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.30.04.35.29;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.30.04.19.29;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.30.04.18.56;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.30.04.16.34;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.30.04.11.50;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.30.04.10.24;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.30.04.07.24;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.30.03.56.10;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.28.19.43.46;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.27.21.27.07;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.26.03.28.19;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.27
+log
+@-
+@
+text
+@#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include "heap.h"
+void heapSort(int keys[], int numKeys){
+	heap h = newHeap(numKeys);	
+	for(int iter = 0; iter<numKeys; iter++){
+		insert(h, keys[iter]);
+	}
+	int tmp[numKeys];
+	for(int i=0; i<numKeys; i++){
+		tmp[i] = maxValue(h);
+		deleteMax(h);
+	}
+	for(int i=0; i<numKeys; i++){
+		keys[numKeys-i-1]=tmp[i];
+	}
+	delete(h);
+	
+
+}
+@
+
+
+1.26
+log
+@-
+@
+text
+@a12 1
+	//	printf("%d\n",maxValue(h));
+a14 1
+	//*keys = tmp;
+a17 1
+	//	printf("%d\n", tmp[i]);
+a18 1
+	//free(h);
+@
+
+
+1.25
+log
+@-
+@
+text
+@d21 2
+a22 2
+	//delete(h);
+	free(h);
+@
+
+
+1.24
+log
+@-
+@
+text
+@d22 1
+@
+
+
+1.23
+log
+@-
+@
+text
+@d21 1
+a21 2
+	if(sizeof(h)!=0)
+		delete(h);
+@
+
+
+1.22
+log
+@-
+@
+text
+@d21 2
+a22 1
+	delete(h);
+@
+
+
+1.21
+log
+@-
+@
+text
+@d21 1
+@
+
+
+1.20
+log
+@-
+@
+text
+@d13 1
+a13 1
+		printf("%d\n",maxValue(h));
+@
+
+
+1.19
+log
+@-
+@
+text
+@d18 1
+a18 1
+		keys[numKeys-i]=tmp[i];
+@
+
+
+1.18
+log
+@-
+@
+text
+@d18 1
+a18 1
+		keys[i]=tmp[numKeys-i];
+@
+
+
+1.17
+log
+@-
+@
+text
+@d18 1
+a18 2
+		printf("key: %d \t tmp: %d\n", keys[i], tmp[i]);
+		keys[i]=tmp[i];
+@
+
+
+1.16
+log
+@-
+@
+text
+@d18 1
+a18 1
+		printf("key: %d \t tmp: %d", keys[i], tmp[i]);
+@
+
+
+1.15
+log
+@-
+@
+text
+@d17 2
+a18 1
+	for(int i=0; i<numKeys; i++)
+d20 1
+@
+
+
+1.14
+log
+@-
+@
+text
+@d18 2
+a19 2
+	//	keys[i]=tmp[i];
+		printf("%d\n", tmp[i]);
+@
+
+
+1.13
+log
+@-
+@
+text
+@d18 2
+a19 1
+		keys[i]=tmp[i];
+@
+
+
+1.12
+log
+@-
+@
+text
+@d13 1
+a13 1
+	//	printf("%d\n",maxValue(h));
+@
+
+
+1.11
+log
+@-
+@
+text
+@d13 1
+a13 1
+		printf("%d\n",maxValue(h));
+@
+
+
+1.10
+log
+@-
+@
+text
+@d17 2
+a18 1
+	memcpy(keys, tmp, numKeys*sizeof (int));
+@
+
+
+1.9
+log
+@-
+@
+text
+@d3 1
+@
+
+
+1.8
+log
+@-
+@
+text
+@d15 2
+a16 1
+	*keys = tmp;
+@
+
+
+1.7
+log
+@-
+@
+text
+@a7 1
+		printf("insert\n");
+d12 1
+a13 1
+		printf("pop\n");
+@
+
+
+1.6
+log
+@-
+@
+text
+@d8 1
+a8 1
+		printf("insert");
+d14 1
+a14 1
+		printf("pop");
+@
+
+
+1.5
+log
+@-
+@
+text
+@d8 1
+d14 1
+@
+
+
+1.4
+log
+@-
+@
+text
+@d10 1
+a10 1
+	for(int i=0; !isEmpty(h); i++){
+@
+
+
+1.3
+log
+@-
+@
+text
+@a3 1
+//typedef struct HeapHdr *heap;
+@
+
+
+1.2
+log
+@-
+@
+text
+@d10 6
+@
+
+
+1.1
+log
+@-
+@
+text
+@d3 10
+a12 1
+void heapSort(int keys[], int numKeys);
+@

@@ -1,0 +1,2703 @@
+head	1.135;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.135
+date	2013.05.19.20.19.24;	author -;	state -;
+branches;
+next	1.134;
+
+1.134
+date	2013.05.19.20.07.06;	author -;	state -;
+branches;
+next	1.133;
+
+1.133
+date	2013.05.19.20.06.38;	author -;	state -;
+branches;
+next	1.132;
+
+1.132
+date	2013.05.19.19.41.40;	author -;	state -;
+branches;
+next	1.131;
+
+1.131
+date	2013.05.19.19.36.32;	author -;	state -;
+branches;
+next	1.130;
+
+1.130
+date	2013.05.19.19.35.33;	author -;	state -;
+branches;
+next	1.129;
+
+1.129
+date	2013.05.19.19.34.23;	author -;	state -;
+branches;
+next	1.128;
+
+1.128
+date	2013.05.19.19.32.56;	author -;	state -;
+branches;
+next	1.127;
+
+1.127
+date	2013.05.19.00.48.37;	author -;	state -;
+branches;
+next	1.126;
+
+1.126
+date	2013.05.19.00.38.41;	author -;	state -;
+branches;
+next	1.125;
+
+1.125
+date	2013.05.18.22.19.44;	author -;	state -;
+branches;
+next	1.124;
+
+1.124
+date	2013.05.18.22.17.55;	author -;	state -;
+branches;
+next	1.123;
+
+1.123
+date	2013.05.18.22.16.37;	author -;	state -;
+branches;
+next	1.122;
+
+1.122
+date	2013.05.18.22.15.45;	author -;	state -;
+branches;
+next	1.121;
+
+1.121
+date	2013.05.18.22.14.10;	author -;	state -;
+branches;
+next	1.120;
+
+1.120
+date	2013.05.18.22.12.29;	author -;	state -;
+branches;
+next	1.119;
+
+1.119
+date	2013.05.18.22.06.03;	author -;	state -;
+branches;
+next	1.118;
+
+1.118
+date	2013.05.18.21.58.01;	author -;	state -;
+branches;
+next	1.117;
+
+1.117
+date	2013.05.18.21.57.52;	author -;	state -;
+branches;
+next	1.116;
+
+1.116
+date	2013.05.18.21.55.25;	author -;	state -;
+branches;
+next	1.115;
+
+1.115
+date	2013.05.18.21.53.52;	author -;	state -;
+branches;
+next	1.114;
+
+1.114
+date	2013.05.18.21.53.22;	author -;	state -;
+branches;
+next	1.113;
+
+1.113
+date	2013.05.18.21.51.51;	author -;	state -;
+branches;
+next	1.112;
+
+1.112
+date	2013.05.18.21.50.15;	author -;	state -;
+branches;
+next	1.111;
+
+1.111
+date	2013.05.18.21.47.24;	author -;	state -;
+branches;
+next	1.110;
+
+1.110
+date	2013.05.18.21.42.05;	author -;	state -;
+branches;
+next	1.109;
+
+1.109
+date	2013.05.18.21.40.36;	author -;	state -;
+branches;
+next	1.108;
+
+1.108
+date	2013.05.18.21.39.59;	author -;	state -;
+branches;
+next	1.107;
+
+1.107
+date	2013.05.18.21.35.08;	author -;	state -;
+branches;
+next	1.106;
+
+1.106
+date	2013.05.18.20.58.16;	author -;	state -;
+branches;
+next	1.105;
+
+1.105
+date	2013.05.18.20.57.33;	author -;	state -;
+branches;
+next	1.104;
+
+1.104
+date	2013.05.18.20.53.26;	author -;	state -;
+branches;
+next	1.103;
+
+1.103
+date	2013.05.18.20.52.55;	author -;	state -;
+branches;
+next	1.102;
+
+1.102
+date	2013.05.18.20.51.46;	author -;	state -;
+branches;
+next	1.101;
+
+1.101
+date	2013.05.18.20.51.35;	author -;	state -;
+branches;
+next	1.100;
+
+1.100
+date	2013.05.18.20.51.21;	author -;	state -;
+branches;
+next	1.99;
+
+1.99
+date	2013.05.18.20.51.03;	author -;	state -;
+branches;
+next	1.98;
+
+1.98
+date	2013.05.18.20.50.38;	author -;	state -;
+branches;
+next	1.97;
+
+1.97
+date	2013.05.18.20.50.10;	author -;	state -;
+branches;
+next	1.96;
+
+1.96
+date	2013.05.18.20.49.09;	author -;	state -;
+branches;
+next	1.95;
+
+1.95
+date	2013.05.18.20.48.32;	author -;	state -;
+branches;
+next	1.94;
+
+1.94
+date	2013.05.18.20.47.49;	author -;	state -;
+branches;
+next	1.93;
+
+1.93
+date	2013.05.18.20.43.21;	author -;	state -;
+branches;
+next	1.92;
+
+1.92
+date	2013.05.18.20.42.21;	author -;	state -;
+branches;
+next	1.91;
+
+1.91
+date	2013.05.18.20.41.22;	author -;	state -;
+branches;
+next	1.90;
+
+1.90
+date	2013.05.18.20.41.01;	author -;	state -;
+branches;
+next	1.89;
+
+1.89
+date	2013.05.18.20.39.30;	author -;	state -;
+branches;
+next	1.88;
+
+1.88
+date	2013.05.18.20.38.41;	author -;	state -;
+branches;
+next	1.87;
+
+1.87
+date	2013.05.18.20.38.21;	author -;	state -;
+branches;
+next	1.86;
+
+1.86
+date	2013.05.18.20.37.03;	author -;	state -;
+branches;
+next	1.85;
+
+1.85
+date	2013.05.18.20.34.50;	author -;	state -;
+branches;
+next	1.84;
+
+1.84
+date	2013.05.18.20.07.04;	author -;	state -;
+branches;
+next	1.83;
+
+1.83
+date	2013.05.18.20.06.17;	author -;	state -;
+branches;
+next	1.82;
+
+1.82
+date	2013.05.18.20.05.47;	author -;	state -;
+branches;
+next	1.81;
+
+1.81
+date	2013.05.18.20.04.57;	author -;	state -;
+branches;
+next	1.80;
+
+1.80
+date	2013.05.18.20.03.53;	author -;	state -;
+branches;
+next	1.79;
+
+1.79
+date	2013.05.18.20.00.23;	author -;	state -;
+branches;
+next	1.78;
+
+1.78
+date	2013.05.18.19.59.23;	author -;	state -;
+branches;
+next	1.77;
+
+1.77
+date	2013.05.18.19.59.10;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2013.05.18.19.57.22;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2013.05.18.19.56.17;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2013.05.18.19.55.21;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2013.05.18.19.48.51;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2013.05.18.19.48.10;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2013.05.18.19.45.59;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2013.05.18.19.36.24;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2013.05.18.19.18.09;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2013.05.18.19.15.27;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2013.05.18.19.14.59;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2013.05.18.19.14.32;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.05.18.19.13.41;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.05.18.19.12.57;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.05.18.19.08.33;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.05.18.19.04.27;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.05.18.18.55.15;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.05.18.18.54.01;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.05.18.18.51.28;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.05.18.18.50.37;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.05.18.18.46.44;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.05.15.05.02.38;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.05.15.04.59.31;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.05.15.04.56.29;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.05.15.04.55.54;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.05.15.04.55.27;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.05.15.04.52.04;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.05.15.04.51.51;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.05.15.04.48.22;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.05.15.04.43.26;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.05.15.04.41.32;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.05.15.04.40.09;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.05.15.04.38.44;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.05.15.04.38.05;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.05.15.04.36.33;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.05.15.04.35.24;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.05.15.04.33.49;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.05.14.04.51.48;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.05.14.04.38.56;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.05.14.04.25.31;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.05.14.04.24.29;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.05.14.04.22.55;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.05.14.04.19.06;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.05.14.04.18.41;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.05.14.04.12.03;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.05.14.04.10.53;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.05.14.04.10.12;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.05.14.04.09.34;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.05.14.04.07.39;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.05.14.01.14.35;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.05.14.01.13.56;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.14.01.13.21;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.14.01.03.28;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.14.01.01.17;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.14.01.00.49;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.14.00.59.35;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.14.00.57.36;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.14.00.56.28;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.14.00.52.48;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.14.00.28.10;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.14.00.26.19;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.14.00.19.43;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.14.00.13.17;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.13.23.58.25;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.13.23.55.25;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.13.23.34.18;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.13.22.36.55;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.13.22.33.32;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.13.22.28.06;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.13.22.25.46;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.13.19.39.12;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.13.03.15.42;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.13.03.11.24;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.12.22.08.04;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.12.20.40.16;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.12.20.39.50;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.12.19.25.03;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.135
+log
+@-
+@
+text
+@//smorad@@ucsc.edu
+#include "bookCountList.h"
+#include "hashTable.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <assert.h>
+
+/*Inserts copurchases into hash*/
+void addToHash(HashRef h, long bookId, ListRef * customers, int custNum, BookRef list){
+	moveFirst(customers[custNum]);			//add cust previous books to hash of current book
+	while(!offEnd(customers[custNum])){
+			long current = getCurrent(customers[custNum]);
+			if(getId(list)!= current){ //don't add itself to book list
+				insertionSort(getBookList(list), current);
+			}
+			if(atLast(customers[custNum])) break;
+				moveNext(customers[custNum]);
+		
+	}
+}
+
+/*Gets copurchases then adds to hash*/
+void addCopurchase(HashRef h, long bookId, ListRef * customers, int custNum){
+	BookRef list = getElement(h, bookId);
+	if(list==NULL)
+		list = insert(h, bookId, NULL);
+	addToHash(h, bookId, customers, custNum, list);//add symmetrically, need for loop to add
+	moveFirst(customers[custNum]);
+	while(!offEnd(customers[custNum])){
+		long id = getCurrent(customers[custNum]);
+		BookRef l = getElement(h, id);
+		if(l==NULL) 
+			l = insert(h, id, NULL); 
+		addToHash(h, id, customers, custNum, l);
+		if(atLast(customers[custNum])) break;
+			moveNext(customers[custNum]);
+	}
+
+}
+/*Check if customer already purchased certain book*/
+int customerCompare(long id, ListRef *customers, int custNum){
+	ListRef l = customers[custNum];
+	moveFirst(l);
+	while(!offEnd(l)){
+		if(getCurrent(l) == id)
+			return true;
+		if(atLast(l)) break;
+		moveNext(l);	
+	}
+	return false;
+}
+/*Gets best recommendation then prints it*/
+void printRecommendation(HashRef h, long bookId, ListRef* customers, int custNum){
+	moveFirst(customers[custNum]);
+	int max=0;
+	long maxId=0;
+	if(getElement(h,bookId)==NULL){	
+		printf("No recommendations for book: %lu\n", bookId);
+		return;
+	}
+	ListRef l = getBookList(getElement(h,bookId));
+	moveFirst(l);
+	while(!offEnd(l)){
+		if(getCount(l) >=max && !customerCompare(getCurrent(l), customers, custNum)){
+			max = getCount(l);
+			maxId=getCurrent(l);
+		}
+		if(atLast(l)) break;
+		moveNext(l);
+		}
+	if(maxId!=0)
+		printf("Recommendation for book %lu is : %lu\n",bookId,maxId);
+	else	
+		printf("No recommendations for book: %lu\n", bookId);
+}
+
+void debugArray(ListRef* customers, int numCustomers){
+	for(int i=0; i<numCustomers; i++){
+		printList(customers[i]);
+	}
+}
+/*Main function that reads in every transaction*/
+void readTransactions(FILE* f, int numCustomers, int numTransactions){
+	HashRef h = createHashSet();
+	int custNum, wantPrint;
+	int count =0;
+	long bookId;
+	ListRef customers[numCustomers];
+	for(int i=0; i<numCustomers+1; i++)
+		customers[i] = newList();
+	while(count < numTransactions){
+		++count;
+		fscanf(f, "%d", &custNum);
+		fscanf(f, "%lu", &bookId);
+		fscanf(f, "%d", &wantPrint);
+	if(hasBook(customers[custNum],bookId)){		//customer already bought book
+	//	checkPurchased(customers, custNum, bookId);
+		insertionSort(customers[custNum], bookId);
+	}
+	else{
+		addCopurchase(h, bookId, customers, custNum);
+		insertionSort(customers[custNum], bookId);
+		}
+		
+	if(wantPrint){
+		printRecommendation(h, bookId, customers, custNum);
+	}
+	
+	}
+	//debugHash(h);//uncomment me to see the hash status
+	destroy(h);
+	for(int i=0; i<numCustomers+1; i++){
+		makeEmpty(customers[i]);
+		freeList(customers[i]);
+	}
+}
+
+/*Parses initial input*/
+void readInput(FILE *f){
+	int numCustomers;
+	fscanf(f,"%d", &numCustomers);
+	int numTransactions;
+	fscanf(f,"%d", &numTransactions);
+	int throwAway;
+	fscanf(f, "%d", &throwAway);
+	readTransactions(f, numCustomers, numTransactions);
+}
+
+
+int main(int argc, char** args){
+	FILE *f;
+	f = fopen(args[1], "r");
+	if(f==NULL){
+		printf("File not found\n");
+		exit(EXIT_FAILURE);
+	}
+	readInput(f);
+	fclose(f);
+	return EXIT_SUCCESS;
+}
+@
+
+
+1.134
+log
+@-
+@
+text
+@d1 1
+@
+
+
+1.133
+log
+@-
+@
+text
+@a26 1
+	free(list);
+@
+
+
+1.132
+log
+@-
+@
+text
+@d27 1
+@
+
+
+1.131
+log
+@-
+@
+text
+@d7 1
+d21 1
+a21 5
+//void checkPurchased(ListRef * customers, int custNum, long bookId){
+//		insertionSort(customers[custNum], bookId);
+	
+//}
+
+d39 1
+a39 1
+
+d51 1
+a51 1
+
+d81 1
+a81 1
+
+d109 1
+a109 1
+	debugHash(h);//uncomment me to see the hash status
+d116 2
+@
+
+
+1.130
+log
+@-
+@
+text
+@d112 1
+a112 1
+	//debugHash(h)//uncomment me to see the hash status
+@
+
+
+1.129
+log
+@-
+@
+text
+@d73 1
+a73 1
+	if(bookId!=0)
+@
+
+
+1.128
+log
+@-
+@
+text
+@d73 4
+a76 1
+	printf("Recommendation for book %lu is : %lu\n",bookId,maxId);
+@
+
+
+1.127
+log
+@-
+@
+text
+@d43 12
+d65 2
+a66 2
+	while(!offEnd(getBookList(getElement(h,bookId)))){
+		if(getCount(l) >=max){
+@
+
+
+1.126
+log
+@-
+@
+text
+@a10 6
+		//	BookRef list = getElement(h, current);
+		//	printf("attempting to add %lu to rec for book %lu\n", current, bookId);
+		//	if(list==NULL) {
+		//		list = insert(h, bookId, NULL);
+		//		printf("BOOK %lu not in hash, creating new entry\n", getId(list));
+		//	}
+a12 2
+		//		printf("Adding book %lu to list\n", current);
+				//insert(h, bookId, list);			//FIX ME
+d20 2
+a21 2
+void checkPurchased(ListRef * customers, int custNum, long bookId){
+		insertionSort(customers[custNum], bookId);
+d23 1
+a23 1
+}
+a28 2
+	//if(hashIsEmpty(h, bookId))
+	//	insert(h, bookId, NULL);	//book has not been purchased yet
+a53 3
+	//	printf("CUR: %lu\n COUNT: %d\n", getCurrent(l), getCount(l));
+		//int count = getCount(getBookList(getElement(h,bookId)));
+		//long id = getId(getBookList(getElement(h, bookId)));
+a54 1
+		//	printf("%lu is biggest\n", bookId);
+a56 1
+	//		printf("max: %d maxid: %lu\n", max, maxId);
+a60 1
+	//printf("\n");
+a74 2
+	//int printArray[4096];
+	//int printCount = 0;
+d84 2
+a85 1
+		checkPurchased(customers, custNum, bookId);
+a92 1
+	//	printArray[printCount++] = bookId;
+d97 1
+a97 2
+	//for(int i=0; printArray[i]!=-1; i++)
+	//debugHash(h);
+@
+
+
+1.125
+log
+@-
+@
+text
+@d91 2
+a92 2
+	int printArray[4096];
+	int printCount = 0;
+a93 2
+	for(int i=0; i<4096; i++)
+		printArray[i] = -1;
+a106 3
+		if(wantPrint){
+			printArray[printCount++] = bookId;
+			//printRecommendation(h, bookId, customers, custNum);
+d108 4
+d115 1
+a115 2
+	for(int i=0; printArray[i]!=-1; i++)
+		printRecommendation(h, printArray[i], customers, custNum);
+@
+
+
+1.124
+log
+@-
+@
+text
+@d77 1
+a77 1
+	printf("Recommendation for book %lu is : %d\n",bookId,maxId);
+d94 2
+d116 1
+a116 1
+	for(int i=0; printArray[i]!=NULL; i++)
+@
+
+
+1.123
+log
+@-
+@
+text
+@d57 1
+a57 1
+	if(getElement(h,bookId)==NULL || bookId<0){	
+@
+
+
+1.122
+log
+@-
+@
+text
+@d57 1
+a57 1
+	if(getElement(h,bookId)==NULL){	
+@
+
+
+1.121
+log
+@-
+@
+text
+@d57 1
+a57 2
+	ListRef l = getBookList(getElement(h,bookId));
+	if(l==NULL){
+d61 1
+@
+
+
+1.120
+log
+@-
+@
+text
+@d58 4
+@
+
+
+1.119
+log
+@-
+@
+text
+@d87 2
+d104 2
+a105 2
+			
+			printRecommendation(h, bookId, customers, custNum);
+d110 2
+@
+
+
+1.118
+log
+@-
+@
+text
+@a86 1
+	//ListRef *customers = calloc(numCustomers, sizeof(ListRef));
+d101 2
+a102 1
+		if(wantPrint)
+d105 1
+@
+
+
+1.117
+log
+@-
+@
+text
+@d107 1
+a107 1
+	debugHash(h);
+@
+
+
+1.116
+log
+@-
+@
+text
+@a112 1
+	//free(customers);
+@
+
+
+1.115
+log
+@-
+@
+text
+@d109 1
+a109 1
+	for(int i=0; i<numCustomers; i++){
+@
+
+
+1.114
+log
+@-
+@
+text
+@d111 1
+a111 1
+		//freeList(customers[i]);
+@
+
+
+1.113
+log
+@-
+@
+text
+@d110 1
+a110 1
+	//	makeEmpty(customers[i]);
+@
+
+
+1.112
+log
+@-
+@
+text
+@d108 1
+a108 1
+	//destroy(h);
+@
+
+
+1.111
+log
+@-
+@
+text
+@d87 2
+a88 1
+	ListRef *customers = calloc(numCustomers, sizeof(ListRef));
+@
+
+
+1.110
+log
+@-
+@
+text
+@d107 1
+a107 1
+	destroy(h);
+d109 1
+a109 1
+		makeEmpty(customers[i]);
+@
+
+
+1.109
+log
+@-
+@
+text
+@d107 1
+a107 1
+	//destroy(h);
+d109 1
+a109 1
+	//	makeEmpty(customers[i]);
+@
+
+
+1.108
+log
+@-
+@
+text
+@d107 1
+a107 1
+	destroy(h);
+@
+
+
+1.107
+log
+@-
+@
+text
+@d109 1
+a109 1
+		makeEmpty(customers[i]);
+d112 1
+a112 1
+	free(*customers);
+@
+
+
+1.106
+log
+@-
+@
+text
+@d112 1
+a112 1
+//	free(customers);
+@
+
+
+1.105
+log
+@-
+@
+text
+@d109 2
+a110 4
+		if(customers[i]!=NULL)
+			makeEmpty(customers[i]);
+		if(customers[i]!=NULL)
+			freeList(customers[i]);
+@
+
+
+1.104
+log
+@-
+@
+text
+@d109 4
+a112 2
+		makeEmpty(customers[i]);
+		//freeList(customers[i]);
+@
+
+
+1.103
+log
+@-
+@
+text
+@d112 1
+a112 1
+	free(customers);
+@
+
+
+1.102
+log
+@-
+@
+text
+@d110 1
+a110 1
+		freeList(customers[i]);
+d112 1
+a112 1
+	//free(customers);
+@
+
+
+1.101
+log
+@-
+@
+text
+@d110 1
+a110 1
+//		freeList(customers[i]);
+@
+
+
+1.100
+log
+@-
+@
+text
+@d109 1
+a109 1
+	//	makeEmpty(customers[i]);
+@
+
+
+1.99
+log
+@-
+@
+text
+@d107 1
+a107 1
+//	destroy(h);
+@
+
+
+1.98
+log
+@-
+@
+text
+@d112 1
+a112 1
+	free(customers);
+@
+
+
+1.97
+log
+@-
+@
+text
+@d107 1
+a107 1
+	destroy(h);
+@
+
+
+1.96
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu\n COUNT: %d\n", getCurrent(l), getCount(l));
+d67 1
+a67 1
+			printf("max: %d maxid: %lu\n", max, maxId);
+d72 1
+a72 1
+	printf("\n");
+d110 1
+a110 1
+		freeList(customers[i]);
+@
+
+
+1.95
+log
+@-
+@
+text
+@d109 1
+a109 1
+		makeEmpty(customers[i]);
+d112 1
+a112 1
+	free(*customers);
+@
+
+
+1.94
+log
+@-
+@
+text
+@d112 1
+a112 1
+	free(customers);
+@
+
+
+1.93
+log
+@-
+@
+text
+@d108 1
+a108 1
+	for(int i=0; i<numCustomers+1; i++){
+@
+
+
+1.92
+log
+@-
+@
+text
+@d108 1
+a108 1
+	for(int i=0; i<numCustomers; i++){
+@
+
+
+1.91
+log
+@-
+@
+text
+@d108 1
+a108 1
+	for(int i=0; i<numCustomers+1; i++){
+@
+
+
+1.90
+log
+@-
+@
+text
+@d109 1
+a109 1
+		//makeEmpty(customers[i]);
+@
+
+
+1.89
+log
+@-
+@
+text
+@d109 1
+a109 1
+		makeEmpty(customers[i]);
+@
+
+
+1.88
+log
+@-
+@
+text
+@d108 1
+a108 1
+	for(int i=0; i<numCustomers; i++){
+@
+
+
+1.87
+log
+@-
+@
+text
+@d108 1
+a108 1
+	for(int i=0; i<numCustomers+1; i++){
+@
+
+
+1.86
+log
+@-
+@
+text
+@d108 2
+a109 1
+	for(int i=0; i<numCustomers+1; i++)
+d111 1
+@
+
+
+1.85
+log
+@-
+@
+text
+@d108 2
+@
+
+
+1.84
+log
+@-
+@
+text
+@d107 2
+a108 1
+	debugArray(customers, numCustomers);
+d129 1
+a131 33
+
+/*		if(hasBook(customers[custNum], bookId))
+			insertionSort(customers[custNum], bookId);
+		else{
+			if(getElement(h, bookId) == NULL){	//if hash[b] is null, create new list 
+				insert(h, bookId, NULL);		
+			}
+			moveFirst(customers[custNum]);//for each book in customers[custNum]
+			while(!offEnd(customers[custNum])){
+				printf("1");
+				insert(h, bookId, getCurrent(customers[custNum]));//add each previously purchased
+				BookRef r = getElement(h,getCurrent(customers[custNum]));//book to hashset
+				insertionSort(getBookListList(r),bookId);
+				moveNext(customers[custNum]);
+				if(atLast(customers[custNum])) break;
+			}
+			insertionSort(customers[custNum], bookId);
+			if(wantPrint){
+				moveFirst(customers[custNum]);
+				while(!offEnd(customers[custNum])){
+					printf("Recommendations: %lu\t",getCurrent(customers[custNum]));
+					moveNext(customers[custNum]);
+
+				}
+				printf("\n");
+			}
+			
+			
+		}
+		
+		
+	}*/
+
+@
+
+
+1.83
+log
+@-
+@
+text
+@d100 1
+a102 1
+			insertionSort(customers[custNum], bookId);
+@
+
+
+1.82
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu\n COUNT: %d\n", getCurrent(l));
+@
+
+
+1.81
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu COUNT: %u\n", getCurrent(l), getCount(l));
+d101 1
+a102 1
+			printRecommendation(h, bookId, customers, custNum);
+@
+
+
+1.80
+log
+@-
+@
+text
+@d101 1
+a102 1
+			insertionSort(customers[custNum], bookId);
+@
+
+
+1.79
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu COUNT: %d\n", getCurrent(l), getCount(l));
+@
+
+
+1.78
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu\n", getCurrent(l));
+@
+
+
+1.77
+log
+@-
+@
+text
+@d60 1
+a60 1
+		printf("CUR: %lu", getCurrent(l));
+@
+
+
+1.76
+log
+@-
+@
+text
+@d59 2
+a60 1
+	while(!offEnd(getBookList(getElement(h,bookId)))){//FIX CHANGE TO HASH INSTEAD OF CUSTARRAYi
+@
+
+
+1.75
+log
+@-
+@
+text
+@d55 2
+a56 2
+	long max=0;
+	int maxId=0;
+d66 1
+a66 1
+			printf("max: %d maxid: %lu", max, maxId);
+@
+
+
+1.74
+log
+@-
+@
+text
+@d66 1
+@
+
+
+1.73
+log
+@-
+@
+text
+@d57 9
+a65 6
+	while(!offEnd(getBookList(getElement(h,bookId)))){//FIX CHANGE TO HASH INSTEAD OF CUSTARRAY
+		//printf("loooop");
+		if(getCount(getBookList(getElement(h,bookId))) >=max){
+			printf("%lu is biggest\n", getId(getBookList(getElement(h,bookId))));
+			max = getCount(getBookList(getElement(h,bookId)));
+			maxId=getCurrent(getBookList(getElement(h,bookId)));
+d67 2
+a68 2
+		if(atLast(getBookList(getElement(h,bookId)))) break;
+		moveNext(getBookList(getElement(h,bookId)));
+@
+
+
+1.72
+log
+@-
+@
+text
+@d60 1
+a60 1
+			printf("%lu is biggest\n", getCount(getBookList(getElement(h,bookId))));
+@
+
+
+1.71
+log
+@-
+@
+text
+@d60 1
+@
+
+
+1.70
+log
+@-
+@
+text
+@d58 2
+a59 2
+		printf("loooop");
+		if(getCurrent(getBookList(getElement(h,bookId))) >=max){
+@
+
+
+1.69
+log
+@-
+@
+text
+@d19 1
+a19 1
+				printf("Adding book %lu to list\n", current);
+@
+
+
+1.68
+log
+@-
+@
+text
+@d41 2
+a42 1
+	for(long id = getCurrent(customers[custNum]);!offEnd(customers[custNum]);moveNext(customers[custNum])){
+d48 1
+@
+
+
+1.67
+log
+@-
+@
+text
+@d41 1
+a41 1
+	for(int id = getCurrent(customers[custNum]);!offEnd(customers[custNum]);moveNext(customers[custNum])){
+@
+
+
+1.66
+log
+@-
+@
+text
+@d40 1
+a40 1
+	moveFirst(getCurrent(customers[custNum]));
+@
+
+
+1.65
+log
+@-
+@
+text
+@d40 1
+@
+
+
+1.64
+log
+@-
+@
+text
+@d45 1
+@
+
+
+1.63
+log
+@-
+@
+text
+@d40 6
+a45 1
+	//addToHash();
+@
+
+
+1.62
+log
+@-
+@
+text
+@d7 1
+a7 1
+void addToHash(HashRef h, long bookId, ListRef * customers, int custNum){
+a8 1
+	BookRef list = getElement(h, bookId);
+d34 6
+a39 3
+	if(hashIsEmpty(h, bookId))
+		insert(h, bookId, NULL);	//book has not been purchased yet
+	addToHash(h, bookId, customers, custNum);//add symmetrically, need for loop to add
+@
+
+
+1.61
+log
+@-
+@
+text
+@d9 1
+d12 7
+a18 7
+			BookRef list = getElement(h, current);
+			printf("attempting to add %lu to rec for book %lu\n", current, bookId);
+			if(list==NULL) {
+				list = insert(h, bookId, NULL);
+				printf("BOOK %lu not in hash, creating new entry\n", getId(list));
+			}
+			else if(getId(list)!= current){ //don't add itself to book list
+d21 1
+a21 1
+				insert(h, bookId, list);			//FIX ME
+d35 2
+a36 2
+//	if(hashIsEmpty(h, bookId))
+//		insert(h, bookId, NULL);	//book has not been purchased yet
+@
+
+
+1.60
+log
+@-
+@
+text
+@d17 1
+a17 1
+			if(getId(list)!= current){ //don't add itself to book list
+d20 1
+a20 1
+				//insert(h, bookId, list);			//FIX ME
+@
+
+
+1.59
+log
+@-
+@
+text
+@a12 1
+			debugHash(h);
+@
+
+
+1.58
+log
+@-
+@
+text
+@d13 1
+@
+
+
+1.57
+log
+@-
+@
+text
+@d12 1
+a12 1
+			printf("attempting to add %lu to rec for book %lu\n", getCurrent, bookId);
+d43 1
+a43 1
+	int max=0;
+d55 1
+a55 1
+	printf("Recommendation for book %lu is : %lu\n",bookId,maxId);
+@
+
+
+1.56
+log
+@-
+@
+text
+@d58 6
+d89 1
+@
+
+
+1.55
+log
+@-
+@
+text
+@d20 1
+a20 1
+				insert(h, bookId, list);			//FIX ME
+@
+
+
+1.54
+log
+@-
+@
+text
+@d15 1
+a15 1
+				printf("book %lu not in hash, creating new entry\n", getId(list));
+@
+
+
+1.53
+log
+@-
+@
+text
+@d12 1
+a12 1
+			printf("attempting to add %lu to rec for book %lu", getCurrent, bookId);
+@
+
+
+1.52
+log
+@-
+@
+text
+@d10 1
+a10 1
+			ListRef current = getCurrent(customers[custNum]);
+@
+
+
+1.51
+log
+@-
+@
+text
+@d10 3
+a12 1
+			BookRef list = getElement(h, getCurrent(customers[custNum]));
+d17 3
+a19 3
+			if(getId(list)!= getCurrent(customers[custNum])){ //don't add itself to book list
+				insertionSort(getBookList(list), getCurrent(customers[custNum]));
+				printf("Adding book %lu to list\n", getCurrent(customers[custNum]));
+@
+
+
+1.50
+log
+@-
+@
+text
+@d13 1
+a13 1
+				printf("book %d not in hash, creating new entry\n", getId(list));
+@
+
+
+1.49
+log
+@-
+@
+text
+@d11 4
+a14 1
+			if(list==NULL) list = insert(h, bookId, NULL);
+@
+
+
+1.48
+log
+@-
+@
+text
+@d29 2
+a30 2
+	if(hashIsEmpty(h, bookId))
+		insert(h, bookId, NULL);	//book has not been purchased yet
+@
+
+
+1.47
+log
+@-
+@
+text
+@a9 1
+		if(getCurrent(customers[custNum])!=bookId){	//don't add itself to book list
+d12 5
+a16 7
+			if(getId(list)!= getCurrent(customers[custNum]))
+			insertionSort(getBookList(list), getCurrent(customers[custNum]));
+			printf("Adding book %lu to list\n", getCurrent(customers[custNum]));
+			assert(list!=NULL);
+		//	printf("IDs should match %lu : %lu\n", getElement(h,getId(list)), bookId);
+			//printf("List is: %lu", (long)list);
+			insert(h, bookId, list);			//FIX ME
+a18 1
+		} else {printf("working");}
+@
+
+
+1.46
+log
+@-
+@
+text
+@d13 1
+@
+
+
+1.45
+log
+@-
+@
+text
+@d21 1
+a21 1
+		}
+@
+
+
+1.44
+log
+@-
+@
+text
+@d16 1
+a16 1
+			printf("IDs should match %lu : %lu\n", getElement(h,getId(list)), bookId);
+@
+
+
+1.43
+log
+@-
+@
+text
+@d13 1
+@
+
+
+1.42
+log
+@-
+@
+text
+@d12 1
+@
+
+
+1.41
+log
+@-
+@
+text
+@d12 1
+@
+
+
+1.40
+log
+@-
+@
+text
+@d11 1
+a11 1
+			BookRef list = getElement(h, bookId);
+d13 1
+a13 1
+			printf("IDs should match %lu : %lu\n", getElement(h,getId(h,list)), bookId);
+@
+
+
+1.39
+log
+@-
+@
+text
+@d31 1
+a31 1
+	addToHash(h, bookId, customers, custNum);//add symmetrically
+@
+
+
+1.38
+log
+@-
+@
+text
+@d7 46
+d66 2
+a67 21
+		if(hasBook(customers[custNum],bookId)){		//customer already bought book
+			insertionSort(customers[custNum], bookId);
+		//	printf("%d, %lu", custNum, bookId);
+		}
+		else{						//add to copurchase
+			if(hashIsEmpty(h, bookId))
+				insert(h, bookId, NULL);	//book has not been purchased yet
+			//printf("Is empty: %d\n",isEmpty(customers[custNum]));
+	
+		moveFirst(customers[custNum]);			//add cust previous books to hash of current book
+		while(!offEnd(customers[custNum])){
+			if(getCurrent(customers[custNum])!=bookId){	//don't add itself to book list
+				BookRef list = getElement(h, bookId);
+				assert(list!=NULL);
+				printf("IDs should match %lu : %lu\n", getElement(h,getId(h,list)), bookId);
+				//printf("List is: %lu", (long)list);
+				insert(h, bookId, list);			//FIX ME
+				if(atLast(customers[custNum])) break;
+					moveNext(customers[custNum]);
+		}
+		
+d69 4
+a72 19
+		if(wantPrint){
+			moveFirst(customers[custNum]);
+			int max=0;
+			int maxId=0;
+			while(!offEnd(getBookList(getElement(h,bookId)))){//FIX CHANGE TO HASH INSTEAD OF CUSTARRAY
+				printf("loooop");
+				if(getCurrent(getBookList(getElement(h,bookId))) >=max){
+					max = getCount(getBookList(getElement(h,bookId)));
+					maxId=getCurrent(getBookList(getElement(h,bookId)));
+				}
+				if(atLast(getBookList(getElement(h,bookId)))) break;
+				moveNext(getBookList(getElement(h,bookId)));
+
+			}
+				printf("\n");
+				printf("Recommendation for book %lu is : %lu\n",bookId,maxId);
+
+		}
+			
+@
+
+
+1.37
+log
+@-
+@
+text
+@d34 1
+a34 1
+				printf("IDs should match %lu : %lu\n", getId(h,getElement(h,list)), bookId);
+@
+
+
+1.36
+log
+@-
+@
+text
+@d5 1
+d33 1
+@
+
+
+1.35
+log
+@-
+@
+text
+@d32 1
+a32 1
+				printf("IDs should match %lu : %lu\n", getId(h,list), bookId);
+@
+
+
+1.34
+log
+@-
+@
+text
+@d32 1
+a32 1
+				printf("IDs should match %lu : %lu", getId(h,list), bookId);
+@
+
+
+1.33
+log
+@-
+@
+text
+@d32 1
+@
+
+
+1.32
+log
+@-
+@
+text
+@d44 1
+@
+
+
+1.31
+log
+@-
+@
+text
+@d61 1
+a61 1
+	//debugHash(h);
+@
+
+
+1.30
+log
+@-
+@
+text
+@d43 1
+a43 1
+			while(!offEnd(getElement(h,bookId))){//FIX CHANGE TO HASH INSTEAD OF CUSTARRAY
+@
+
+
+1.29
+log
+@-
+@
+text
+@d44 3
+a46 3
+				if(getCurrent(getElement(h,bookId)) >=max){
+					max = getCount(getElement(h,bookId));
+					maxId=getCurrent(getElement(h,bookId));
+d48 2
+a49 2
+				if(atLast(getElement(h,bookId))) break;
+				moveNext(getElement(h,bookId));
+d96 1
+a96 1
+				insertionSort(getBookList(r),bookId);
+@
+
+
+1.28
+log
+@-
+@
+text
+@d43 4
+a46 4
+			while(!offEnd(customers[custNum])){
+				if(getCurrent(customers[custNum]) >=max){
+					max = getCount(customers[custNum]);
+					maxId=getCurrent(customers[custNum]);
+d48 2
+a49 2
+				if(atLast(customers[custNum])) break;
+				moveNext(customers[custNum]);
+d53 1
+a53 1
+				printf("Recommendation for customer %d is : %lu\n",custNum,maxId);
+@
+
+
+1.27
+log
+@-
+@
+text
+@d53 1
+a53 1
+				printf("Recommendation: %lu\n",maxId);
+@
+
+
+1.26
+log
+@-
+@
+text
+@d21 1
+a21 1
+			printf("%d, %lu", custNum, bookId);
+d26 1
+a26 1
+			printf("Is empty: %d\n",isEmpty(customers[custNum]));
+d32 1
+a32 1
+				printf("List is: %lu", (long)list);
+@
+
+
+1.25
+log
+@-
+@
+text
+@d10 1
+a10 1
+	long bookId, check;
+d41 2
+d44 5
+a48 1
+				printf("Recommendations: %lu\t",getCurrent(customers[custNum]));
+d53 1
+d61 1
+a61 1
+	debugHash(h);
+@
+
+
+1.24
+log
+@-
+@
+text
+@a23 1
+			insertionSort(customers[custNum], bookId);
+d48 3
+a50 1
+		}	
+@
+
+
+1.23
+log
+@-
+@
+text
+@d24 1
+a49 2
+	
+			insertionSort(customers[custNum], bookId);
+@
+
+
+1.22
+log
+@-
+@
+text
+@d49 2
+@
+
+
+1.21
+log
+@-
+@
+text
+@d26 1
+a26 1
+			printf("%d\n",isEmpty(customers[custNum]));
+@
+
+
+1.20
+log
+@-
+@
+text
+@a23 1
+			printf("else");
+d26 1
+a26 1
+
+@
+
+
+1.19
+log
+@-
+@
+text
+@d19 1
+a19 15
+/*		if(hasBook(customers[custNum], bookId))
+			insertionSort(customers[custNum], bookId);
+		else{
+			if(getElement(h, bookId) == NULL){	//if hash[b] is null, create new list 
+				insert(h, bookId, NULL);		
+			}
+			moveFirst(customers[custNum]);//for each book in customers[custNum]
+			while(!offEnd(customers[custNum])){
+				printf("1");
+				insert(h, bookId, getCurrent(customers[custNum]));//add each previously purchased
+				BookRef r = getElement(h,getCurrent(customers[custNum]));//book to hashset
+				insertionSort(getBookList(r),bookId);
+				moveNext(customers[custNum]);
+				if(atLast(customers[custNum])) break;
+			}
+d21 1
+a21 11
+			if(wantPrint){
+				moveFirst(customers[custNum]);
+				while(!offEnd(customers[custNum])){
+					printf("Recommendations: %lu\t",getCurrent(customers[custNum]));
+					moveNext(customers[custNum]);
+
+				}
+				printf("\n");
+			}
+			
+			
+d23 4
+a26 12
+		
+		
+	}*/
+
+	if(hasBook(customers[custNum],bookId)){		//customer already bought book
+		insertionSort(customers[custNum], bookId);
+		printf("%d, %lu", custNum, bookId);
+	}
+	else{						//add to copurchase
+		printf("else");
+		if(hashIsEmpty(h, bookId))
+			insert(h, bookId, NULL);	//book has not been purchased yet
+d29 8
+a36 8
+	moveFirst(customers[custNum]);			//add cust previous books to hash of current book
+	while(!offEnd(customers[custNum])){
+		if(getCurrent(customers[custNum])!=bookId){	//don't add itself to book list
+			BookRef list = getElement(h, bookId);
+			printf("List is: %lu", (long)list);
+			insert(h, bookId, list);			//FIX ME
+			if(atLast(customers[custNum])) break;
+			moveNext(customers[custNum]);
+d40 5
+a44 5
+			if(wantPrint){
+				moveFirst(customers[custNum]);
+				while(!offEnd(customers[custNum])){
+					printf("Recommendations: %lu\t",getCurrent(customers[custNum]));
+					moveNext(customers[custNum]);
+d46 1
+a46 1
+				}
+d49 3
+a52 2
+}
+	
+a54 1
+}
+d77 32
+@
+
+
+1.18
+log
+@-
+@
+text
+@d51 1
+a51 1
+	if(hasBook(customers[custNum],bookId))		//customer already bought book
+d53 2
+d56 1
+d65 1
+a65 1
+			printf("List is: %d", list);
+d70 1
+d72 8
+d86 1
+a86 1
+
+@
+
+
+1.17
+log
+@-
+@
+text
+@d62 1
+@
+
+
+1.16
+log
+@-
+@
+text
+@d61 2
+a62 1
+			insert(h, bookId, NULL);			//FIX ME
+@
+
+
+1.15
+log
+@-
+@
+text
+@d68 2
+a71 1
+}
+@
+
+
+1.14
+log
+@-
+@
+text
+@d19 1
+a19 1
+		if(hasBook(customers[custNum], bookId))
+d22 1
+a22 1
+			if(hashIsEmpty(h, bookId)){	//if hash[b] is null, create new list 
+d49 1
+a49 1
+	}
+d51 1
+a51 1
+/*	if(hasBook(customers[custNum],bookId))
+d53 1
+a53 1
+	else{
+d55 1
+a55 1
+			insert(h, bookId, NULL);
+d57 8
+d67 3
+a69 1
+	}*/
+@
+
+
+1.13
+log
+@-
+@
+text
+@d19 1
+a19 1
+/*		if(hasBook(customers[custNum], bookId))
+d22 1
+a22 1
+			if(getElement(h, bookId) == NULL){	//if hash[b] is null, create new list 
+d49 1
+a49 1
+	}*/
+d51 1
+a51 1
+	if(hasBook(customers[custNum],bookId))
+d59 1
+a59 1
+	}
+@
+
+
+1.12
+log
+@-
+@
+text
+@d13 1
+a13 1
+		customers[i] = newList(i);
+d19 1
+a19 1
+		if(hasBook(customers[custNum], bookId))
+d40 1
+a40 2
+					printf("2");
+					if(atLast(customers[custNum])) break;
+d49 10
+@
+
+
+1.11
+log
+@-
+@
+text
+@d30 1
+a30 1
+				insertionSort(r,bookId);
+@
+
+
+1.10
+log
+@-
+@
+text
+@d38 1
+a38 1
+					printf("%lu\t",getCurrent(customers[custNum]));
+@
+
+
+1.9
+log
+@-
+@
+text
+@d32 1
+d41 1
+@
+
+
+1.8
+log
+@-
+@
+text
+@d27 1
+d39 1
+@
+
+
+1.7
+log
+@-
+@
+text
+@d21 1
+a21 1
+	/*	else{
+d23 1
+a23 1
+				insert(h, bookId, newList(bookId));		
+d27 2
+a28 2
+				insert(h, bookId, getCurrent(customers[custNum]));
+				ListRef r = getElement(getCurrent(customers[custNum]));
+d33 8
+a40 1
+			
+d44 1
+a44 1
+		*/
+@
+
+
+1.6
+log
+@-
+@
+text
+@d21 3
+a23 4
+		else{
+			//int index = hash(h->bookId);
+			if(getElement(h, bookId) == NULL){
+				
+d25 11
+d37 1
+@
+
+
+1.5
+log
+@-
+@
+text
+@d9 1
+d14 3
+a16 2
+	while(fscanf(f, "%d", &custNum)!=NULL){
+		//fscanf(f, "%d", &custNum);
+@
+
+
+1.4
+log
+@-
+@
+text
+@d12 3
+a14 4
+		customers[i] = newList();
+	while(fscanf(f, "%lu", &check)!=EOF){
+		rewind(f);
+		fscanf(f, "%d", &custNum);
+@
+
+
+1.3
+log
+@-
+@
+text
+@d11 1
+a11 1
+	for(int i=0; i<numCustomers; i++)
+@
+
+
+1.2
+log
+@-
+@
+text
+@d45 1
+a45 1
+		printf("File not found");
+@
+
+
+1.1
+log
+@-
+@
+text
+@d3 2
+d6 22
+a27 1
+int main(){
+d29 23
+@

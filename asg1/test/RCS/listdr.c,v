@@ -1,0 +1,759 @@
+head	1.32;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.32
+date	2013.04.16.05.57.04;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.04.16.05.56.52;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.04.16.05.53.27;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.04.16.05.52.08;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.04.16.05.50.52;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.04.16.05.49.29;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.04.16.05.48.34;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.04.16.05.45.59;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.04.16.05.15.45;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.04.16.05.15.02;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.04.16.05.14.02;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.04.16.05.12.10;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.04.16.05.11.38;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.04.16.04.40.53;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.04.16.04.40.14;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.16.04.39.00;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.16.04.29.18;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.16.04.28.56;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.16.04.25.24;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.16.04.24.36;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.16.01.48.53;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.16.01.48.28;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.16.01.46.06;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.16.01.44.57;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.16.01.42.34;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.16.01.33.28;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.16.01.33.15;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.16.01.32.37;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.16.01.18.13;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.16.01.17.47;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.16.01.17.33;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.16.01.15.47;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.32
+log
+@-
+@
+text
+@#include <stdlib.h>
+#include <stdio.h>
+#include <stdbool.h>
+#include "list.h"
+ListRef L; 
+
+void testInsert(){
+	insertAfterCurrent(L,5);
+	printList(stdout, L);
+	printf("%lu\n", getCurrent(L));
+	insertAfterCurrent(L,4);
+	printf("%lu\n", getCurrent(L));
+	printList(stdout, L);
+	insertAfterCurrent(L,3);
+	printf("%lu\n", getCurrent(L));
+	printList(stdout, L);
+	insertAfterCurrent(L,2);
+	printf("%lu\n", getCurrent(L));
+	printList(stdout, L);
+	insertAfterCurrent(L,1);
+	printf("%lu\n", getCurrent(L));
+	printList(stdout, L);
+	insertAfterCurrent(L,0);
+	printf("%lu\n", getCurrent(L));
+	printList(stdout, L);
+	insertAfterLast(L,100);
+	insertBeforeFirst(L,1000);
+	moveFirst(L);
+	printf("current: %lu\n", getCurrent(L));
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	printf("current: %lu\n", getCurrent(L));
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+
+	printf("current: %lu\n", getCurrent(L));	//error
+
+
+
+
+
+
+
+
+
+
+}
+
+void debug(){
+	printf("is empty: %d\n", isEmpty(L));
+	printf("off end: %d\n", offEnd(L));
+	printf("at first is: %d\n", atFirst(L));
+	printf("at last is: %d\n", atLast(L));
+
+	insertBeforeFirst(L, 2);
+	printList(stdout, L);
+
+	insertBeforeFirst(L, 0);
+	printList(stdout, L);
+
+	insertAfterLast(L,4);
+	printList(stdout, L);
+
+	insertAfterCurrent(L,3);	
+	printList(stdout, L);
+
+	insertBeforeCurrent(L,1);
+	printList(stdout, L);
+	
+	printf("traversions\n");
+	moveLast(L);
+	printf("current: %lu\n", getCurrent(L));
+
+	moveFirst(L);
+	printf("current: %lu\n", getCurrent(L));
+
+	moveNext(L);
+	printf("current: %lu\n", getCurrent(L));
+	
+	movePrev(L);
+	printf("current: %lu\n", getCurrent(L));	//error
+	
+	ListRef newList = copyList(L);
+	printList(stdout, newList);
+
+	printf("deletions\n");
+	deleteFirst(L);
+	printList(stdout, L);
+	
+	deleteLast(L);					//error
+	printList(stdout, L);
+	
+	printf("current: %lu\n", getCurrent(L));
+	deleteCurrent(L);				//error
+	printList(stdout, L);
+
+	
+	//insertBeforeCurrent(L, 50);			//makes it hard to read
+	printf("get first: %lu\n", getFirst(L));
+	printf("get last: %lu\n", getLast(L));
+	//moveNext(L);
+	printf("get current: %lu\n", getCurrent(L));
+	printf("length: %d\n", getLength(L));
+	printf("equals: %d\n", equals(L, newList));
+	 
+}
+int main(){
+	L=newList();
+	//testInsert();
+	debug();
+}	
+@
+
+
+1.31
+log
+@-
+@
+text
+@d103 1
+a103 1
+	printf("current: %lu", getCurrent(L));
+@
+
+
+1.30
+log
+@-
+@
+text
+@d103 1
+@
+
+
+1.29
+log
+@-
+@
+text
+@d80 1
+d96 1
+@
+
+
+1.28
+log
+@-
+@
+text
+@d116 2
+a117 2
+	testInsert();
+	//debug();
+@
+
+
+1.27
+log
+@-
+@
+text
+@d26 2
+d36 1
+d44 1
+@
+
+
+1.26
+log
+@-
+@
+text
+@d28 7
+a40 1
+	printf("current: %lu\n", getCurrent(L));
+a41 6
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+	moveNext(L);
+@
+
+
+1.25
+log
+@-
+@
+text
+@d8 1
+a8 1
+	insertBeforeCurrent(L,5);
+d11 1
+a11 1
+	insertBeforeCurrent(L,4);
+d14 1
+a14 1
+	insertBeforeCurrent(L,3);
+d17 1
+a17 1
+	insertBeforeCurrent(L,2);
+d20 1
+a20 1
+	insertBeforeCurrent(L,1);
+d23 1
+a23 1
+	insertBeforeCurrent(L,0);
+d28 8
+a41 8
+	printf("current: %lu\n", getCurrent(L));
+
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+	movePrev(L);
+@
+
+
+1.24
+log
+@-
+@
+text
+@d26 26
+d112 2
+a113 2
+	//testInsert();
+	debug();
+@
+
+
+1.23
+log
+@-
+@
+text
+@d71 2
+a72 2
+	//deleteCurrent(L);				//error
+	//printList(stdout, L);
+@
+
+
+1.22
+log
+@-
+@
+text
+@d35 1
+a35 1
+	insertBeforeFirst(L, 1);
+d47 1
+a47 1
+	insertBeforeCurrent(L,2);
+@
+
+
+1.21
+log
+@-
+@
+text
+@d86 2
+a87 1
+	testInsert();
+@
+
+
+1.20
+log
+@-
+@
+text
+@d10 1
+a10 1
+	printf("%d\n", getCurrent(L));
+d12 1
+a12 1
+	printf("%d\n", getCurrent(L));
+d15 1
+a15 1
+	printf("%d\n", getCurrent(L));
+d18 1
+a18 1
+	printf("%d\n", getCurrent(L));
+d21 1
+a21 1
+	printf("%d\n", getCurrent(L));
+d24 1
+a24 1
+	printf("%d\n", getCurrent(L));
+@
+
+
+1.19
+log
+@-
+@
+text
+@d10 1
+d12 1
+d15 1
+d18 1
+d21 1
+d24 1
+@
+
+
+1.18
+log
+@-
+@
+text
+@d23 1
+a23 1
+int debug(){
+d79 1
+a80 1
+	L=newList();
+@
+
+
+1.17
+log
+@-
+@
+text
+@d9 1
+d11 1
+d13 1
+d15 1
+d17 1
+d19 1
+d22 2
+a23 3
+int main(){
+	testInsert();
+	L=newList();
+d77 4
+@
+
+
+1.16
+log
+@-
+@
+text
+@d6 10
+d17 1
+@
+
+
+1.15
+log
+@-
+@
+text
+@d22 1
+a22 1
+	insertAfterCurrent(L,3;	
+@
+
+
+1.14
+log
+@-
+@
+text
+@d19 1
+a19 1
+	insertAfterLast(L,3);
+d22 1
+a22 1
+	insertAfterCurrent(L,2);	
+d25 1
+a25 1
+	insertBeforeCurrent(L,1.5);
+@
+
+
+1.13
+log
+@-
+@
+text
+@d13 1
+a13 1
+	insertBeforeFirst(L, 0);
+d16 1
+a16 1
+	insertBeforeFirst(L, 50);
+d19 1
+a19 1
+	insertAfterLast(L,1);
+d22 1
+a22 1
+	insertAfterCurrent(L,5);	
+d25 1
+a25 1
+	insertBeforeCurrent(L,10);
+@
+
+
+1.12
+log
+@-
+@
+text
+@d37 2
+a38 2
+	//movePrev(L);
+	//printf("current: %lu\n", getCurrent(L));	//error
+a42 1
+	//moveNext(L);
+@
+
+
+1.11
+log
+@-
+@
+text
+@d60 1
+a60 1
+	printf("equals: %d", equals(L, newList));
+@
+
+
+1.10
+log
+@-
+@
+text
+@d54 1
+a54 1
+	insertBeforeCurrent(L, 50);
+@
+
+
+1.9
+log
+@-
+@
+text
+@d16 3
+d57 1
+a57 1
+	moveNext(L);
+@
+
+
+1.8
+log
+@-
+@
+text
+@d35 1
+a35 1
+	//printf("current: %lu\n", getCurrent(L));
+d44 1
+a44 1
+	deleteLast(L);
+d47 2
+a48 2
+	deleteCurrent(L);
+	printList(stdout, L);
+@
+
+
+1.7
+log
+@-
+@
+text
+@d34 2
+a35 2
+	movePrev(L);
+	printf("current: %lu\n", getCurrent(L));
+@
+
+
+1.6
+log
+@-
+@
+text
+@d26 1
+a26 1
+	printf("current: %lu\n" getCurrent(L));
+@
+
+
+1.5
+log
+@-
+@
+text
+@d26 1
+a26 1
+	printf("current: " getCurrent(L));
+d29 1
+a29 1
+	printf("current: ", getCurrent(L));
+d32 1
+a32 1
+	printf("current: ", getCurrent(L));
+d35 1
+a35 1
+	printf("current: ", getCurrent(L));
+@
+
+
+1.4
+log
+@-
+@
+text
+@d26 1
+a26 1
+	printList(stdout, L);
+d29 1
+a29 1
+	printList(stdout, L);
+d32 1
+a32 1
+	printList(stdout, L);
+d35 1
+a35 1
+	printList(stdout, L);
+d40 1
+a40 1
+	moveNext(L);
+@
+
+
+1.3
+log
+@-
+@
+text
+@d19 1
+a19 1
+	insertAfterCurrent(L,5)	
+@
+
+
+1.2
+log
+@-
+@
+text
+@d16 1
+a16 1
+	insertAfterLast(L,1)
+@
+
+
+1.1
+log
+@-
+@
+text
+@d8 4
+a11 4
+	printf("is empty: %s\n", isEmpty(L));
+	printf("off end: %s\n", offEnd(L));
+	printf("at first is: %s\n", atFirst(L));
+	printf("at last is: %s\n", atLast(L));
+@

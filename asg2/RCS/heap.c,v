@@ -1,0 +1,1811 @@
+head	1.87;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.87
+date	2013.05.01.19.36.14;	author -;	state -;
+branches;
+next	1.86;
+
+1.86
+date	2013.05.01.19.35.08;	author -;	state -;
+branches;
+next	1.85;
+
+1.85
+date	2013.05.01.19.32.09;	author -;	state -;
+branches;
+next	1.84;
+
+1.84
+date	2013.05.01.19.18.52;	author -;	state -;
+branches;
+next	1.83;
+
+1.83
+date	2013.05.01.19.18.02;	author -;	state -;
+branches;
+next	1.82;
+
+1.82
+date	2013.05.01.19.17.17;	author -;	state -;
+branches;
+next	1.81;
+
+1.81
+date	2013.05.01.19.16.50;	author -;	state -;
+branches;
+next	1.80;
+
+1.80
+date	2013.05.01.19.13.27;	author -;	state -;
+branches;
+next	1.79;
+
+1.79
+date	2013.05.01.19.10.17;	author -;	state -;
+branches;
+next	1.78;
+
+1.78
+date	2013.05.01.19.03.12;	author -;	state -;
+branches;
+next	1.77;
+
+1.77
+date	2013.05.01.18.51.30;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2013.05.01.18.49.20;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2013.04.30.03.51.19;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2013.04.30.03.50.09;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2013.04.30.03.38.00;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2013.04.30.03.35.30;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2013.04.30.03.34.16;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2013.04.30.03.31.29;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2013.04.30.03.30.04;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2013.04.30.03.29.23;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2013.04.30.03.24.27;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2013.04.30.03.22.42;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.04.30.03.15.51;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.04.30.02.48.58;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.04.30.02.43.58;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.04.30.02.42.25;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.04.30.02.40.51;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.04.30.02.40.02;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.04.30.02.28.46;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.04.30.02.27.24;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.04.30.02.16.57;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.04.30.02.15.50;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.04.30.02.13.40;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.04.30.02.12.55;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.04.30.02.10.53;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.04.30.02.10.38;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.04.30.02.08.19;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.04.30.02.04.07;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.04.30.01.42.57;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.04.29.17.51.11;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.04.29.17.50.28;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.04.29.17.48.43;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.04.28.20.36.33;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.04.28.20.34.18;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.04.28.20.33.19;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.04.28.20.33.05;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.04.28.20.31.15;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.04.28.20.30.12;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.04.28.20.24.48;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.04.28.20.21.25;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.04.28.20.13.23;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.04.28.20.11.12;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.04.28.20.04.35;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.04.28.20.02.23;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.04.28.20.01.17;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.04.28.19.46.44;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.04.28.19.27.16;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.04.28.19.05.31;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.04.28.18.50.17;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.04.28.01.11.26;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.04.28.01.09.17;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.04.28.01.07.02;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.04.28.01.05.44;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.04.28.01.02.22;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.04.28.01.00.16;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.04.28.00.57.48;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.04.28.00.56.41;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.04.28.00.45.03;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.04.27.21.50.06;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.04.27.21.49.18;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.27.21.27.07;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.26.04.03.54;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.26.04.01.33;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.26.04.00.22;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.26.03.38.32;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.26.03.37.00;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.26.03.35.28;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.26.03.34.13;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.26.03.34.03;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.26.03.33.55;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.26.03.33.36;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.26.03.33.19;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.26.03.32.53;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.26.03.30.06;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.26.03.29.55;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.26.03.29.04;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.26.03.28.19;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.87
+log
+@-
+@
+text
+@#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <assert.h>
+#include <limits.h>
+
+typedef struct HeapHdr *heap;
+struct HeapHdr{
+	int maxSize;
+	int currentSize;
+	int last;
+	int *arr;
+};
+
+heap newHeap (int maxSize){
+	heap h = malloc(sizeof(struct HeapHdr));
+	h->arr= calloc(maxSize+1, sizeof(int));
+	h->maxSize = maxSize;
+	h->currentSize=0;
+	h->last = 0;
+	return h;
+}
+
+int getLeft(int pos){
+	return pos*2;
+}
+int getRight(int pos){
+	return (pos)*2+1;	
+}
+int getParent(int pos){
+	return pos/2;
+}
+int isFull(heap h){
+	return h->last==h->maxSize;
+}
+
+int isEmpty(heap h){
+	return h->last==0;
+}
+
+
+int maxValue(heap h){
+	return h->arr[1];
+}
+
+void swap(heap h, int a, int b){
+	int tmp = h->arr[a];
+	h->arr[a] = h->arr[b];
+	h->arr[b] = tmp;
+}
+
+
+void deleteMax(heap h){
+
+	swap(h, 1, h->last--);
+	h->arr[h->last+1] = -1;
+	for(int parent = 1; parent<h->last;){
+		int child = getLeft(parent);
+		if(child>h->last) break;
+		int rchild = getRight(parent);
+		if(child<h->last && h->arr[rchild]>h->arr[child])	
+			child = rchild;
+		if(h->arr[child]>h->arr[parent]){
+			swap(h, child, parent);
+			parent = child;
+		}
+		else break;
+	}
+
+}
+
+
+
+void insert(heap h, int priority){
+	h->arr[++h->last] = priority;
+	for(int child = h->last; child>1;){
+		int parent = getParent(child);
+		if(h->arr[child]<h->arr[parent]) break;
+		swap(h, child, parent);
+		child = getParent(child);
+	}
+}
+void debugHeap(heap h){
+	for(int i=1; i<h->maxSize+1; i++)
+		printf("Slot: %d priority: %d\n", i, h->arr[i]); 
+}
+
+void delete(heap h){
+	if(h->arr!=NULL && sizeof(h->arr)!=0)
+		free(h->arr);
+	free(h);
+}
+@
+
+
+1.86
+log
+@-
+@
+text
+@a53 6
+//	assert(!isEmpty(h));
+	//h->arr[0] = h->arr[h->currentSize-1];		//first=last
+	//h->arr[h->currentSize-1] = -1;				//sentinerl, prob not needed
+	//--h->currentSize;				//remove last
+//	if(h->currentSize!=0)
+//	sortDown(h, h->arr[0]);
+d61 1
+a61 1
+		if(child<h->last && h->arr[rchild]>h->arr[child])	//fix?	
+a63 1
+	//	printf("swap child: %d par:  %d val: %d> %d\n",child, parent, h->arr[child], h->arr[parent]); 
+a74 4
+	/*assert(!isFull(h));
+	++h->currentSize;
+	h->arr[h->currentSize-1] = priority;
+	sortUp(h, h->arr[h->currentSize-1]);*/
+a79 1
+	//	printf("ins swap(c: %d, p: %d) val(%d<%d)\n",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.85
+log
+@-
+@
+text
+@d17 1
+a17 1
+	h->arr= calloc(maxSize, sizeof(int));
+@
+
+
+1.84
+log
+@-
+@
+text
+@d101 2
+a102 1
+	free(h->arr);
+@
+
+
+1.83
+log
+@-
+@
+text
+@d101 1
+a101 1
+	free(*h->arr);
+@
+
+
+1.82
+log
+@-
+@
+text
+@d17 1
+a17 1
+	h->arr= calloc(maxSize+1, sizeof(int));
+d101 1
+a101 1
+	free(h->arr);
+@
+
+
+1.81
+log
+@-
+@
+text
+@d101 1
+a101 1
+	free(*h->arr);
+@
+
+
+1.80
+log
+@-
+@
+text
+@d17 1
+a17 1
+	h->arr= calloc(maxSize, sizeof(int));
+@
+
+
+1.79
+log
+@-
+@
+text
+@d101 1
+a101 1
+	free(h->arr);
+@
+
+
+1.78
+log
+@-
+@
+text
+@a51 13
+int getMax(int a, int b, int c){		//from wikiversity.org
+	int temp = (a>b) ? a:b;
+	int max = (c>temp) ? c:temp;
+	return max;
+}
+int getMaxIndex(heap h, int a, int b, int c){
+	int min = getMax(h->arr[a], h->arr[b], h->arr[c]);
+	if(min==h->arr[a]) return a;
+	else if(min==h->arr[b]) return b;
+	//if(min==h->arr[c]) 
+	else return c;
+	
+}
+d101 1
+a101 1
+	//free(h->arr);
+@
+
+
+1.77
+log
+@-
+@
+text
+@d114 1
+a114 1
+	free(h->arr);
+@
+
+
+1.76
+log
+@-
+@
+text
+@d112 5
+@
+
+
+1.75
+log
+@-
+@
+text
+@a64 52
+void sortUp(heap h, int index){
+	int temp = 0;
+	if(index!= 0 && h->arr[getParent(index)] < h-> arr[index]){
+		temp = h->arr[getParent(index)];
+		h->arr[getParent(index)] = h->arr[index];
+		h->arr[index] = temp;
+		sortUp(h, getParent(index));					//recursive call
+		
+	}
+}
+
+
+/*void sortDown(heap h, int index){;
+	int temp = 0;
+	int maxIndex; 
+	int rightIndex = getRight(index);
+	int leftIndex = getLeft(index);
+	if(leftIndex==-1) return;
+	if(rightIndex <= h->currentSize){
+		if(leftIndex>= h->currentSize) return;
+		else maxIndex = leftIndex;
+	}
+	else{
+	
+		if(h->arr[leftIndex] >= h->arr[rightIndex])		//swap the positions if current is smallest
+	   	  	maxIndex = leftIndex;
+		else 
+			maxIndex = rightIndex;
+
+	}
+	if(h->arr[index] < h->arr[maxIndex]){
+		swap(h, index, maxIndex);
+		sortDown(h, maxIndex);
+	}
+		
+}*/
+
+void sortDown(heap h, int index){
+	swap(h, index, h->currentSize-1);
+	--h->currentSize;
+	for(int parent = index; parent<h->currentSize-1;){
+		int child = getLeft(parent);
+		if(child>h->currentSize-1) break;
+		int rightChild = getRight(parent);
+		if(rightChild> h->currentSize-1 && rightChild>child)
+			child = rightChild;
+		if(child>parent){
+			swap(h, child, parent);
+			parent = child;
+		}
+	}
+}
+@
+
+
+1.74
+log
+@-
+@
+text
+@d135 1
+a135 1
+			printf("swap child: %d par:  %d val: %d> %d\n",child, parent, h->arr[child], h->arr[parent]); 
+d156 1
+a156 1
+		printf("ins swap(c: %d, p: %d) val(%d<%d)\n",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.73
+log
+@-
+@
+text
+@d132 1
+a132 1
+		if(child>h->last && h->arr[rchild]>h->arr[child])	//fix?	
+@
+
+
+1.72
+log
+@-
+@
+text
+@d156 1
+a156 1
+		printf("ins swap(c: %d, p: %d) val(%d<%d\n",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.71
+log
+@-
+@
+text
+@d152 1
+a152 1
+	for(int child = h->last; child<1;){
+@
+
+
+1.70
+log
+@-
+@
+text
+@d156 1
+@
+
+
+1.69
+log
+@-
+@
+text
+@d135 1
+a135 1
+			printf("swap child: %d par:  %d val: %d, %d\n",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.68
+log
+@-
+@
+text
+@d160 1
+a160 1
+	for(int i=1; i<h->maxSize; i++)
+@
+
+
+1.67
+log
+@-
+@
+text
+@d154 1
+a154 1
+		if(child<parent) break;
+@
+
+
+1.66
+log
+@-
+@
+text
+@d135 1
+a135 1
+			printf("swapping %d and %d values: %d, %d\n",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.65
+log
+@-
+@
+text
+@d135 1
+a135 1
+			printf("swapping %d and %d values: %d, %d",child, parent, h->arr[child], h->arr[parent]); 
+@
+
+
+1.64
+log
+@-
+@
+text
+@d135 1
+@
+
+
+1.63
+log
+@-
+@
+text
+@d34 1
+a34 1
+	return h->currentSize==h->maxSize;
+d38 1
+a38 1
+	return h->currentSize==0;
+@
+
+
+1.62
+log
+@-
+@
+text
+@d132 1
+a132 1
+		if(child>h->last && rchild>child)	//fix?	
+d134 1
+a134 1
+		if(child>parent){
+@
+
+
+1.61
+log
+@-
+@
+text
+@d127 1
+@
+
+
+1.60
+log
+@-
+@
+text
+@d43 1
+a43 1
+	return h->arr[0];
+@
+
+
+1.59
+log
+@-
+@
+text
+@d25 1
+a25 1
+	return (pos+1)*2;
+d28 1
+a28 1
+	return (pos+1)*2+1;	
+d31 1
+a31 1
+	return (pos-1)/2;
+d119 1
+a119 1
+	assert(!isEmpty(h));
+d123 17
+a139 2
+	if(h->currentSize!=0)
+	sortDown(h, h->arr[0]);
+d143 1
+d145 1
+a145 1
+	assert(!isFull(h));
+d148 8
+a155 1
+	sortUp(h, h->arr[h->currentSize-1]);
+d158 1
+a158 1
+	for(int i=0; i<h->maxSize; i++)
+@
+
+
+1.58
+log
+@-
+@
+text
+@d103 2
+a104 1
+	swap(h, index, h->currentSize--);
+@
+
+
+1.57
+log
+@-
+@
+text
+@d77 1
+a77 1
+void sortDown(heap h, int index){;
+d100 1
+a100 1
+}
+d102 12
+a113 13
+/*void sortDown(heap h, int index){
+	int temp, maxIndex, newMax;
+	int leftIndex = getLeft(index);
+	int rightIndex = getRight(index);
+	maxIndex = getMaxIndex(h, index, leftIndex, rightIndex);
+	if(maxIndex < h->currentSize)
+	if(h->arr[index]!=maxIndex){
+		maxIndex = getMaxIndex(h, leftIndex, rightIndex, -1);
+		temp = 	h->arr[index];
+		h->arr[index] = h->arr[maxIndex];
+		h->arr[maxIndex] = h->arr[index];
+		sortDown(h, maxIndex);
+		
+d115 1
+a115 1
+}*/
+d119 3
+a121 3
+	h->arr[0] = h->arr[h->currentSize-1];		//first=last
+	h->arr[h->currentSize-1] = -1;				//sentinerl, prob not needed
+	--h->currentSize;				//remove last
+@
+
+
+1.56
+log
+@-
+@
+text
+@d95 1
+a95 1
+	if(h->arr[index] < h->arr[maxIndex])
+d98 1
+@
+
+
+1.55
+log
+@-
+@
+text
+@d17 1
+a17 1
+	h->arr= malloc(maxSize*sizeof(int));
+@
+
+
+1.54
+log
+@-
+@
+text
+@d83 1
+a83 1
+	if(rightIndex >= h->currentSize){
+@
+
+
+1.53
+log
+@-
+@
+text
+@d82 1
+d97 1
+a97 1
+		sortDown(h, index);
+@
+
+
+1.52
+log
+@-
+@
+text
+@d96 1
+a96 1
+		sortDown(h, maxIndex);
+@
+
+
+1.51
+log
+@-
+@
+text
+@d95 1
+a95 3
+		temp = h->arr[maxIndex];
+		h->arr[maxIndex] = h->arr[index];
+		h->arr[index] = temp;
+@
+
+
+1.50
+log
+@-
+@
+text
+@a24 1
+//	printf("left is: %d\n", pos*2);
+a27 1
+//	printf("right is: %d\n", pos*2+1);
+a30 1
+//	printf("parent is: %d\n", pos/2);
+a31 1
+	//return floor(pos/2);
+a44 13
+int getMin(int a, int b, int c){
+	int temp = (a<b) ? a:b;
+	int min = (c<temp) ? c:temp;
+	return min;
+}
+int getMinIndex(heap h, int a, int b, int c){
+	int min = getMin(h->arr[a], h->arr[b], h->arr[c]);
+	if(min==h->arr[a]) return a;
+	else if(min==h->arr[b]) return b;
+	//if(min==h->arr[c]) 
+	else return c;
+	
+}
+d52 1
+a52 1
+int getMax(int a, int b, int c){
+d54 2
+a55 2
+	int min = (c>temp) ? c:temp;
+	return min;
+d58 1
+a58 1
+	int min = getMin(h->arr[a], h->arr[b], h->arr[c]);
+@
+
+
+1.49
+log
+@-
+@
+text
+@d11 1
+d20 1
+d30 1
+a30 1
+	return (pos+2)*2;	
+d63 6
+@
+
+
+1.48
+log
+@-
+@
+text
+@d24 1
+a24 1
+	return pos*2+1;
+d28 1
+a28 1
+	return pos*2+2;	
+@
+
+
+1.47
+log
+@-
+@
+text
+@d86 1
+a86 1
+/*void sortDown(heap h, int index){;
+d109 1
+a109 1
+}*/
+d111 1
+a111 1
+void sortDown(heap h, int index){
+d125 1
+a125 1
+}
+@
+
+
+1.46
+log
+@-
+@
+text
+@d116 1
+@
+
+
+1.45
+log
+@-
+@
+text
+@d86 1
+a86 1
+void sortDown(heap h, int index){;
+d109 15
+@
+
+
+1.44
+log
+@-
+@
+text
+@d97 1
+a97 1
+		if(h->arr[leftIndex] <= h->arr[rightIndex])		//swap the positions if current is smallest
+@
+
+
+1.43
+log
+@-
+@
+text
+@d116 1
+@
+
+
+1.42
+log
+@-
+@
+text
+@d107 1
+a107 1
+		sortDown(h, index);
+@
+
+
+1.41
+log
+@-
+@
+text
+@d103 1
+a103 1
+	if(h->arr[index] > h->arr[maxIndex])
+d107 1
+a107 1
+		sortDown(h, maxIndex);
+@
+
+
+1.40
+log
+@-
+@
+text
+@d97 1
+a97 1
+		if(h->arr[leftIndex] >= h->arr[rightIndex])		//swap the positions if current is smallest
+d103 1
+a103 1
+	if(h->arr[index] < h->arr[maxIndex])
+@
+
+
+1.39
+log
+@-
+@
+text
+@d91 5
+a95 1
+	if(rightIndex >= h->currentSize && leftIndex>= h->currentSize) return;
+d97 4
+a100 4
+	if(h->arr[leftIndex] >= h->arr[rightIndex])		//swap the positions if current is smallest
+	     	maxIndex = leftIndex;
+	else 
+		maxIndex = rightIndex;
+d102 2
+a103 1
+	if(h->arr[index] < h->arr[maxIndex]){
+a107 1
+	}
+@
+
+
+1.38
+log
+@-
+@
+text
+@d88 2
+a89 1
+	int maxIndex, rightIndex = getRight(index);
+d91 3
+a93 1
+	if(h->arr[leftIndex] >= h->arr[rightIndex]){		//swap the positions if current is smallest
+d95 2
+d98 1
+a98 1
+	if(h->arr[index] < h->arr[maxIndex])
+@
+
+
+1.37
+log
+@-
+@
+text
+@d86 1
+a86 2
+void sortDown(heap h, int index){
+	int minChildIndex = 0;
+d88 1
+a88 1
+	int rightIndex = getRight(index);
+d90 6
+a95 11
+//	if(leftIndex>=h->currentSize) return;
+	int minIndex = getMinIndex(h, index, rightIndex, leftIndex);
+	//printf("mindex %d index %d\n", minIndex, index);
+	if(h->arr[index] <= h->arr[minIndex]){		//swap the positions if current is smallest
+	  // printf("swapping slots(%d, %d) priorities(%d,%d)",minIndex, index, h->arr[minIndex], h->arr[index]);		   
+		if(leftIndex<rightIndex)
+			minChildIndex = leftIndex;
+		else
+			minChildIndex = rightIndex;
+		temp = h->arr[minChildIndex];
+		h->arr[minChildIndex] = h->arr[index];
+d97 1
+a97 1
+		sortDown(h, minChildIndex);
+@
+
+
+1.36
+log
+@-
+@
+text
+@d94 1
+a94 1
+	if(h->arr[index] == h->arr[minIndex]){		//swap the positions if current is smallest
+@
+
+
+1.35
+log
+@-
+@
+text
+@d87 1
+d94 8
+a101 4
+	if(h->arr[index] == h->arr[minIndex]){		//swap the positions
+	  //     printf("swapping slots(%d, %d) priorities(%d,%d)",minIndex, index, h->arr[minIndex], h->arr[index]);
+		temp = h->arr[minIndex];
+		h->arr[minIndex] = h->arr[index];
+d103 1
+a103 1
+		sortDown(h, minIndex);
+@
+
+
+1.34
+log
+@-
+@
+text
+@d93 1
+a93 1
+	if(h->arr[index] < h->arr[minIndex]){		//swap the positions
+@
+
+
+1.33
+log
+@-
+@
+text
+@d24 1
+a24 1
+	return pos*2;
+d28 1
+a28 1
+	return pos*2+1;	
+@
+
+
+1.32
+log
+@-
+@
+text
+@d32 1
+a32 1
+	return pos/2;
+a84 28
+/*void sortDown(heap h, int index){
+	int temp = 0;
+	int right = h->arr[getRight(h->arr[index])];
+	int left = h->arr[getLeft(h->arr[index])];
+	int min = getMin(left, right, h->arr[index]);
+	printf("Right: %d Left: %d Curr: %d Min: %d\n", right, left, h->arr[index], min);
+	if(min!=h->arr[index] && index<=h->currentSize){	//stopping condition
+		if(min==right){
+			printf("Min==right, swapping pos(%d, %d) val(%d, %d)\n",index, getRight(index),
+				 						h->arr[index], right );
+			fflush(NULL);
+			temp = h->arr[index];
+			h->arr[getRight(index)] = h->arr[index];
+			h->arr[index] = temp;
+	//		sortDown(h, h->arr[getRight(index)]);
+			sortDown(h, getRight(index));
+		}
+		else if(min==left){
+			printf("Min==left, swapping pos(%d, %d) val(%d, %d)\n",index, getLeft(index),
+				 						h->arr[index], left );
+			temp = h->arr[index];
+			h->arr[getLeft(index)] = h->arr[index];
+			h->arr[index] = temp;
+			//sortDown(h, h->arr[getLeft(index)]);
+			sortDown(h, getLeft(index));
+		}
+	}
+}*/
+@
+
+
+1.31
+log
+@-
+@
+text
+@d120 1
+a120 1
+	printf("mindex %d index %d\n", minIndex, index);
+d122 1
+a122 1
+	       printf("swapping slots(%d, %d) priorities(%d,%d)",minIndex, index, h->arr[minIndex], h->arr[index]);
+@
+
+
+1.30
+log
+@-
+@
+text
+@d76 1
+a76 1
+	if(index!= 0 && h->arr[getParent(index)] < h-> arr[index] && index<=h->currentSize){
+@
+
+
+1.29
+log
+@-
+@
+text
+@d76 1
+a76 1
+	if(index!= 0 && h->arr[getParent(index)] < h-> arr[index]){
+@
+
+
+1.28
+log
+@-
+@
+text
+@a47 5
+	//int i = INT_MAX;
+	//if(i>a && a>-1) i=a;
+	//if(i>b && b>-1) i=b;
+	//if(i>c && b>-1)	i=c;
+	//return i;
+a61 5
+	//int i = INT_MAX;
+	//if(i>a && a>-1) i=a;
+	//if(i>b && b>-1) i=b;
+	//if(i>c && b>-1)	i=c;
+	//return i;
+@
+
+
+1.27
+log
+@-
+@
+text
+@d144 1
+a144 1
+	h->arr[h->currentSize] = -1;				//sentinerl, prob not needed
+@
+
+
+1.26
+log
+@-
+@
+text
+@d130 3
+a132 2
+	if(h->arr[index] > h->arr[minIndex]){		//swap the positions
+		printf("swapping slots(%d, %d) priorities(%d,%d)",minIndex, index, h->arr[minIndex], h->arr[index]);
+@
+
+
+1.25
+log
+@-
+@
+text
+@d130 1
+a130 1
+	if(h->arr[index] < h->arr[minIndex]){		//swap the positions
+@
+
+
+1.24
+log
+@-
+@
+text
+@d143 1
+a144 1
+	//h->arr[h->currentSize] = -1;				//sentinerl, prob not needed
+@
+
+
+1.23
+log
+@-
+@
+text
+@d128 1
+a128 1
+	if(leftIndex>=h->currentSize) return;
+@
+
+
+1.22
+log
+@-
+@
+text
+@d65 19
+d126 2
+a127 2
+	int rightIndex = getRight(h->arr[index]);
+	int leftIndex = getLeft(h->arr[index]);
+d130 1
+a130 1
+	if(h->arr[index] > h->arr[minIndex]){		//swap the positions
+@
+
+
+1.21
+log
+@-
+@
+text
+@d111 1
+a111 1
+	if(h->arr[index] < h->arr[minIndex]){		//swap the positions
+@
+
+
+1.20
+log
+@-
+@
+text
+@d112 1
+@
+
+
+1.19
+log
+@-
+@
+text
+@d135 4
+a138 1
+
+@
+
+
+1.18
+log
+@-
+@
+text
+@d60 3
+a62 2
+	if(min==h->arr[b]) return b;
+	if(min==h->arr[c]) return c;
+@
+
+
+1.17
+log
+@-
+@
+text
+@d121 2
+a122 2
+	h->arr[0] = h->arr[h->currentSize-1];
+	--h->currentSize;
+@
+
+
+1.16
+log
+@-
+@
+text
+@d5 1
+a7 5
+typedef struct Node *NodeRef;
+struct Node{
+	int priority;
+	int val;
+};
+d11 1
+a11 1
+	NodeRef *arr;
+d22 13
+d45 28
+a72 1
+	return h->arr[0]->val;
+d75 51
+a126 1
+void deleteMax(heap h);
+d129 4
+a132 1
+	assert(!isFull(h))
+d134 1
+@
+
+
+1.15
+log
+@-
+@
+text
+@d4 1
+d42 3
+a44 1
+void insert(heap h, int priority);
+@
+
+
+1.14
+log
+@-
+@
+text
+@d14 1
+a14 1
+	Node* arr[];
+d20 1
+a20 1
+	h->size = maxSize;
+@
+
+
+1.13
+log
+@-
+@
+text
+@d5 2
+a6 2
+typedef HeapHdr *heap;
+typedef Node *NodeRef;
+d14 1
+a14 1
+	//Node* arr[];
+@
+
+
+1.12
+log
+@-
+@
+text
+@d3 1
+a3 1
+//#include <stdbool.h>
+@
+
+
+1.11
+log
+@-
+@
+text
+@d3 1
+a3 1
+#include <stdbool.h>
+@
+
+
+1.10
+log
+@-
+@
+text
+@d5 2
+a10 1
+//typedef Node *NodeRef;
+a15 1
+//typedef HeapHdr *heap;
+@
+
+
+1.9
+log
+@-
+@
+text
+@d15 1
+a15 1
+typedef HeapHdr *heap;
+@
+
+
+1.8
+log
+@-
+@
+text
+@d13 1
+a13 1
+	Node* arr[];
+@
+
+
+1.7
+log
+@-
+@
+text
+@d9 1
+a9 1
+typedef Node *NodeRef;
+d13 1
+a13 1
+	NodeRef arr[];
+@
+
+
+1.6
+log
+@-
+@
+text
+@d9 1
+a9 1
+//typedef Node *NodeRef;
+@
+
+
+1.5
+log
+@-
+@
+text
+@d5 1
+a5 1
+typedef struct Node{
+d8 2
+a9 2
+} *NodeRef;
+typedef Node *NodeRef;
+@
+
+
+1.4
+log
+@-
+@
+text
+@d5 1
+a5 1
+struct Node{
+d8 1
+a8 1
+};
+@
+
+
+1.3
+log
+@-
+@
+text
+@d3 1
+a3 1
+#include <bool.h>
+@
+
+
+1.2
+log
+@-
+@
+text
+@d13 1
+a13 1
+	NodeRef *arr;
+@
+
+
+1.1
+log
+@-
+@
+text
+@d9 1
+d13 1
+a13 1
+	Node *arr;
+d41 1
+a41 1
+void insert(heap h, int priority);@

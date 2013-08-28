@@ -1,0 +1,1408 @@
+head	1.66;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.66
+date	2013.05.27.21.09.35;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.05.27.21.07.31;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.05.27.20.53.42;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.05.27.20.53.24;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.05.27.20.52.20;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.05.27.20.49.32;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.05.27.20.48.41;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.05.27.20.47.20;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.05.27.20.46.17;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.05.27.20.31.57;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.05.27.20.29.04;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.05.27.20.17.56;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.05.27.20.14.35;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.05.27.20.11.34;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.05.27.20.09.15;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.05.27.19.50.24;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.05.27.19.46.16;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.05.27.19.45.26;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.05.27.19.44.28;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.05.27.19.13.01;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.05.27.19.06.23;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.05.27.19.00.38;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.05.27.18.59.25;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.05.27.18.57.23;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.05.27.18.56.30;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.05.27.18.53.36;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.05.27.18.27.12;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.05.27.18.11.27;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.05.27.18.10.55;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.05.27.17.31.04;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.05.27.17.29.31;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.05.27.17.18.03;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.05.27.17.15.11;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.05.25.23.39.06;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.05.25.23.38.14;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.05.25.23.37.08;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.05.25.23.35.51;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.05.25.23.35.34;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.05.25.23.29.51;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.05.25.23.05.38;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.05.25.23.01.27;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.05.25.23.00.34;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.05.25.22.55.04;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.05.25.22.53.30;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.05.25.22.52.08;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.05.25.22.51.19;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.05.25.22.50.59;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.05.25.22.49.00;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.05.25.22.48.32;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.05.25.22.43.54;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.05.25.19.52.13;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.05.25.19.51.33;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.05.25.19.49.12;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.05.25.19.42.10;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.05.25.19.41.17;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.05.25.19.35.59;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.05.25.19.34.10;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.05.25.19.07.15;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.05.22.18.56.25;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.05.22.18.54.32;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.05.22.18.46.59;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.05.22.18.43.59;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.22.18.42.44;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.05.22.18.38.50;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.05.22.18.37.45;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.05.22.18.36.40;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.66
+log
+@-
+@
+text
+@#include <stdlib.h>
+#include <stdio.h>
+#include <limits.h>
+
+#include "list.h"
+typedef struct graph{
+	ListRef* vertices;
+	int* color;
+	int* parent;
+	int* distance;
+	int numVertices;
+	int numEdges;
+
+} *GraphRef;
+
+GraphRef newGraph(int n){
+	GraphRef g = malloc(sizeof(struct graph));
+	g->numVertices = g->numEdges = 0;
+	g->vertices = calloc(n, sizeof(ListRef));
+	g->distance = calloc(n, sizeof(int));
+	g->parent = calloc(n, sizeof(ListRef));
+	g->color = calloc(n, sizeof(int));
+	for(int i=0; i<n; i++){
+		g->vertices[i] = newList();
+		g->color[i] = 0;
+		++g->numVertices;
+		g->distance[i] = INT_MAX;
+		g->parent[i] = -1;
+	}
+	return g;
+}
+
+void addEdge(GraphRef g, int from, int to){
+	insertAfterLast(g->vertices[from],  to);
+	++g->numEdges;
+}
+
+void makeWhite(GraphRef g){
+	for(int i=0; i<g->numVertices; i++){
+		g->color[i] = 0;
+	}
+}
+
+void resetDist(GraphRef g){	
+	for(int i=0; i<g->numVertices; i++){
+		g->distance[i] = INT_MAX;
+	}
+}
+
+void resetParent(GraphRef g){
+	for(int i=0; i<g->numVertices; i++){
+		g->parent[i]=-1;
+	}
+}
+
+void initGraph(GraphRef g){
+makeWhite(g);
+resetDist(g);
+resetParent(g);
+}
+
+void doBFS(GraphRef g, int source){
+	ListRef list = newList();
+	initGraph(g);
+	insertAfterLast(list, source);
+	g->color[source]= 1;
+	g->distance[source]=0;
+	while(!isEmpty(list)){
+		int current = getFirst(list);
+		if(current > g->numVertices){
+			deleteFirst(list);
+			 break;
+		}
+		ListRef edgeList = g->vertices[current];
+		moveFirst(edgeList);
+		while(!offEnd(edgeList)){
+			int edge = getCurrent(edgeList);
+			if(g->color[edge]==0){
+				g->distance[edge] = g->distance[current]+1;
+				g->color[edge] = 1;
+				g->parent[edge] = current;
+				insertAfterLast(list, edge);
+			}
+			moveNext(edgeList);
+		}
+		deleteFirst(list);
+		g->color[current] = 2;
+	}
+	makeEmpty(list);
+	freeList(list);
+}
+	
+
+int getDistance(GraphRef g, int dest){
+	return g->distance[dest];
+}
+
+ListRef getPathTo(GraphRef g, int dest){
+	int path = dest;
+	ListRef list = newList();
+	printf("Path to %d: ", dest);
+	while(path!=-1){
+		insertBeforeFirst(list,path);
+		path = g->parent[path];
+	}
+	return list;
+}
+
+
+void freeGraph(GraphRef g){
+	for(int i=0; i<g->numVertices; i++){
+		makeEmpty(g->vertices[i]);
+		freeList(g->vertices[i]);
+	}
+	free(g->vertices);
+	free(g->color);
+	free(g->distance);
+	free(g->parent);
+	free(g);
+}
+
+void printGraph(GraphRef g){
+	for(int i=0; i<g->numVertices; i++){
+		printf("Node %d:\n",  i);
+		if(i!=0){
+			printf("Parent ");
+			printList(g->parent[i]);
+		}
+		printf("\tColor %d, Dist %d", g->color[i], g->distance[i]); 
+		printf("\tEdges:");
+		ListRef index = g->vertices[i];
+		moveFirst(index);
+		while(!offEnd(index)){
+			printf("%d, ",getCurrent(index));	
+		moveNext(index);
+		}
+		 
+	}
+} 
+@
+
+
+1.65
+log
+@-
+@
+text
+@d18 1
+@
+
+
+1.64
+log
+@-
+@
+text
+@a8 1
+	//ListRef *parent;
+a20 1
+	//g->parent = calloc(n, sizeof(int));
+a24 1
+		//insertAfterLast(g->vertices, i);
+a26 1
+		//g->parent[i] = newList();
+a97 1
+	//return g->parent[dest];
+a102 1
+		//printf("%d, ",path);
+@
+
+
+1.63
+log
+@-
+@
+text
+@a93 1
+	free(list);
+@
+
+
+1.62
+log
+@-
+@
+text
+@d94 1
+@
+
+
+1.61
+log
+@-
+@
+text
+@d92 1
+@
+
+
+1.60
+log
+@-
+@
+text
+@d115 2
+a116 1
+	for(int i=0; i<g->numVertices; i++)
+d118 1
+@
+
+
+1.59
+log
+@-
+@
+text
+@d117 1
+@
+
+
+1.58
+log
+@-
+@
+text
+@d92 1
+@
+
+
+1.57
+log
+@-
+@
+text
+@a64 16
+/*void addParent(GraphRef g, int edge, int current){
+	ListRef parent = g->parent[current];
+	ListRef child = g->parent[edge];
+	//insertAfterLast(child, edge);
+	if(!isEmpty(parent)){
+		ListRef tmp = copyList(parent);
+		insertAfterLast(tmp, edge);
+		g->parent[current] = tmp;
+	}
+	else{
+		insertAfterLast(child, edge);
+	}	
+
+}*/
+
+/*deletefirst causing problems*/
+a69 2
+//	g->parent[source]=NULL;
+//	g->parent[source]=-1;
+a76 2
+		//printf("Current: %d\n", current);
+		fflush(NULL);
+a80 1
+		//	printf("Edge: %d\n", edge);
+a84 2
+				//addParent(g, edge, current);
+				//insertAfterLast(g->parent[edge], g->vertices[current]);
+d87 1
+a87 2
+			//if(!offEnd(edgeList))
+				moveNext(edgeList);
+a90 1
+		//if(atLast(list)) break;
+a94 44
+
+
+
+
+
+/*	initGraph(g);
+ * 	ListRef fifo = newList();
+	ListRef currentVertex = g->vertices[source];
+	int currentId = source;
+	g->color[source] = 1;
+	g->distance[source] = 0;
+	g->parent = NULL;
+	insertAfterLast(fifo, source);
+	//moveFirst(currentVertex);	//not current vertex
+	while(!isEmpty(fifo)){
+		printList(fifo);
+		//moveFirst(fifo);
+		currentVertex = g->vertices[getFirst(fifo)];
+		printf("current fifo node is %d\n", getFirst(fifo));
+		fflush(NULL);
+		currentId = getFirst(fifo);
+		moveFirst(currentVertex);
+		while(!offEnd(currentVertex)){
+			int vertexId = getCurrent(currentVertex);
+			printf("EdgeList of %d:", vertexId);
+			printList(currentVertex);
+			if(g->color[vertexId]==0){
+				g->distance[vertexId] = g->distance[currentId]+1;
+				//insertAfterLast(g->parent[vertexId], currentId);
+				insertAfterLast(fifo, getCurrent(currentVertex));
+				printf("inserting  %d into fifo \n", getCurrent(currentVertex));
+				fflush(NULL);
+				g->color[vertexId] = 1;
+				moveNext(currentVertex);
+				if(atLast(currentVertex)) break;
+			}
+		}
+		g->color[currentId] = 2;
+		if(!isEmpty(fifo))
+			deleteFirst(fifo);
+		}	
+	}*/
+
+
+@
+
+
+1.56
+log
+@-
+@
+text
+@a180 3
+/*void printPath(GraphRef g, int dest){
+	printList(list);
+}*/
+@
+
+
+1.55
+log
+@-
+@
+text
+@a169 37
+	return NULL;
+}
+
+void printPath(GraphRef g, int dest){
+	/*ListRef path = g->vertices[dest];
+	moveLast(path);
+	if(!isEmpty(path))
+		printf("The path to %d is ", dest);
+	else{
+		printf("There is no path to %d", dest);
+		return;
+	}
+	while(!offEnd(path)){
+		printf("%d, ", getCurrent(path));
+		movePrev(path);
+	}
+	printf("\n");*/
+	
+
+	/*int path[g->numVertices];
+	int size = 0;
+	int current = g->vertices[dest];
+	int iter = g->parent[dest];
+	for(int i=0; iter!=-1; i++){
+		path[i] = iter;
+		iter = g->parent[iter]; 
+		++size;
+	}
+	printf("Path to %d: ", dest);
+	for(int i=size; i>-1; --i){
+		if(i=size && path[i]==-1)
+			printf("None exists");
+		if(path[i]!=-1)
+			printf("%d, ", path[i]);
+	}
+	printf("\n");*/
+
+d178 4
+d183 1
+a183 1
+}
+@
+
+
+1.54
+log
+@-
+@
+text
+@d208 1
+d211 2
+a212 1
+		printf("%d, ",path);
+d215 1
+@
+
+
+1.53
+log
+@-
+@
+text
+@d187 3
+a189 1
+	int path[g->numVertices];
+d205 8
+a212 1
+	printf("\n");
+@
+
+
+1.52
+log
+@-
+@
+text
+@d203 1
+@
+
+
+1.51
+log
+@-
+@
+text
+@d9 2
+a10 2
+	ListRef *parent;
+	//int* parent;
+d30 2
+a31 1
+		g->parent[i] = newList();
+d53 1
+a53 1
+/*void resetParent(GraphRef g){
+d57 1
+a57 1
+}*/
+d62 1
+a62 1
+//resetParent(g);
+d65 1
+a65 1
+void addParent(GraphRef g, int edge, int current){
+d78 1
+a78 1
+}
+d105 2
+a106 2
+				//g->parent[edge] = g->vertices[current];
+				addParent(g, edge, current);
+d169 2
+a170 1
+	return g->parent[dest];
+d174 1
+a174 1
+	ListRef path = g->vertices[dest];
+d186 17
+a202 1
+	printf("\n");
+@
+
+
+1.50
+log
+@-
+@
+text
+@d52 1
+a52 1
+void resetParent(GraphRef g){
+d56 1
+a56 1
+}
+d199 4
+a202 2
+		if(i!=0)
+			printf("Parent %d\n", g->parent[i]);
+@
+
+
+1.49
+log
+@-
+@
+text
+@d68 1
+a68 1
+	if(parent == NULL){
+d85 1
+a85 1
+	g->parent[source]=NULL;
+@
+
+
+1.48
+log
+@-
+@
+text
+@d68 1
+a68 1
+	if(!isEmpty(parent)){
+@
+
+
+1.47
+log
+@-
+@
+text
+@d30 1
+a30 1
+		g->parent[i] = -1;
+d64 12
+a75 2
+void addParent(int edge, int current){
+	
+d105 1
+a105 1
+				addParent(edge, current);
+@
+
+
+1.46
+log
+@-
+@
+text
+@d64 5
+d95 2
+a96 1
+				insertAfterLast(g->parent[edge], g->vertices[current]);
+@
+
+
+1.45
+log
+@-
+@
+text
+@d10 1
+d22 1
+d30 1
+a30 1
+		g->parent[i] = newList();
+d52 6
+d61 1
+d71 1
+d89 2
+a90 1
+				g->parent[edge] = g->vertices[current];
+@
+
+
+1.44
+log
+@-
+@
+text
+@d173 1
+a173 1
+			printf("Parent %d\n", getCurrent(g->parent[i]));
+@
+
+
+1.43
+log
+@-
+@
+text
+@d172 3
+a174 2
+		moveFirst(g->parent[i]);
+		printf("\tColor %d, Prev %d, Dist %d", g->color[i], getCurrent(g->parent[i]), g->distance[i]); 
+@
+
+
+1.42
+log
+@-
+@
+text
+@d172 1
+@
+
+
+1.41
+log
+@-
+@
+text
+@a177 1
+		if(atLast(index)) break;
+@
+
+
+1.40
+log
+@-
+@
+text
+@a56 2
+	int maxIters = g->numVertices*2-1;
+	int currentIter = 0;
+a80 1
+				++currentIter;
+@
+
+
+1.39
+log
+@-
+@
+text
+@a90 2
+		printf("%d, %d",currentIter, maxIters); 
+		if(currentIter>=maxIters) break;
+@
+
+
+1.38
+log
+@-
+@
+text
+@d71 1
+a71 1
+		printf("Current: %d\n", current);
+d77 1
+a77 1
+			printf("Edge: %d\n", edge);
+@
+
+
+1.37
+log
+@-
+@
+text
+@d179 1
+a179 1
+		int index = g->vertices[i];
+@
+
+
+1.36
+log
+@-
+@
+text
+@d75 1
+a75 1
+		while(!offEnd(edgeList) && !isEmpty(edgeList)){
+@
+
+
+1.35
+log
+@-
+@
+text
+@d149 16
+@
+
+
+1.34
+log
+@-
+@
+text
+@d75 1
+a75 1
+		while(!offEnd(edgeList)){
+d85 1
+a85 1
+			if(!offEnd(edgeList))
+@
+
+
+1.33
+log
+@-
+@
+text
+@d85 1
+a85 1
+		//	if(!offEnd(edgeList))
+@
+
+
+1.32
+log
+@-
+@
+text
+@d85 1
+a85 1
+			if(!offEnd(edgeList))
+@
+
+
+1.31
+log
+@-
+@
+text
+@d90 2
+a91 1
+		//if(atLast(list)) break; 
+@
+
+
+1.30
+log
+@-
+@
+text
+@d91 1
+a91 1
+		if(maxIters<=currentIter) return;
+@
+
+
+1.29
+log
+@-
+@
+text
+@d91 1
+a91 1
+		if(currentIter<=currentIter) return;
+@
+
+
+1.28
+log
+@-
+@
+text
+@d55 1
+d57 2
+d81 1
+a81 1
+				g->parent[edge] = current;
+d83 1
+d90 2
+a91 2
+		if(atLast(list)) break; 
+
+@
+
+
+1.27
+log
+@-
+@
+text
+@d85 2
+a86 1
+		g->color[current] = 2; 
+@
+
+
+1.26
+log
+@-
+@
+text
+@d64 4
+a67 1
+		if(current > g->numVertices) break;
+a75 1
+				insertAfterLast(list, edge);
+d79 1
+@
+
+
+1.25
+log
+@-
+@
+text
+@d73 1
+a76 1
+				insertAfterLast(list, edge);
+@
+
+
+1.24
+log
+@-
+@
+text
+@d60 2
+d74 2
+a76 1
+				g->color[edge] = 1;
+@
+
+
+1.23
+log
+@-
+@
+text
+@d60 1
+a60 1
+	while(!isEmpty(list) && !offEnd(list)){
+d62 1
+a77 1
+	if(!isEmpty(list) && !offEnd(list)) 
+d79 1
+a79 1
+	g->color[current] = 2; 
+@
+
+
+1.22
+log
+@-
+@
+text
+@d74 5
+a78 3
+			moveNext(edgeList);
+		} 
+	deleteFirst(list);
+@
+
+
+1.21
+log
+@-
+@
+text
+@d60 1
+a60 1
+	while(!isEmpty(list)){
+@
+
+
+1.20
+log
+@-
+@
+text
+@d62 1
+a62 1
+		printf("Current: %d", current);
+d68 1
+a68 1
+			printf("Edge: %d", edge);
+@
+
+
+1.19
+log
+@-
+@
+text
+@d63 1
+@
+
+
+1.18
+log
+@-
+@
+text
+@d67 1
+a67 1
+			printf("Edge: ", edge);
+@
+
+
+1.17
+log
+@-
+@
+text
+@d62 1
+d67 1
+@
+
+
+1.16
+log
+@-
+@
+text
+@d56 1
+d58 29
+a86 1
+	ListRef fifo = newList();
+d121 1
+a121 1
+	}
+@
+
+
+1.15
+log
+@-
+@
+text
+@d75 1
+a75 1
+			printf("EdgeList of %d", vertexId);
+@
+
+
+1.14
+log
+@-
+@
+text
+@d75 2
+@
+
+
+1.13
+log
+@-
+@
+text
+@d65 1
+a65 1
+	while(!offEnd(fifo)){
+d70 1
+d80 1
+d87 2
+a88 1
+		deleteFirst(fifo);
+@
+
+
+1.12
+log
+@-
+@
+text
+@d69 1
+a69 1
+	//	printf("current fifo node is %d\n", getFirst(fifo));
+d78 1
+a78 1
+	//			printf("inserting  %d into fifo \n", getCurrent(currentVertex));
+@
+
+
+1.11
+log
+@-
+@
+text
+@d69 1
+a69 1
+		printf("current fifo node is %d\n", getFirst(fifo));
+d78 1
+a78 1
+				printf("inserting  %d into fifo \n", getCurrent(currentVertex));
+@
+
+
+1.10
+log
+@-
+@
+text
+@d78 1
+@
+
+
+1.9
+log
+@-
+@
+text
+@d69 1
+@
+
+
+1.8
+log
+@-
+@
+text
+@d104 16
+@
+
+
+1.7
+log
+@-
+@
+text
+@d68 1
+a68 1
+		currentVertex = g->vertices[getCurrent(fifo)];
+@
+
+
+1.6
+log
+@-
+@
+text
+@d66 1
+@
+
+
+1.5
+log
+@-
+@
+text
+@d74 1
+a74 2
+				insertAfterLast(g->parent[vertexId], currentId);
+			//	insertAfterLast(g->parent[vertexId], vertexId);
+@
+
+
+1.4
+log
+@-
+@
+text
+@d74 1
+a74 1
+				g->parent[vertexId] = currentId;
+@
+
+
+1.3
+log
+@-
+@
+text
+@d66 1
+a66 1
+		moveFirst(fifo);
+d68 1
+a68 1
+		currentId = getCurrent(fifo);
+@
+
+
+1.2
+log
+@-
+@
+text
+@d74 1
+a74 1
+				g->parent[vertexId] = currentVertex;
+@
+
+
+1.1
+log
+@-
+@
+text
+@d21 1
+@

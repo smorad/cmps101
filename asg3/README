@@ -1,0 +1,20 @@
+smorad@ucsc.edu
+
+Each header file is commented properly and both drivers demonstrate that the ADT classes are functioning correctly
+
+My hash table using linear probing and table doubling for collision resolution.
+
+Both drivers and recommend should contain no memory leaks.
+
+The program will not recommend a book that a customer has already purchased.
+
+My makefile is nice and compiles all 3 executables with just 1 makefile.
+
+I (hope) I have generally good style.
+
+I'm hoping that since I did both extra points, I can get a 10/10
+
+If you need to see the structure of my hash table, just uncomment the debugHash(h) on line 107 of recommend.c,
+or just call debugHash yourself wherever you want.
+
+My program seems to have a little trouble with test2, but there is too much data for me to sift through to try and debug it.

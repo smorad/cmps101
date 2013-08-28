@@ -1,0 +1,1703 @@
+head	1.77;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.77
+date	2013.04.18.02.40.48;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2013.04.18.02.38.38;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2013.04.18.02.38.08;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2013.04.18.02.37.32;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2013.04.16.06.10.15;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2013.04.16.06.09.55;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2013.04.16.05.59.48;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2013.04.15.21.52.57;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2013.04.15.21.51.37;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2013.04.15.21.21.17;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2013.04.15.21.20.51;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2013.04.15.20.51.07;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2013.04.15.19.57.26;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2013.04.15.19.54.44;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2013.04.15.19.54.17;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2013.04.15.19.39.56;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2013.04.15.05.27.29;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2013.04.15.05.27.10;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2013.04.15.04.45.14;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2013.04.15.04.31.41;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2013.04.15.04.28.25;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2013.04.15.04.23.40;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2013.04.15.04.23.07;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2013.04.15.04.21.14;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2013.04.15.04.20.12;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2013.04.15.04.15.27;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2013.04.15.04.10.33;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2013.04.13.21.09.16;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2013.04.13.02.07.08;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2013.04.13.02.05.47;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2013.04.13.02.05.09;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2013.04.13.02.04.35;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2013.04.13.02.04.18;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2013.04.13.02.03.08;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2013.04.13.02.02.59;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2013.04.13.02.02.27;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2013.04.13.02.02.12;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2013.04.11.06.05.50;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2013.04.11.06.02.42;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2013.04.11.06.02.21;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2013.04.11.06.02.07;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2013.04.11.06.01.16;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2013.04.11.06.00.45;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2013.04.11.05.59.54;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2013.04.11.05.59.36;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2013.04.11.05.52.38;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2013.04.11.05.51.54;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2013.04.11.05.47.52;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2013.04.11.01.14.47;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2013.04.11.01.09.19;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2013.04.11.01.08.53;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2013.04.11.01.08.19;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2013.04.11.01.07.52;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2013.04.11.01.07.25;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2013.04.11.01.06.46;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2013.04.11.01.06.29;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2013.04.11.01.04.50;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2013.04.11.01.03.52;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2013.04.11.01.02.39;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2013.04.11.01.01.13;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2013.04.11.01.00.49;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2013.04.11.01.00.12;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2013.04.11.00.59.50;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2013.04.11.00.59.27;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2013.04.11.00.58.58;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2013.04.11.00.58.04;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2013.04.11.00.56.10;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2013.04.11.00.55.44;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2013.04.11.00.55.07;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2013.04.11.00.54.37;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2013.04.11.00.54.25;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2013.04.11.00.53.48;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2013.04.11.00.52.10;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.04.11.00.49.34;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.11.00.49.04;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.11.00.45.07;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.11.00.43.29;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.77
+log
+@-
+@
+text
+@#include <stdio.h>
+#include <assert.h>
+#include <stdbool.h>
+#include <stdlib.h>
+typedef struct ListHdr *ListRef;
+typedef struct Node *NodeRef;
+struct ListHdr{
+NodeRef first;
+NodeRef last;
+NodeRef current;
+};
+
+struct Node{
+long key;
+NodeRef next;
+NodeRef prev;
+};
+
+// Constructors
+ /*** Constructors-Destructors ***/
+ ListRef newList(void){
+	ListRef list = malloc(sizeof (struct ListHdr));
+	//assert(list != NULL);
+	list->first = list ->last = list->current = NULL;
+	return list;
+}
+ void freeList(ListRef* pL){
+	free(pL);
+}
+ /*** Access functions ***/
+ int isEmpty(ListRef L){
+	//assert(L!=NULL);
+ 	if(L->first == NULL) return true;
+	else return false;
+}
+ int offEnd(ListRef L){
+	if(L->current == NULL) return true;
+	else return false;
+}
+int atFirst(ListRef L){
+	if(!offEnd(L)&&L->current == L->first) return true;
+	else return false;
+}
+ int atLast(ListRef L){
+	if(!offEnd(L)&&L->current == L->last) return true;
+	else return false;
+}
+ long getFirst(ListRef L){
+	//assert (L->first!=NULL);
+	return L->first->key;
+}
+ long getLast(ListRef L){
+	//assert (L->last!=NULL);
+	return L->last->key;
+}
+ long getCurrent(ListRef L){
+	//assert(L->current!=NULL);
+	return L->current->key;
+}
+ int getLength(ListRef L){
+	NodeRef iter = L->first;
+	int count = 0;
+	while(iter!=NULL){
+		count++;
+		iter = iter->next;
+	}
+	return count;
+} 
+ int equals (ListRef A, ListRef B) {
+	NodeRef iterA = A->first;
+	NodeRef iterB = B->first;
+	while(iterA !=NULL && iterB!=NULL){
+	if(iterA->key != iterB->key) return false;
+	iterA = iterA->next;
+	iterB = iterB->next;
+	}
+return true;
+}
+// /*** Manipulation procedures ***/
+ void makeEmpty(ListRef L){
+	while(L->first!=NULL){
+		NodeRef tmp = L->first;
+		L->first = L->first->next;
+		free(tmp);
+	}
+}
+ void moveFirst(ListRef L){
+	//assert(!isEmpty(L));
+	if(L->first !=NULL)
+		L->current = L->first;
+}
+ void moveLast(ListRef L){
+	//assert(!isEmpty(L));
+	if(L->last!=NULL)
+		L->current = L->last;
+}
+ void movePrev(ListRef L){
+	//assert(!offEnd(L));
+	if(L->current->prev !=NULL)
+		L->current = L->current->prev;
+} 
+ void moveNext(ListRef L){
+	//assert(!offEnd(L));
+	if(L->current->next!=NULL)
+		L->current = L->current->next;
+}
+
+void insertAfterLast(ListRef L, long data);
+ ListRef copyList(ListRef L){
+	ListRef newList = malloc(sizeof(struct ListHdr));
+	for(NodeRef iter = L-> first; iter !=NULL; iter=iter->next){
+		insertAfterLast(newList, iter->key);
+	}
+	return newList;
+}
+
+ NodeRef createNode(long key){
+	NodeRef node = malloc(sizeof(struct Node));
+	node -> next = NULL;
+	node -> prev = NULL;
+	node -> key = key;
+	return node;
+}
+
+ void insertBeforeFirst(ListRef L, long data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first= L->last =L->current= node;
+	else {
+		node -> next = L->first;
+		L->first->prev = node;
+		L->first = node;
+	}	
+	//printf("Is empty: %d", isEmpty(L));
+}
+ void insertAfterLast(ListRef L, long data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first = L->last =L->current= node;
+	else{
+		node->prev = L->last;
+		L->last->next = node;
+		L->last = node;
+	}
+} 
+ void insertBeforeCurrent(ListRef L, long data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first = L->last =L->current = node;
+	else if(L ->current ->prev == NULL){
+		L->first->prev = node;
+		node -> next = L->first;
+		L -> first = node;
+	}
+	else{
+		NodeRef a = L->current->prev;
+		NodeRef b = node;
+		NodeRef c = L->current;
+		b->next = a->next;
+		b->prev = a;
+		a->next = b;
+		c->prev = b;
+	}
+	
+} 
+ void insertAfterCurrent(ListRef L, long data){
+	NodeRef node = createNode(data);
+	if(isEmpty(L)) L->first= L->last = L->current =node;
+	else if(L->current->next == NULL){
+		L->last->next = node;
+		node-> prev = L->last;
+		L->last = node;
+	}
+	else{
+		NodeRef a = L->current;
+		NodeRef b = node;
+		NodeRef c = L->current->next;
+		b->next = a->next;
+		b->prev = a;
+		a->next = b;
+		c->prev = b;
+	}
+}
+
+void insertionSort(ListRef L, long data){
+	NodeRef iter = L->first;
+	while(iter!=NULL){
+		if(data<iter->key){
+			insertBeforeCurrent(L, data);
+			return;
+		}
+		iter=iter->next;
+	}
+	insertAfterLast(L, data);
+}
+ void deleteFirst(ListRef L){
+	//assert(!isEmpty(L));
+	NodeRef tmp = L->first;
+	L->first = L-> first ->next;
+	L->first->prev = NULL;
+	if(L->current == tmp)
+		L->current = L->first;
+	free(tmp); 
+}
+ void deleteLast(ListRef L){
+	//assert(!isEmpty(L));
+	NodeRef tmp = L->last;
+	L->last = L-> last ->prev;
+	L->last->next = NULL;
+	if(L->current == tmp)
+		L->current = L->last; 
+	free(tmp); 
+}
+ void deleteCurrent(ListRef L){
+	if(L->current == L->first) deleteFirst(L);
+	else if(L->current == L-> last) deleteLast(L);
+	else{						//using a, b, and c makes it conceptually easier
+		NodeRef a = L->current->prev;
+		NodeRef b = L->current;
+		NodeRef c = L->current->next;
+		if(a!=NULL)
+			a->next = b->next;	
+		c->prev = b->prev;
+		L->current=c;		
+		free(b);
+	}
+	
+}
+ /*** Other operations ***/
+ void printList(FILE* out, ListRef L){
+	//assert(!isEmpty(L));
+	NodeRef node = L->first;
+	while(node != NULL){
+		fprintf(out,"%lu  ", node->key);
+		node = node->next;
+	}
+	fprintf(out, "\n");
+}
+
+bool isCurrentNull(ListRef L){return L->current==NULL;}
+@
+
+
+1.76
+log
+@-
+@
+text
+@d183 3
+a185 4
+	NodeRef handle = L->current;
+	moveFirst(L);
+	while(!offEnd(L)){
+		if(data<getCurrent(L)){
+a186 1
+			L->current=handle;
+d189 1
+a189 1
+		moveNext(L);
+a191 1
+	L->current = handle;
+@
+
+
+1.75
+log
+@-
+@
+text
+@d187 1
+a187 1
+			insertBeforeCurrent(L)
+@
+
+
+1.74
+log
+@-
+@
+text
+@d182 1
+a182 1
+void insertionSort(Listref L, long data){
+@
+
+
+1.73
+log
+@-
+@
+text
+@a159 5
+//		node -> prev = L->current->prev;	//error
+//		node -> next = L->current;
+//		L->current->prev = node;
+//		L->current->prev->next = node;		//added
+		//L->current = node;			//added 2
+a178 5
+//		node->prev = L->current;
+//		node->next = L->current->next;
+//		L->current->next = node;
+	//	L->current->prev->next = node;		//added length=2i
+//		L->current = node;			//added 2
+d181 15
+d217 1
+a217 2
+	else{
+		//NodeRef tmp = b;
+d222 1
+a222 1
+			a->next = b->next;		//a==null causing segfault, probably a different function
+d224 1
+a224 1
+		L->current=c;		//why?
+a225 7
+		
+//		NodeRef tmp = L->current;
+//		L->current->prev = L->current->next;
+	//	L->current->prev->next =;
+	//	L->current->next->prev
+//		L->current = L->current->next;
+//		free(tmp);
+@
+
+
+1.72
+log
+@-
+@
+text
+@d243 1
+a243 1
+bool isCurrentNull(ListRef L){return L->current==NULL);
+@
+
+
+1.71
+log
+@-
+@
+text
+@d242 2
+@
+
+
+1.70
+log
+@-
+@
+text
+@d23 1
+a23 1
+	assert(list != NULL);
+d32 1
+a32 1
+	assert(L!=NULL);
+d49 1
+a49 1
+	assert (L->first!=NULL);
+d53 1
+a53 1
+	assert (L->last!=NULL);
+d57 1
+a57 1
+	assert(L->current!=NULL);
+d88 3
+a90 2
+	assert(!isEmpty(L));
+	L->current = L->first;
+d93 3
+a95 2
+	assert(!isEmpty(L));
+	L->current = L->last;
+d98 3
+a100 2
+	assert(!offEnd(L));
+	L->current = L->current->prev;
+d103 3
+a105 2
+	assert(!offEnd(L));
+	L->current = L->current->next;
+d108 1
+a108 1
+void insertAfterLast();
+d127 1
+a127 2
+	//NodeRef node = malloc(sizeof(struct Node));
+	if(isEmpty(L)) L->first= L->last = node;
+d137 1
+a137 1
+	if(isEmpty(L)) L->first = L->last = node;
+d146 1
+a146 1
+	if(isEmpty(L)) L->first = L->last = node;
+d148 1
+d153 12
+a164 3
+		node -> prev = L->current->prev;
+		node -> next = L->current;
+		L->current->prev = node;
+d170 1
+a170 1
+	if(isEmpty(L)) L->first= L->last = node;
+d172 1
+d177 12
+a188 3
+		node->prev = L->current;
+		node->next = L->current->next;
+		L->current->next = node;
+d192 1
+a192 1
+	assert(!isEmpty(L));
+d196 2
+d201 1
+a201 1
+	assert(!isEmpty(L));
+d205 2
+d213 16
+a228 3
+		NodeRef tmp = L->current;
+		L->current->prev = L->current->next;
+		free(tmp);
+d234 1
+a234 1
+	assert(!isEmpty(L));
+@
+
+
+1.69
+log
+@-
+@
+text
+@d183 2
+a184 2
+	if(L->current = L->first) deleteFirst(L);
+	else if(L->current = L-> last) deleteLast(L);
+d188 1
+@
+
+
+1.68
+log
+@-
+@
+text
+@a151 1
+	//	L->
+d155 36
+a190 4
+ void insertAfterCurrent(ListRef L, long data); 
+ void deleteFirst(ListRef L); 
+ void deleteLast(ListRef L); 
+ void deleteCurrent(ListRef L);
+@
+
+
+1.67
+log
+@-
+@
+text
+@d104 1
+d108 1
+a108 1
+		insertAfter(newList, iter->key);
+@
+
+
+1.66
+log
+@-
+@
+text
+@a14 2
+//void data;
+//int count;
+a18 3
+//typedef struct Node *NodeRef;
+//typedef struct ListHdr *ListRef;
+
+d104 8
+a111 1
+ ListRef copyList(ListRef L);
+@
+
+
+1.65
+log
+@-
+@
+text
+@d33 1
+a33 1
+	free(*pL);
+@
+
+
+1.64
+log
+@-
+@
+text
+@d141 1
+a141 1
+	else if(list ->current ->prev == NULL){
+d143 1
+a143 1
+		list -> first = node;
+@
+
+
+1.63
+log
+@-
+@
+text
+@d140 1
+a140 1
+	if(isempty(L)) L->first = L->last = node;
+@
+
+
+1.62
+log
+@-
+@
+text
+@d149 1
+a149 1
+		L->
+@
+
+
+1.61
+log
+@-
+@
+text
+@d138 15
+a152 1
+ void insertBeforeCurrent(ListRef L, long data); 
+@
+
+
+1.60
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out,"%lu", node->key);
+@
+
+
+1.59
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out,"%lu\n", node->key);
+d151 1
+@
+
+
+1.58
+log
+@-
+@
+text
+@d145 1
+a145 1
+	assert(L->first !=NULL);
+@
+
+
+1.57
+log
+@-
+@
+text
+@d127 1
+a127 1
+	printf("Is empty: %d", isEmpty(L));
+@
+
+
+1.56
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out,"%lu", node->key);
+@
+
+
+1.55
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out,node->key, "%lu");
+@
+
+
+1.54
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out, (char*)node->key, "%lu");
+@
+
+
+1.53
+log
+@-
+@
+text
+@d148 1
+a148 1
+		fprintf(out, (char*)node->key, "%lg");
+@
+
+
+1.52
+log
+@-
+@
+text
+@d129 9
+a137 1
+ void insertAfterLast(ListRef L, long data); 
+@
+
+
+1.51
+log
+@-
+@
+text
+@d115 1
+a115 1
+	return *node;
+@
+
+
+1.50
+log
+@-
+@
+text
+@d115 1
+a115 1
+	return node;
+@
+
+
+1.49
+log
+@-
+@
+text
+@d37 1
+@
+
+
+1.48
+log
+@-
+@
+text
+@d136 1
+@
+
+
+1.47
+log
+@-
+@
+text
+@d126 1
+a126 1
+	printf("Is empty: %s", isEmpty(L));
+@
+
+
+1.46
+log
+@-
+@
+text
+@d126 1
+a126 1
+	printf("Is empty: ", isEmpty(L), "%s%s");
+@
+
+
+1.45
+log
+@-
+@
+text
+@d126 1
+a126 1
+	printf("Is empty: ", isEmpty(L), "%s");
+@
+
+
+1.44
+log
+@-
+@
+text
+@d126 1
+a126 1
+	printf("Is empty: ", isEmpty(L), "%s", "%s");
+d138 1
+a138 1
+		fprintf(stdout, (char*)node->key, "%lg");
+@
+
+
+1.43
+log
+@-
+@
+text
+@d126 1
+a126 1
+	printf("Is empty: ", isEmpty(L), "%s", "%s")
+@
+
+
+1.42
+log
+@-
+@
+text
+@a120 1
+	printf("Is empty: ", isEmpty(L), "%s", "%s")
+d126 1
+@
+
+
+1.41
+log
+@-
+@
+text
+@d121 1
+a121 1
+	printf("Is empty: ", isEmpty(l), "%s", "%s")
+@
+
+
+1.40
+log
+@-
+@
+text
+@d121 1
+@
+
+
+1.39
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(stdout, (long)node->key, "%lg");
+@
+
+
+1.38
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(stdout, *node->key, "%lg");
+@
+
+
+1.37
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(stdout, &node->key, "%lg");
+@
+
+
+1.36
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(out, (int)node->key, "%lg");
+@
+
+
+1.35
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(out, node->key, "%c");
+@
+
+
+1.34
+log
+@-
+@
+text
+@d137 1
+a137 1
+		fprintf(out, node->key, "%lg");
+@
+
+
+1.33
+log
+@-
+@
+text
+@d77 1
+a77 1
+	if(iterA->key != iterB->) return false;
+@
+
+
+1.32
+log
+@-
+@
+text
+@d64 19
+a82 2
+ int getLength(ListRef L){} 
+ int equals (ListRef A, ListRef B) {}
+@
+
+
+1.31
+log
+@-
+@
+text
+@d101 2
+a102 2
+	//NodeRef node = createNode(data);
+	NodeRef node = malloc(sizeof(struct Node));
+d105 1
+a105 1
+		node -> next = first;
+@
+
+
+1.30
+log
+@-
+@
+text
+@d101 2
+a102 1
+	NodeRef node = createNode(data);
+@
+
+
+1.29
+log
+@-
+@
+text
+@d91 9
+a122 8
+ ListRef copyList(ListRef L);
+ NodeRef createNode(long key){
+	NodeRef node = malloc(sizeof(struct Node));
+	node -> next = NULL;
+	node -> prev = NULL;
+	node -> key = key;
+	return node;
+}
+@
+
+
+1.28
+log
+@-
+@
+text
+@d92 7
+a98 1
+	
+@
+
+
+1.27
+log
+@-
+@
+text
+@d104 1
+a104 1
+		fprintf(out, node->key, "%lg")
+@
+
+
+1.26
+log
+@-
+@
+text
+@d65 1
+a65 1
+ int equals (ListRef A, ListRef) {}
+@
+
+
+1.25
+log
+@-
+@
+text
+@d90 1
+a90 1
+}
+@
+
+
+1.24
+log
+@-
+@
+text
+@d61 1
+a61 1
+	assert(L->!=NULL);
+@
+
+
+1.23
+log
+@-
+@
+text
+@d29 1
+a29 1
+	list->first = list ->last = list->curr = NULL;
+@
+
+
+1.22
+log
+@-
+@
+text
+@d6 1
+a6 1
+//typedef struct Node *NodeRef;
+d17 2
+a18 2
+Node next;
+Node prev;
+@
+
+
+1.21
+log
+@-
+@
+text
+@d6 1
+a6 1
+typedef struct Node *NodeRef;
+d17 2
+a18 2
+NodeRef next;
+NodeRef prev;
+@
+
+
+1.20
+log
+@-
+@
+text
+@d5 3
+a7 3
+//typedef struct ListHdr *ListRef;
+//typedef struct Node *NodeRef;
+typedef struct{
+d11 1
+a11 1
+}ListHdr;
+d13 1
+a13 1
+typedef struct{
+d19 1
+a19 1
+}Node;
+@
+
+
+1.19
+log
+@-
+@
+text
+@d7 1
+a7 1
+struct ListHdr {
+d11 1
+a11 1
+}Node *NodeRef;
+d13 1
+a13 1
+typedef struct Node {
+d19 1
+a19 1
+}ListHdr *ListRef;
+@
+
+
+1.18
+log
+@-
+@
+text
+@d5 2
+a6 2
+typedef struct ListHdr *ListRef;
+typedef struct Node *NodeRef;
+d11 1
+a11 1
+};
+d19 1
+a19 1
+};
+@
+
+
+1.17
+log
+@-
+@
+text
+@d28 1
+a28 1
+	assert(List != NULL);
+@
+
+
+1.16
+log
+@-
+@
+text
+@d27 1
+a27 1
+	ListRef list = malloc(sizeof (struct ListHDR));
+@
+
+
+1.15
+log
+@-
+@
+text
+@d4 1
+a4 1
+
+@
+
+
+1.14
+log
+@-
+@
+text
+@d15 2
+a16 2
+void* data;
+int count;
+@
+
+
+1.13
+log
+@-
+@
+text
+@d15 1
+a15 1
+void data;
+@
+
+
+1.12
+log
+@-
+@
+text
+@d8 3
+a10 3
+NodeType first;
+NodeType last;
+NodeType current;
+d17 2
+a18 2
+NodeType next;
+NodeType prev;
+@
+
+
+1.11
+log
+@-
+@
+text
+@d5 3
+a7 2
+
+typedef struct ListHdr {
+d11 1
+a11 1
+} ListType;
+d19 1
+a19 1
+} NodeType;
+d21 2
+a22 2
+typedef struct Node *NodeRef;
+typedef struct ListHdr *ListRef;
+@
+
+
+1.10
+log
+@-
+@
+text
+@a10 1
+typedef ListType *ListRef;
+@
+
+
+1.9
+log
+@-
+@
+text
+@a5 2
+//typedef struct Node *NodeRef;
+//typedef struct ListHdr *ListRef;
+d21 2
+@
+
+
+1.8
+log
+@-
+@
+text
+@d13 1
+a13 1
+
+@
+
+
+1.7
+log
+@-
+@
+text
+@d6 2
+a7 2
+typedef struct Node *NodeRef;
+typedef struct ListHdr *ListRef;
+@
+
+
+1.6
+log
+@-
+@
+text
+@d6 2
+a7 2
+typedef struct Node *NodeRef
+typedef struct ListHdr *ListRef
+@
+
+
+1.5
+log
+@-
+@
+text
+@d6 2
+a13 1
+typedef struct ListHdr *ListRef
+a22 1
+typedef struct Node *NodeRef
+@
+
+
+1.4
+log
+@-
+@
+text
+@d12 1
+a12 1
+//typedef struct ListHdr *ListRef
+d22 1
+a22 1
+//typedef struct Node *NodeRef
+@
+
+
+1.3
+log
+@-
+@
+text
+@d12 1
+a12 1
+typedef struct ListHdr *ListRef
+d22 1
+a22 1
+typedef struct Node *NodeRef
+@
+
+
+1.2
+log
+@-
+@
+text
+@d4 1
+a4 1
+#define "null" NULL;
+d28 2
+a29 2
+	assert(List != null);
+	list->first = list ->last = list->curr = null;
+d37 1
+a37 1
+ 	if(L->first == null) return true;
+d41 1
+a41 1
+	if(L->current == null) return true;
+d53 1
+a53 1
+	assert (L->first!=null);
+d57 1
+a57 1
+	assert (L->last!=null);
+d61 1
+a61 1
+	assert(L->!=null);
+d68 1
+a68 1
+	while(L->first!=null){
+d103 1
+a103 1
+	while(node != null){
+d111 2
+a112 2
+	node -> next = null;
+	node -> prev = null;
+@
+
+
+1.1
+log
+@-
+@
+text
+@d12 2
+d22 2
+@

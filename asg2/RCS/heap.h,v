@@ -1,0 +1,103 @@
+head	1.5;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.5
+date	2013.05.01.19.41.27;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2013.05.01.18.52.25;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2013.04.28.01.14.51;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2013.04.28.00.45.23;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2013.04.27.21.27.07;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.5
+log
+@-
+@
+text
+@#ifndef __HEAP_H
+#define	__HEAP_H 
+typedef struct HeapHdr *heap;
+
+heap newHeap (int maxSize);
+
+int isFull(heap h);
+
+int isEmpty(heap h);
+
+int maxValue(heap h);
+
+void deleteMax(heap h);
+
+void insert(heap h, int priority);
+
+void debugHeap(heap h);
+
+int getMin(int a, int b, int c);
+
+void delete(heap h);
+#endif
+@
+
+
+1.4
+log
+@-
+@
+text
+@a4 2
+//extern const int size = 80;
+//const int size = 10;
+@
+
+
+1.3
+log
+@-
+@
+text
+@d23 1
+@
+
+
+1.2
+log
+@-
+@
+text
+@d21 2
+@
+
+
+1.1
+log
+@-
+@
+text
+@d19 2
+@
